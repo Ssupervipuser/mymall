@@ -1,0 +1,191 @@
+INFO 2024-02-29 09:34:33,429 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 09:45:30,606 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-02-29 09:45:31,784 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 09:47:17,371 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-02-29 09:47:18,294 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 09:57:03,654 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-02-29 09:57:06,118 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 09:58:05,377 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-02-29 09:58:06,272 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:00:00,720 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:00:01,469 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:00:33,128 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-02-29 10:00:34,172 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:01:02,727 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-02-29 10:01:03,661 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:02:37,096 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:02:38,482 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:03:23,447 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:03:24,696 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:03:37,425 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:03:38,536 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:05:40,921 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:05:42,520 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:07:03,410 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:07:04,242 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:07:46,353 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:07:47,109 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:08:23,922 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:08:24,721 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:08:51,008 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:08:52,142 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-02-29 10:10:04,711 log 241 Not Found: /sms_codes/15736705140
+WARNING 2024-02-29 10:10:04,712 basehttp 212 "GET /sms_codes/15736705140 HTTP/1.1" 404 2404
+WARNING 2024-02-29 10:10:05,214 log 241 Not Found: /favicon.ico
+WARNING 2024-02-29 10:10:05,215 basehttp 212 "GET /favicon.ico HTTP/1.1" 404 2374
+INFO 2024-02-29 10:10:56,237 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\urls.py changed, reloading.
+INFO 2024-02-29 10:10:56,958 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:10:57,973 basehttp 212 "GET /sms_codes/15736705140 HTTP/1.1" 200 5279
+INFO 2024-02-29 10:10:58,404 basehttp 212 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-29 10:10:58,413 basehttp 212 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-29 10:10:58,422 basehttp 212 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-29 10:10:58,425 basehttp 212 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-29 10:10:58,443 basehttp 212 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-29 10:10:58,452 basehttp 212 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-29 10:10:58,462 basehttp 212 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-29 10:10:58,467 basehttp 212 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-29 10:10:58,470 basehttp 212 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-29 10:10:58,475 basehttp 212 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-29 10:10:58,498 basehttp 212 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-29 10:11:44,246 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:11:45,169 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:11:49,634 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:11:53,939 views 27 836319
+INFO 2024-02-29 10:11:54,351 basehttp 212 "GET /sms_codes/15736705140 HTTP/1.1" 200 5279
+INFO 2024-02-29 10:17:24,585 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:17:25,717 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:18:20,389 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:18:22,392 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:19:05,342 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:19:06,268 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:21:14,983 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:21:16,989 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:24:13,762 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:24:15,379 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:24:49,376 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-02-29 10:24:54,111 log 241 Not Found: /mobiles/18866666666/count/
+WARNING 2024-02-29 10:24:54,112 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 404 2440
+WARNING 2024-02-29 10:24:54,183 log 241 Not Found: /mobiles/18866666666/count/
+WARNING 2024-02-29 10:24:54,184 log 241 Not Found: /sms_codes/18866666666/
+WARNING 2024-02-29 10:24:54,184 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 404 2440
+WARNING 2024-02-29 10:24:54,185 basehttp 212 "GET /sms_codes/18866666666/ HTTP/1.1" 404 2428
+WARNING 2024-02-29 10:24:58,874 log 241 Not Found: /mobiles/18866666666/count/
+WARNING 2024-02-29 10:24:58,875 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 404 2440
+WARNING 2024-02-29 10:24:58,981 log 241 Not Found: /mobiles/18866666666/count/
+WARNING 2024-02-29 10:24:58,982 log 241 Not Found: /sms_codes/18866666666/
+WARNING 2024-02-29 10:24:58,983 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 404 2440
+WARNING 2024-02-29 10:24:58,984 basehttp 212 "GET /sms_codes/18866666666/ HTTP/1.1" 404 2428
+INFO 2024-02-29 10:32:36,044 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:32:37,947 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:33:19,023 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:33:20,106 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:33:45,888 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:33:46,867 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:33:56,880 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:33:58,117 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:34:17,486 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:34:18,389 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:35:02,182 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:35:17,780 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:35:20,046 views 25 396083
+INFO 2024-02-29 10:35:20,511 basehttp 212 "GET /sms_codes/15736705140 HTTP/1.1" 200 5279
+WARNING 2024-02-29 10:35:23,137 log 241 Bad Request: /sms_codes/15736705140
+WARNING 2024-02-29 10:35:23,138 basehttp 212 "GET /sms_codes/15736705140 HTTP/1.1" 400 5310
+INFO 2024-02-29 10:41:25,656 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:41:26,444 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:42:13,016 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:42:14,329 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 10:43:40,429 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 10:43:41,785 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:14:37,632 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:15:04,480 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:15:52,555 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:22:59,151 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 11:23:00,370 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:26:40,595 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 11:26:41,707 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:28:58,761 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\views.py changed, reloading.
+INFO 2024-02-29 11:28:59,682 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:29:23,678 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:33:35,895 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:35:32,498 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:36:17,795 autoreload 266 D:\senior_homework\graduation project\my_mall\celery_tasks\sms\tasks.py changed, reloading.
+INFO 2024-02-29 11:36:18,462 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:37:20,763 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:37:59,488 autoreload 266 D:\senior_homework\graduation project\my_mall\celery_tasks\sms\tasks.py changed, reloading.
+INFO 2024-02-29 11:38:00,157 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:38:05,617 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:38:23,068 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:39:38,810 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-02-29 11:39:39,404 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:44:17,009 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:44:41,111 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:44:44,212 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-02-29 11:44:44,987 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:45:23,445 views 25 537083
+INFO 2024-02-29 11:45:23,507 basehttp 212 "GET /sms_codes/15736705140 HTTP/1.1" 200 5279
+INFO 2024-02-29 11:49:23,367 autoreload 266 D:\senior_homework\graduation project\my_mall\celery_tasks\main.py changed, reloading.
+INFO 2024-02-29 11:49:26,411 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:53:45,340 views 25 196619
+INFO 2024-02-29 11:53:45,426 basehttp 212 "GET /sms_codes/15736705140 HTTP/1.1" 200 5279
+INFO 2024-02-29 11:54:19,166 autoreload 266 D:\senior_homework\graduation project\my_mall\celery_tasks\main.py changed, reloading.
+INFO 2024-02-29 11:54:20,191 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:57:36,730 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-02-29 11:57:37,764 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 11:58:03,424 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-02-29 11:58:04,802 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 13:09:41,762 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-02-29 13:09:44,224 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 13:09:51,946 basehttp 212 "GET /usernames/test12/count/ HTTP/1.1" 200 31
+INFO 2024-02-29 13:10:14,218 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 13:10:15,183 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 200 34
+WARNING 2024-02-29 13:10:15,336 log 241 Not Found: /sms_codes/18866666666/
+WARNING 2024-02-29 13:10:15,337 basehttp 212 "GET /sms_codes/18866666666/ HTTP/1.1" 404 2847
+WARNING 2024-02-29 13:11:39,260 log 241 Not Found: /sms_codes/18866666666/
+WARNING 2024-02-29 13:11:39,261 basehttp 212 "GET /sms_codes/18866666666/ HTTP/1.1" 404 2847
+INFO 2024-02-29 13:11:39,267 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 13:12:11,292 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 13:12:11,292 basehttp 212 "GET /usernames/test12/count/ HTTP/1.1" 200 31
+INFO 2024-02-29 13:12:11,803 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\verifications\urls.py changed, reloading.
+INFO 2024-02-29 13:12:12,533 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 13:12:21,565 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 13:12:27,787 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 13:12:27,787 basehttp 212 "GET /usernames/test12/count/ HTTP/1.1" 200 31
+INFO 2024-02-29 13:12:44,864 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 13:12:44,867 views 25 674445
+INFO 2024-02-29 13:12:44,917 basehttp 212 "GET /sms_codes/18866666666/ HTTP/1.1" 200 16
+INFO 2024-02-29 13:13:09,297 basehttp 212 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2024-02-29 13:13:09,302 basehttp 212 "GET /usernames/test12/count/ HTTP/1.1" 200 31
+INFO 2024-02-29 13:13:09,306 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 13:13:09,907 basehttp 212 "POST /users/ HTTP/1.1" 201 51
+INFO 2024-02-29 13:14:07,304 basehttp 212 "GET /usernames/test12/count/ HTTP/1.1" 200 31
+INFO 2024-02-29 13:14:11,951 basehttp 212 "GET /mobiles/18866666666/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 13:34:18,468 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-02-29 13:34:19,726 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 13:41:08,516 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-02-29 13:41:09,780 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 13:42:56,735 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-02-29 13:42:57,634 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 13:44:08,909 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-02-29 13:44:10,805 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 13:44:15,171 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-02-29 13:44:18,238 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 13:45:30,281 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-02-29 13:45:31,364 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 13:51:43,153 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 13:52:35,885 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-02-29 13:52:36,942 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 14:08:43,659 basehttp 212 "GET /usernames/test1/count/ HTTP/1.1" 200 30
+INFO 2024-02-29 14:08:59,706 basehttp 212 "GET /mobiles/18866666667/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 14:09:02,303 views 25 933670
+INFO 2024-02-29 14:09:02,310 basehttp 212 "GET /mobiles/18866666667/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 14:09:02,646 basehttp 212 "GET /sms_codes/18866666667/ HTTP/1.1" 200 16
+INFO 2024-02-29 14:09:30,290 basehttp 212 "GET /mobiles/18866666667/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 14:09:30,290 basehttp 212 "GET /usernames/test1/count/ HTTP/1.1" 200 30
+INFO 2024-02-29 14:09:30,904 basehttp 212 "POST /users/ HTTP/1.1" 201 225
+INFO 2024-02-29 14:18:17,331 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-02-29 14:18:20,672 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 14:18:39,370 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-02-29 14:18:40,272 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 14:19:04,754 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-02-29 14:19:06,165 autoreload 668 Watching for file changes with StatReloader
