@@ -88,3 +88,10 @@ class CreateUserSerializer(serializers.ModelSerializer):
         user.token = token
 
         return user
+
+
+
+class UserDetailSerializer(serializers.ModelSerializer):
+    class Meta:
+        model=User
+        fields=['id','username','mobile','email','eamil_active']

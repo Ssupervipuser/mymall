@@ -216,15 +216,21 @@ LOGGING = {
 
 ###########DRF配置###############
 REST_FRAMEWORK = {
-# 异常处理
-    'EXCEPTION_HANDLER': 'my_mall.utils.exceptions.exception handler',
+    # 异常处理utils/exceptions.py
+    'EXCEPTION_HANDLER': 'utils.exceptions.exception_handler',
+    #用户认证
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
+        'rest_framework.authentication.SessionAuthentication',
+        'rest_framework.authentication.BasicAuthentication',
+    ),
 }
 
 ##############JWT#################
 JWT_AUTH = {
-    'JWT_EXPIRATION_DELTA': datetime.timedelta(days=1),#jwt有效期
-    #修改jwt登录视图的构造响应数据函数
-    'JWT_RESPONSE_PAYLOAD_HANDLER':'apps.users.utils.jwt_response_payload_handler',
+    'JWT_EXPIRATION_DELTA': datetime.timedelta(days=1),  # jwt有效期
+    # 修改jwt登录视图的构造响应数据函数
+    'JWT_RESPONSE_PAYLOAD_HANDLER': 'apps.users.utils.jwt_response_payload_handler',
 }
 
 ##############修改django用户认证#####

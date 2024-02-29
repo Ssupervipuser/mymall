@@ -7,5 +7,7 @@ urlpatterns = [
     path('usernames/<username:username>/count/', UsernameCountView.as_view()),
     path('mobiles/<mobile:mobile>/count/', MobileCountView.as_view()),
     #login
-    path('authorizations/',obtain_jwt_token)
+    path('authorizations/',obtain_jwt_token),
+    #userdetail
+    path('user/',UserDetailView.as_view()),
 ]
