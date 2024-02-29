@@ -704,3 +704,4 @@ INFO 2024-02-29 18:23:45,822 autoreload 668 Watching for file changes with StatR
 WARNING 2024-02-29 18:25:42,189 log 241 Not Found: /addresses/
 WARNING 2024-02-29 18:25:42,190 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
 INFO 2024-02-29 18:25:42,225 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-02-29 18:25:46,534 basehttp 212 "GET /areas/140000/ HTTP/1.1" 200 404
