@@ -189,3 +189,46 @@ INFO 2024-02-29 14:18:39,370 autoreload 266 D:\senior_homework\graduation projec
 INFO 2024-02-29 14:18:40,272 autoreload 668 Watching for file changes with StatReloader
 INFO 2024-02-29 14:19:04,754 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
 INFO 2024-02-29 14:19:06,165 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 14:21:48,753 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-02-29 14:21:50,908 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 14:22:43,827 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-02-29 14:22:45,224 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 14:23:09,483 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+WARNING 2024-02-29 14:23:09,527 log 241 Not Found: /user/
+WARNING 2024-02-29 14:23:09,528 basehttp 212 "GET /user/ HTTP/1.1" 404 2959
+INFO 2024-02-29 14:25:49,001 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-02-29 14:25:49,530 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 173
+INFO 2024-02-29 14:48:06,752 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-02-29 14:57:56,518 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 14:58:10,911 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 14:58:23,820 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-02-29 14:58:24,826 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 14:59:19,904 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-02-29 14:59:20,977 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 15:00:00,134 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-02-29 15:23:54,258 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 15:23:55,247 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 15:27:56,299 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 15:27:57,070 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 15:29:46,930 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 15:29:47,929 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 15:30:36,565 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 15:30:37,331 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 15:32:20,552 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 15:32:21,458 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 15:37:13,893 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 15:37:15,357 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 15:38:07,223 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 15:38:08,546 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 15:39:40,566 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 15:39:42,165 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 15:40:03,657 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 15:40:05,080 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 15:41:02,343 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 15:41:03,057 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 15:41:55,450 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-02-29 15:41:56,396 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 16:02:04,029 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\models.py changed, reloading.
+INFO 2024-02-29 16:02:05,145 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 16:02:32,907 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\models.py changed, reloading.
+INFO 2024-02-29 16:02:33,966 autoreload 668 Watching for file changes with StatReloader

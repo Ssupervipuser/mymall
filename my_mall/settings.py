@@ -223,4 +223,11 @@ REST_FRAMEWORK = {
 ##############JWT#################
 JWT_AUTH = {
     'JWT_EXPIRATION_DELTA': datetime.timedelta(days=1),#jwt有效期
+    #修改jwt登录视图的构造响应数据函数
+    'JWT_RESPONSE_PAYLOAD_HANDLER':'apps.users.utils.jwt_response_payload_handler',
 }
+
+##############修改django用户认证#####
+AUTHENTICATION_BACKENDS = [
+    'apps.users.utils.UsernameMobileAuthBackend',
+]
