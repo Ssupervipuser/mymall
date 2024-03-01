@@ -705,3 +705,799 @@ WARNING 2024-02-29 18:25:42,189 log 241 Not Found: /addresses/
 WARNING 2024-02-29 18:25:42,190 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
 INFO 2024-02-29 18:25:42,225 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
 INFO 2024-02-29 18:25:46,534 basehttp 212 "GET /areas/140000/ HTTP/1.1" 200 404
+INFO 2024-02-29 18:34:22,223 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\models.py changed, reloading.
+INFO 2024-02-29 18:34:23,624 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 18:35:18,948 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\models.py changed, reloading.
+INFO 2024-02-29 18:35:20,003 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 19:21:28,618 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2024-02-29 19:21:28,779 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+WARNING 2024-02-29 19:21:28,784 log 241 Not Found: /addresses/
+WARNING 2024-02-29 19:21:28,785 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
+WARNING 2024-02-29 19:28:17,913 log 241 Not Found: /addresses/
+WARNING 2024-02-29 19:28:17,916 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
+INFO 2024-02-29 19:28:17,964 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-02-29 19:28:45,706 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+WARNING 2024-02-29 19:28:45,717 log 241 Not Found: /addresses/
+WARNING 2024-02-29 19:28:45,718 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
+INFO 2024-02-29 19:29:03,003 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-02-29 19:29:03,006 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+WARNING 2024-02-29 19:29:03,028 log 241 Not Found: /addresses/
+WARNING 2024-02-29 19:29:03,029 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
+INFO 2024-02-29 19:29:56,323 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+WARNING 2024-02-29 19:29:56,361 log 241 Not Found: /addresses/
+WARNING 2024-02-29 19:29:56,362 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
+INFO 2024-02-29 19:30:01,070 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+WARNING 2024-02-29 19:30:01,083 log 241 Not Found: /addresses/
+WARNING 2024-02-29 19:30:01,085 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
+INFO 2024-02-29 19:30:11,364 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-02-29 19:30:11,369 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+WARNING 2024-02-29 19:30:11,408 log 241 Not Found: /addresses/
+WARNING 2024-02-29 19:30:11,410 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
+INFO 2024-02-29 19:30:14,714 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+WARNING 2024-02-29 19:30:14,724 log 241 Not Found: /addresses/
+WARNING 2024-02-29 19:30:14,726 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
+INFO 2024-02-29 19:30:39,505 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-02-29 19:30:39,509 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+WARNING 2024-02-29 19:30:39,554 log 241 Not Found: /addresses/
+WARNING 2024-02-29 19:30:39,556 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
+INFO 2024-02-29 19:31:16,050 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+WARNING 2024-02-29 19:31:16,060 log 241 Not Found: /addresses/
+WARNING 2024-02-29 19:31:16,061 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
+INFO 2024-02-29 19:31:38,615 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+ERROR 2024-02-29 19:31:38,647 exceptions 24 [<apps.users.views.UserDetailView object at 0x00000250E65E0850>](1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+ERROR 2024-02-29 19:31:38,872 log 241 Internal Server Error: /user/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 414, in initial
+    self.perform_authentication(request)
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 324, in perform_authentication
+    request.user
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\request.py", line 227, in user
+    self._authenticate()
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\request.py", line 380, in _authenticate
+    user_auth_tuple = authenticator.authenticate(self)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\authentication.py", line 43, in authenticate
+    user = self.authenticate_credentials(payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\authentication.py", line 59, in authenticate_credentials
+    user = User.objects.get_by_natural_key(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\base_user.py", line 54, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 633, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\utils\exceptions.py", line 25, in exception_handler
+    response = Response({'message': '服务器内部错误'}, status=status.HTTP_507_INSUFFICIENT._STORAGE)
+                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_507_INSUFFICIENT'
+ERROR 2024-02-29 19:31:38,890 basehttp 212 "GET /user/ HTTP/1.1" 500 218046
+INFO 2024-02-29 19:31:49,153 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+WARNING 2024-02-29 19:31:49,169 log 241 Not Found: /addresses/
+WARNING 2024-02-29 19:31:49,170 basehttp 212 "GET /addresses/ HTTP/1.1" 404 3443
+INFO 2024-02-29 19:36:41,973 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+ERROR 2024-02-29 19:36:41,991 exceptions 24 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x00000250E6715890>](1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+ERROR 2024-02-29 19:36:42,061 log 241 Internal Server Error: /authorizations/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\views.py", line 57, in post
+    if serializer.is_valid():
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\serializers.py", line 429, in run_validation
+    value = self.validate(value)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\serializers.py", line 50, in validate
+    user = authenticate(**credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\debug.py", line 42, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\__init__.py", line 77, in authenticate
+    user = backend.authenticate(request, **credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\utils.py", line 36, in authenticate
+    user=get_user_by_account(username)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\utils.py", line 25, in get_user_by_account
+    user=User.objects.get(username=account)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 633, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\utils\exceptions.py", line 25, in exception_handler
+    response = Response({'message': '服务器内部错误'}, status=status.HTTP_507_INSUFFICIENT._STORAGE)
+                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_507_INSUFFICIENT'
+ERROR 2024-02-29 19:36:42,070 basehttp 212 "POST /authorizations/ HTTP/1.1" 500 223819
+INFO 2024-02-29 19:36:53,809 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-02-29 19:36:58,571 exceptions 24 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x000001A09E46E350>](1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+ERROR 2024-02-29 19:36:58,636 log 241 Internal Server Error: /authorizations/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\views.py", line 57, in post
+    if serializer.is_valid():
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\serializers.py", line 429, in run_validation
+    value = self.validate(value)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\serializers.py", line 50, in validate
+    user = authenticate(**credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\debug.py", line 42, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\__init__.py", line 77, in authenticate
+    user = backend.authenticate(request, **credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\utils.py", line 36, in authenticate
+    user=get_user_by_account(username)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\utils.py", line 25, in get_user_by_account
+    user=User.objects.get(username=account)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 633, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\utils\exceptions.py", line 25, in exception_handler
+    response = Response({'message': '服务器内部错误'}, status=status.HTTP_507_INSUFFICIENT._STORAGE)
+                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_507_INSUFFICIENT'
+ERROR 2024-02-29 19:36:58,656 basehttp 212 "POST /authorizations/ HTTP/1.1" 500 223819
+INFO 2024-02-29 19:38:15,722 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+ERROR 2024-02-29 19:38:15,736 exceptions 24 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x000001A0A07D71D0>](1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+ERROR 2024-02-29 19:38:15,776 log 241 Internal Server Error: /authorizations/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\views.py", line 57, in post
+    if serializer.is_valid():
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\serializers.py", line 429, in run_validation
+    value = self.validate(value)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\serializers.py", line 50, in validate
+    user = authenticate(**credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\debug.py", line 42, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\__init__.py", line 77, in authenticate
+    user = backend.authenticate(request, **credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\utils.py", line 36, in authenticate
+    user=get_user_by_account(username)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\utils.py", line 25, in get_user_by_account
+    user=User.objects.get(username=account)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 633, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\utils\exceptions.py", line 25, in exception_handler
+    response = Response({'message': '服务器内部错误'}, status=status.HTTP_507_INSUFFICIENT._STORAGE)
+                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_507_INSUFFICIENT'
+ERROR 2024-02-29 19:38:15,794 basehttp 212 "POST /authorizations/ HTTP/1.1" 500 223819
+ERROR 2024-02-29 19:38:39,802 exceptions 24 [<rest_framework_jwt.views.ObtainJSONWebToken object at 0x000001A0A060F590>](1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+ERROR 2024-02-29 19:38:39,844 log 241 Internal Server Error: /authorizations/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\views.py", line 57, in post
+    if serializer.is_valid():
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\serializers.py", line 429, in run_validation
+    value = self.validate(value)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\serializers.py", line 50, in validate
+    user = authenticate(**credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\debug.py", line 42, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\__init__.py", line 77, in authenticate
+    user = backend.authenticate(request, **credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\utils.py", line 36, in authenticate
+    user=get_user_by_account(username)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\utils.py", line 25, in get_user_by_account
+    user=User.objects.get(username=account)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 633, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'tb_users.default_address_id' in 'field list'")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\utils\exceptions.py", line 25, in exception_handler
+    response = Response({'message': '服务器内部错误'}, status=status.HTTP_507_INSUFFICIENT._STORAGE)
+                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_507_INSUFFICIENT'
+ERROR 2024-02-29 19:38:39,850 basehttp 212 "POST /authorizations/ HTTP/1.1" 500 223819
+INFO 2024-02-29 19:43:00,170 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 19:43:01,724 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 19:44:18,942 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-02-29 19:44:21,490 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-02-29 19:44:40,684 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-02-29 19:44:41,246 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-02-29 19:46:54,247 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-02-29 19:47:17,309 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-02-29 19:47:17,817 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-02-29 19:48:15,586 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-02-29 19:48:22,809 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-02-29 19:52:02,460 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-02-29 19:52:13,883 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-02-29 19:54:33,834 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-02-29 19:54:33,855 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-02-29 19:54:34,044 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2024-02-29 19:54:34,269 log 241 Not Found: /browse_histories/
+WARNING 2024-02-29 19:54:34,270 basehttp 212 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2024-02-29 20:14:11,532 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+WARNING 2024-02-29 20:14:11,724 log 241 Not Found: /browse_histories/
+WARNING 2024-02-29 20:14:11,725 basehttp 212 "GET /browse_histories/ HTTP/1.1" 404 3464
+INFO 2024-02-29 20:14:18,464 basehttp 212 "GET /usernames/test1/count/ HTTP/1.1" 200 30
+INFO 2024-02-29 21:10:20,991 basehttp 212 "GET /usernames/test1/count/ HTTP/1.1" 200 30
+INFO 2024-02-29 21:10:26,279 basehttp 212 "GET /usernames/admin/count/ HTTP/1.1" 200 30
+INFO 2024-02-29 21:10:52,195 basehttp 212 "GET /mobiles/18811111111/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 21:10:53,780 basehttp 212 "GET /mobiles/18811111111/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 21:10:53,819 views 25 261476
+INFO 2024-02-29 21:10:53,942 basehttp 212 "GET /sms_codes/18811111111/ HTTP/1.1" 200 16
+INFO 2024-02-29 21:11:04,893 basehttp 212 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2024-02-29 21:11:04,897 basehttp 212 "GET /usernames/admin/count/ HTTP/1.1" 200 30
+INFO 2024-02-29 21:11:04,906 basehttp 212 "GET /mobiles/18811111111/count/ HTTP/1.1" 200 34
+INFO 2024-02-29 21:11:05,487 basehttp 212 "POST /users/ HTTP/1.1" 201 225
+INFO 2024-02-29 21:17:01,254 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-02-29 21:27:18,685 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-01 08:51:14,993 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\models.py changed, reloading.
+INFO 2024-03-01 08:51:17,245 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 08:53:36,208 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 08:53:37,408 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 09:25:13,892 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 09:25:14,980 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 09:27:20,078 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-03-01 09:27:20,838 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 09:29:54,460 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-03-01 09:29:55,355 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 09:33:23,094 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 09:33:29,682 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-01 09:33:30,217 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-01 09:33:33,392 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-01 09:33:33,419 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-01 09:33:33,489 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2024-03-01 09:33:33,718 log 241 Not Found: /browse_histories/
+WARNING 2024-03-01 09:33:33,719 basehttp 212 "GET /browse_histories/ HTTP/1.1" 404 4221
+INFO 2024-03-01 09:33:35,571 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+WARNING 2024-03-01 09:33:35,606 log 241 Method Not Allowed: /addresses/
+WARNING 2024-03-01 09:33:35,607 basehttp 212 "GET /addresses/ HTTP/1.1" 405 40
+INFO 2024-03-01 09:33:35,610 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-03-01 09:33:43,765 basehttp 212 "GET /areas/130000/ HTTP/1.1" 200 464
+INFO 2024-03-01 09:33:44,584 basehttp 212 "GET /areas/130400/ HTTP/1.1" 200 464
+WARNING 2024-03-01 09:34:04,103 log 241 Bad Request: /addresses/
+WARNING 2024-03-01 09:34:04,103 basehttp 212 "POST /addresses/ HTTP/1.1" 400 36
+INFO 2024-03-01 09:35:04,666 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-03-01 09:35:10,415 log 241 Bad Request: /addresses/
+WARNING 2024-03-01 09:35:10,416 basehttp 212 "POST /addresses/ HTTP/1.1" 400 36
+INFO 2024-03-01 09:35:59,639 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 09:38:27,117 basehttp 212 "GET /areas/130000/ HTTP/1.1" 200 6841
+INFO 2024-03-01 09:38:27,645 basehttp 212 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-03-01 09:38:27,672 basehttp 212 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-03-01 09:38:27,681 basehttp 212 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-03-01 09:38:27,735 basehttp 212 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-03-01 09:38:27,746 basehttp 212 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-03-01 09:38:27,748 basehttp 212 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-03-01 09:38:27,757 basehttp 212 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-03-01 09:38:27,758 basehttp 212 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-03-01 09:38:27,768 basehttp 212 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-03-01 09:38:27,788 basehttp 212 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-03-01 09:38:27,815 basehttp 212 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+WARNING 2024-03-01 09:49:57,833 log 241 Bad Request: /addresses/
+WARNING 2024-03-01 09:49:57,839 basehttp 212 "POST /addresses/ HTTP/1.1" 400 36
+WARNING 2024-03-01 09:53:20,591 log 241 Bad Request: /addresses/
+WARNING 2024-03-01 09:53:20,594 basehttp 212 "POST /addresses/ HTTP/1.1" 400 36
+INFO 2024-03-01 09:53:38,161 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-03-01 09:53:40,892 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 09:55:17,823 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-03-01 09:55:20,284 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 09:55:43,804 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-03-01 09:55:46,303 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:01:05,850 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:01:10,084 basehttp 212 "POST /addresses/ HTTP/1.1" 201 247
+INFO 2024-03-01 10:06:17,239 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+WARNING 2024-03-01 10:06:17,249 log 241 Method Not Allowed: /addresses/
+WARNING 2024-03-01 10:06:17,250 basehttp 212 "GET /addresses/ HTTP/1.1" 405 40
+INFO 2024-03-01 10:18:20,238 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 10:18:21,774 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:19:22,915 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 10:19:24,353 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:20:48,894 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 10:20:50,068 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:21:22,897 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-03-01 10:21:23,988 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:21:54,341 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-03-01 10:21:55,445 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:23:40,501 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\serializer.py changed, reloading.
+INFO 2024-03-01 10:23:41,986 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:24:18,027 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 10:24:19,209 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:24:50,854 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-03-01 10:24:50,861 basehttp 212 "GET /addresses/ HTTP/1.1" 200 312
+INFO 2024-03-01 10:25:23,906 basehttp 212 "OPTIONS /addresses/1/title/ HTTP/1.1" 200 0
+INFO 2024-03-01 10:25:23,960 basehttp 212 "PUT /addresses/1/title/ HTTP/1.1" 200 13
+INFO 2024-03-01 10:25:25,287 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-03-01 10:25:25,306 basehttp 212 "GET /addresses/ HTTP/1.1" 200 301
+INFO 2024-03-01 10:26:18,955 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 10:26:20,006 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:26:38,333 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 10:26:39,150 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:26:55,213 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 10:26:56,125 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:26:58,829 basehttp 212 "GET /areas/130000/ HTTP/1.1" 200 464
+INFO 2024-03-01 10:26:58,830 basehttp 212 "GET /areas/130400/ HTTP/1.1" 200 464
+INFO 2024-03-01 10:27:08,863 basehttp 212 "OPTIONS /addresses/1/ HTTP/1.1" 200 0
+INFO 2024-03-01 10:27:08,886 basehttp 212 "PUT /addresses/1/ HTTP/1.1" 200 231
+INFO 2024-03-01 10:27:10,851 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-03-01 10:27:10,866 basehttp 212 "GET /addresses/ HTTP/1.1" 200 296
+INFO 2024-03-01 10:29:12,678 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 10:29:13,785 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:30:25,047 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 10:30:25,972 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:33:56,060 basehttp 212 "GET /areas/130000/ HTTP/1.1" 200 464
+INFO 2024-03-01 10:33:56,119 basehttp 212 "GET /areas/130400/ HTTP/1.1" 200 659
+INFO 2024-03-01 10:34:04,772 basehttp 212 "PUT /addresses/1/ HTTP/1.1" 200 234
+INFO 2024-03-01 10:35:47,840 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 10:35:48,805 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 10:38:20,096 basehttp 212 "GET /areas/220000/ HTTP/1.1" 200 659
+INFO 2024-03-01 10:38:21,099 basehttp 212 "GET /areas/130404/ HTTP/1.1" 200 659
+INFO 2024-03-01 10:38:36,494 basehttp 212 "POST /addresses/ HTTP/1.1" 201 230
+INFO 2024-03-01 10:38:38,355 basehttp 212 "OPTIONS /addresses/2/status/ HTTP/1.1" 200 0
+INFO 2024-03-01 10:38:38,374 basehttp 212 "PUT /addresses/2/status/ HTTP/1.1" 200 16
+INFO 2024-03-01 10:38:40,013 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-03-01 10:38:40,020 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+INFO 2024-03-01 11:33:16,531 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-01 11:33:20,292 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-01 11:34:11,163 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-01 11:34:11,793 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-01 11:34:15,248 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-01 11:34:15,289 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-01 11:34:15,352 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2024-03-01 11:34:15,412 log 241 Not Found: /browse_histories/
+WARNING 2024-03-01 11:34:15,413 basehttp 212 "GET /browse_histories/ HTTP/1.1" 404 5565
+INFO 2024-03-01 11:40:35,639 basehttp 212 "OPTIONS /users/change_password/ HTTP/1.1" 200 0
+WARNING 2024-03-01 11:40:35,653 log 241 Not Found: /users/change_password/
+WARNING 2024-03-01 11:40:35,654 basehttp 212 "POST /users/change_password/ HTTP/1.1" 404 5581
+INFO 2024-03-01 11:45:52,976 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-03-01 11:45:54,448 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 11:47:15,153 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 11:47:16,356 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 11:50:22,797 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-01 11:50:23,553 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 11:52:07,449 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-01 11:52:08,005 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-01 11:52:18,293 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-01 11:52:18,314 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-01 11:52:18,373 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2024-03-01 11:52:18,401 log 241 Not Found: /browse_histories/
+WARNING 2024-03-01 11:52:18,402 basehttp 212 "GET /browse_histories/ HTTP/1.1" 404 5565
+INFO 2024-03-01 11:53:17,826 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-01 11:53:20,986 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+WARNING 2024-03-01 11:53:21,068 log 241 Not Found: /browse_histories/
+WARNING 2024-03-01 11:53:21,069 basehttp 212 "GET /browse_histories/ HTTP/1.1" 404 5565
