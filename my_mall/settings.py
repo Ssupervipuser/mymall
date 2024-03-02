@@ -11,14 +11,17 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 import os
 import datetime
+import sys
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
+
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
-
+# sys.path.insert(0, os.path.join(BASE_DIR, 'apps'))
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-j1%&j^xgldv@u020lb$rn&de03gaw!k21!!t8jxq%n@)32gn-9'
 
@@ -42,12 +45,13 @@ INSTALLED_APPS = [
     'rest_framework',
     'ckeditor',
     'ckeditor_uploader',
+    # 'dj_crontab-0.8.0.dist-info'
 
 
     'apps.users',
     'apps.verifications',
     'apps.areas',
-    'apps.goods',
+    'apps.goods.apps.GoodsConfig',
     'apps.contents',
 ]
 
@@ -64,11 +68,26 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'my_mall.urls'
 
+# TEMPLATES = [
+#     {
+#         'BACKEND': 'django.template.backends.django.DjangoTemplates',
+#         # 'DIRS': [BASE_DIR / 'templates'],
+#         'DIRS': [os.path.join(BASE_DIR, 'templates')],
+#         'APP_DIRS': True,
+#         'OPTIONS': {
+#             'context_processors': [
+#                 'django.template.context_processors.debug',
+#                 'django.template.context_processors.request',
+#                 'django.contrib.auth.context_processors.auth',
+#                 'django.contrib.messages.context_processors.messages',
+#             ],
+#         },
+#     },
+# ]
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR / 'templates']
-        ,
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -80,6 +99,7 @@ TEMPLATES = [
         },
     },
 ]
+
 
 WSGI_APPLICATION = 'my_mall.wsgi.application'
 
@@ -274,3 +294,15 @@ CKEDITOR_UPLOAD_PATH = ''  # 上传图片保存路径，使用了FastDFS，所�
 # c=client.upload_by_filename('C:/Users/31952/Desktop/screenshot-1708996630918.png')
 
 # cd var/fdfs/storage/data
+
+
+#静态化主页存储路径
+GENERATED_STATIC_HTML_FILES_DIR = os.path.join(os.path.dirname(os.path.dirname(BASE_DIR)), 'front_end_pc')
+# print(GENERATED_STATIC_HTML_FILES_DIR)
+
+# 定时任务
+# CRONJOBS = [
+#     # 每5分钟执行一次生成主页静态文件
+#     ('*/5 * * * *', 'contents.crons.generate_static_index_html', '>> D:/senior_homework/graduation project/my_mall/logscrontab.log')
+#
+# ]

@@ -22,7 +22,7 @@ class FastDFSStorage(Storage):
         # Fdfs_client.upload_by_filename()
         # Fdfs_client.upload_by_buffer()
         # Fdfs_client.upload_by_file()
-        Fdfs_client.up
+
     def _open(self, name, mode='rb'):
         """
         用来打开文件的,但是我们自定义文件存储系统的目的是为了实现存储到远程的FastDFS服务器,不需要打开文件,所以此方重写后什么也不做pass
