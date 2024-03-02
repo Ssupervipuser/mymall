@@ -1501,3 +1501,986 @@ INFO 2024-03-01 11:53:17,826 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 2
 INFO 2024-03-01 11:53:20,986 basehttp 212 "GET /user/ HTTP/1.1" 200 82
 WARNING 2024-03-01 11:53:21,068 log 241 Not Found: /browse_histories/
 WARNING 2024-03-01 11:53:21,069 basehttp 212 "GET /browse_histories/ HTTP/1.1" 404 5565
+INFO 2024-03-01 13:17:50,029 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 13:17:51,227 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 16:01:03,252 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 18:41:12,679 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 18:41:14,947 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 18:41:23,272 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 18:41:24,589 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 18:50:53,692 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 18:50:55,235 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 18:58:01,826 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-01 18:58:02,542 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-01 18:59:48,985 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 18:59:50,445 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:00:08,164 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 19:00:09,484 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:02:46,272 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:03:21,520 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:04:39,249 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\models.py changed, reloading.
+INFO 2024-03-01 19:04:40,736 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:12:22,036 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 19:12:24,293 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:13:40,471 basehttp 212 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-01 19:13:40,495 basehttp 212 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-03-01 19:13:40,770 basehttp 212 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4195
+INFO 2024-03-01 19:13:41,404 basehttp 212 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2024-03-01 19:13:41,415 basehttp 212 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2024-03-01 19:13:41,424 basehttp 212 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2024-03-01 19:13:41,427 basehttp 212 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2024-03-01 19:13:41,433 basehttp 212 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-03-01 19:13:41,463 basehttp 212 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-03-01 19:13:41,481 basehttp 212 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-03-01 19:13:44,271 basehttp 212 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4327
+INFO 2024-03-01 19:13:50,713 basehttp 212 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4327
+INFO 2024-03-01 19:13:57,452 basehttp 212 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4327
+INFO 2024-03-01 19:15:00,242 basehttp 212 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-03-01 19:15:00,408 basehttp 212 "GET /admin/ HTTP/1.1" 200 5123
+INFO 2024-03-01 19:15:00,578 basehttp 212 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-03-01 19:15:00,648 basehttp 212 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-01 19:15:00,656 basehttp 212 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-03-01 19:16:11,851 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-01 19:16:13,023 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:16:25,008 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-01 19:16:26,323 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:16:52,087 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-01 19:16:53,349 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:19:16,080 basehttp 212 "GET /admin/ HTTP/1.1" 200 10487
+INFO 2024-03-01 19:19:19,568 basehttp 212 "GET /admin/auth/group/add/ HTTP/1.1" 200 17922
+INFO 2024-03-01 19:19:19,754 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 19:19:20,118 basehttp 212 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2024-03-01 19:19:20,138 basehttp 212 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-03-01 19:19:20,155 basehttp 212 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2024-03-01 19:19:20,163 basehttp 212 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-03-01 19:19:20,173 basehttp 212 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-03-01 19:19:20,178 basehttp 212 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2024-03-01 19:19:20,178 basehttp 212 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2024-03-01 19:19:20,193 basehttp 212 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2024-03-01 19:19:20,199 basehttp 212 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-03-01 19:19:20,204 basehttp 212 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-03-01 19:19:20,206 basehttp 212 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-03-01 19:19:20,278 basehttp 212 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-03-01 19:19:20,278 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2024-03-01 19:19:20,301 basehttp 212 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-03-01 19:19:20,635 basehttp 212 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-03-01 19:19:20,645 basehttp 212 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+WARNING 2024-03-01 19:20:35,269 log 241 Not Found: /categories/115/skus/
+WARNING 2024-03-01 19:20:35,272 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 5732
+INFO 2024-03-01 19:21:50,092 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\apps.py changed, reloading.
+INFO 2024-03-01 19:21:51,226 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:21:52,173 basehttp 212 "GET /admin/auth/group/add/ HTTP/1.1" 200 17918
+INFO 2024-03-01 19:21:52,363 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 19:22:14,000 basehttp 212 "GET /admin/auth/group/add/ HTTP/1.1" 200 17918
+INFO 2024-03-01 19:22:14,014 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\apps.py changed, reloading.
+INFO 2024-03-01 19:22:15,078 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:22:15,831 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 19:22:30,207 basehttp 212 "GET /admin/auth/group/add/ HTTP/1.1" 200 17920
+INFO 2024-03-01 19:22:30,313 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 19:23:54,921 basehttp 212 "GET /admin/goods/brand/add/ HTTP/1.1" 200 12570
+INFO 2024-03-01 19:23:55,176 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 19:24:14,483 basehttp 212 "GET /admin/goods/goods/add/ HTTP/1.1" 200 26091
+INFO 2024-03-01 19:24:14,627 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 19:24:14,891 basehttp 212 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 1526
+INFO 2024-03-01 19:24:14,897 basehttp 212 "GET /static/ckeditor/ckeditor.css HTTP/1.1" 200 672
+INFO 2024-03-01 19:24:14,917 basehttp 212 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 759716
+INFO 2024-03-01 19:24:14,944 basehttp 212 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-03-01 19:24:14,944 basehttp 212 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2024-03-01 19:24:15,013 basehttp 212 "GET /static/ckeditor/ckeditor/config.js?t=N5UC HTTP/1.1" 200 336
+INFO 2024-03-01 19:24:15,135 basehttp 212 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=N5UC HTTP/1.1" 200 17901
+INFO 2024-03-01 19:24:15,137 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=N5UC HTTP/1.1" 200 48309
+INFO 2024-03-01 19:24:15,253 basehttp 212 "GET /static/ckeditor/ckeditor/styles.js?t=N5UC HTTP/1.1" 200 5577
+INFO 2024-03-01 19:24:15,278 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=N5UC HTTP/1.1" 200 381
+INFO 2024-03-01 19:24:15,278 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=N5UC HTTP/1.1" 200 419
+INFO 2024-03-01 19:24:15,282 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css?t=N5UC HTTP/1.1" 200 1145
+INFO 2024-03-01 19:24:15,282 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/dialog/styles/dialog.css?t=N5UC HTTP/1.1" 200 249
+INFO 2024-03-01 19:24:15,284 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css?t=N5UC HTTP/1.1" 200 1511
+INFO 2024-03-01 19:24:15,338 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=4a1fb11f44 HTTP/1.1" 200 12237
+INFO 2024-03-01 19:24:15,372 basehttp 212 "GET /static/ckeditor/ckeditor/contents.css?t=N5UC HTTP/1.1" 200 3092
+INFO 2024-03-01 19:25:22,242 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/dialog.css?t=N5UC HTTP/1.1" 200 13634
+INFO 2024-03-01 19:25:22,243 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/image/dialogs/image.js?t=N5UC HTTP/1.1" 200 21529
+INFO 2024-03-01 19:25:22,363 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/lock.png HTTP/1.1" 200 506
+INFO 2024-03-01 19:25:22,363 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/close.png HTTP/1.1" 200 615
+INFO 2024-03-01 19:25:22,365 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/refresh.png HTTP/1.1" 200 757
+ERROR 2024-03-01 19:25:31,206 log 241 Internal Server Error: /ckeditor/upload/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\handler.py", line 35, in __getitem__
+    return self._storages[alias]
+           ~~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\handler.py", line 52, in create_storage
+    storage_cls = import_string(backend)
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\module_loading.py", line 15, in cached_import
+    module = import_module(module_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1126, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1126, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'my_mall.utils'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\views.py", line 114, in post
+    filepath = get_upload_filename(uploaded_file.name, request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\views.py", line 83, in get_upload_filename
+    return storage.get_available_name(os.path.join(upload_path, upload_name))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\functional.py", line 266, in inner
+    self._setup()
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\__init__.py", line 38, in _setup
+    self._wrapped = storages[DEFAULT_STORAGE_ALIAS]
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\handler.py", line 43, in __getitem__
+    storage = self.create_storage(params)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\handler.py", line 54, in create_storage
+    raise InvalidStorageError(f"Could not find backend {backend!r}: {e}") from e
+django.core.files.storage.handler.InvalidStorageError: Could not find backend 'my_mall.utils.fastdfs.fdfs_storage.FastDFSStorage': No module named 'my_mall.utils'
+ERROR 2024-03-01 19:25:31,218 basehttp 212 "POST /ckeditor/upload/ HTTP/1.1" 500 152574
+INFO 2024-03-01 19:26:11,089 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-01 19:26:14,841 log 241 Internal Server Error: /ckeditor/upload/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\handler.py", line 35, in __getitem__
+    return self._storages[alias]
+           ~~~~~~~~~~~~~~^^^^^^^
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\views.py", line 114, in post
+    filepath = get_upload_filename(uploaded_file.name, request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\views.py", line 83, in get_upload_filename
+    return storage.get_available_name(os.path.join(upload_path, upload_name))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\functional.py", line 266, in inner
+    self._setup()
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\__init__.py", line 38, in _setup
+    self._wrapped = storages[DEFAULT_STORAGE_ALIAS]
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\handler.py", line 43, in __getitem__
+    storage = self.create_storage(params)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\handler.py", line 55, in create_storage
+    return storage_cls(**options)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\utils\fastdfs\fdfs_storage.py", line 13, in __init__
+    self.base_url = base_url or settings.FDFS_BASE_URL
+                                ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\conf\__init__.py", line 104, in __getattr__
+    val = getattr(_wrapped, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Settings' object has no attribute 'FDFS_BASE_URL'
+ERROR 2024-03-01 19:26:14,843 basehttp 212 "POST /ckeditor/upload/ HTTP/1.1" 500 122150
+INFO 2024-03-01 19:27:37,887 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-01 19:27:40,271 log 241 Internal Server Error: /ckeditor/upload/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\views.py", line 116, in post
+    saved_path = filewrapper.save_as(filepath)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\backends\dummy_backend.py", line 12, in save_as
+    return self.storage_engine.save(filepath, self.file_object)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\base.py", line 38, in save
+    name = self._save(name, content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\utils\fastdfs\fdfs_storage.py", line 39, in _save
+    client = Fdfs_client(self.client_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\fdfs_client\client.py", line 51, in __init__
+    self.tracker_pool = poolclass(**self.trackers)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: fdfs_client.connection.ConnectionPool() argument after ** must be a mapping, not str
+ERROR 2024-03-01 19:27:40,274 basehttp 212 "POST /ckeditor/upload/ HTTP/1.1" 500 106732
+INFO 2024-03-01 19:29:37,543 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 19:30:40,614 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 21:18:26,043 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 21:18:37,588 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 21:19:29,500 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 21:19:31,290 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 21:21:22,809 basehttp 212 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-01 21:21:23,044 basehttp 212 "GET /admin/ HTTP/1.1" 200 10485
+INFO 2024-03-01 21:21:23,419 basehttp 212 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-03-01 21:21:23,471 basehttp 212 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-03-01 21:21:23,472 basehttp 212 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-03-01 21:21:23,528 basehttp 212 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-01 21:21:23,529 basehttp 212 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-03-01 21:21:30,304 basehttp 212 "GET /admin/goods/goods/add/ HTTP/1.1" 200 26091
+INFO 2024-03-01 21:21:30,485 basehttp 212 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2024-03-01 21:21:30,486 basehttp 212 "GET /static/ckeditor/ckeditor.css HTTP/1.1" 200 672
+INFO 2024-03-01 21:21:30,489 basehttp 212 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-03-01 21:21:30,491 basehttp 212 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 1526
+INFO 2024-03-01 21:21:30,501 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2024-03-01 21:21:30,503 basehttp 212 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2024-03-01 21:21:30,516 basehttp 212 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-03-01 21:21:30,519 basehttp 212 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2024-03-01 21:21:30,520 basehttp 212 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-03-01 21:21:30,528 basehttp 212 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 759716
+INFO 2024-03-01 21:21:30,537 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 21:21:30,538 basehttp 212 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2024-03-01 21:21:30,539 basehttp 212 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-03-01 21:21:30,556 basehttp 212 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2024-03-01 21:21:30,557 basehttp 212 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-03-01 21:21:30,569 basehttp 212 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-03-01 21:21:30,576 basehttp 212 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-03-01 21:21:30,599 basehttp 212 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-03-01 21:21:30,693 basehttp 212 "GET /static/ckeditor/ckeditor/config.js?t=N5UC HTTP/1.1" 200 336
+INFO 2024-03-01 21:21:30,909 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=N5UC HTTP/1.1" 200 48309
+INFO 2024-03-01 21:21:30,910 basehttp 212 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=N5UC HTTP/1.1" 200 17901
+INFO 2024-03-01 21:21:31,005 basehttp 212 "GET /static/ckeditor/ckeditor/styles.js?t=N5UC HTTP/1.1" 200 5577
+INFO 2024-03-01 21:21:31,040 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=N5UC HTTP/1.1" 200 381
+INFO 2024-03-01 21:21:31,046 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css?t=N5UC HTTP/1.1" 200 1145
+INFO 2024-03-01 21:21:31,047 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/dialog/styles/dialog.css?t=N5UC HTTP/1.1" 200 249
+INFO 2024-03-01 21:21:31,047 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=N5UC HTTP/1.1" 200 419
+INFO 2024-03-01 21:21:31,052 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css?t=N5UC HTTP/1.1" 200 1511
+INFO 2024-03-01 21:21:31,097 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=4a1fb11f44 HTTP/1.1" 200 12237
+INFO 2024-03-01 21:21:31,141 basehttp 212 "GET /static/ckeditor/ckeditor/contents.css?t=N5UC HTTP/1.1" 200 3092
+INFO 2024-03-01 21:21:35,959 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/dialog.css?t=N5UC HTTP/1.1" 200 13634
+INFO 2024-03-01 21:21:35,960 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/image/dialogs/image.js?t=N5UC HTTP/1.1" 200 21529
+INFO 2024-03-01 21:21:36,077 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/close.png HTTP/1.1" 200 615
+INFO 2024-03-01 21:21:36,077 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/lock.png HTTP/1.1" 200 506
+INFO 2024-03-01 21:21:36,077 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/refresh.png HTTP/1.1" 200 757
+INFO 2024-03-01 21:21:49,901 basehttp 212 "POST /ckeditor/upload/ HTTP/1.1" 200 80
+WARNING 2024-03-01 21:21:49,928 log 241 Not Found: /2024/03/01/goods001.jpg
+WARNING 2024-03-01 21:21:49,928 basehttp 212 "GET /2024/03/01/goods001.jpg HTTP/1.1" 404 5692
+WARNING 2024-03-01 21:21:49,947 log 241 Not Found: /2024/03/01/goods001.jpg
+WARNING 2024-03-01 21:21:49,950 basehttp 212 "GET /2024/03/01/goods001.jpg HTTP/1.1" 404 5692
+INFO 2024-03-01 21:21:49,960 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/image/images/noimage.png?t=N5UC HTTP/1.1" 200 1610
+INFO 2024-03-01 21:21:49,960 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/lock-open.png HTTP/1.1" 200 511
+INFO 2024-03-01 21:23:31,121 basehttp 212 "GET /ckeditor/browse/?CKEditor=id_desc_detail&CKEditorFuncNum=3&langCode=zh-cn HTTP/1.1" 200 143556
+INFO 2024-03-01 21:23:31,232 basehttp 212 "GET /static/ckeditor/ckeditor_uploader/admin_base.css HTTP/1.1" 200 1429
+INFO 2024-03-01 21:23:31,252 basehttp 212 "GET /static/ckeditor/galleriffic/css/basic.css HTTP/1.1" 200 1043
+INFO 2024-03-01 21:23:31,253 basehttp 212 "GET /static/ckeditor/galleriffic/css/galleriffic-2.css HTTP/1.1" 200 3166
+INFO 2024-03-01 21:23:31,276 basehttp 212 "GET /static/ckeditor/galleriffic/js/jquery.opacityrollover.js HTTP/1.1" 200 937
+INFO 2024-03-01 21:23:31,281 basehttp 212 "GET /static/ckeditor/galleriffic/js/jquery-1.3.2.js HTTP/1.1" 200 120619
+INFO 2024-03-01 21:23:31,285 basehttp 212 "GET /static/ckeditor/galleriffic/js/jquery.galleriffic.js HTTP/1.1" 200 33266
+WARNING 2024-03-01 21:23:31,313 log 241 Not Found: /2024/03/01/goods001.jpg
+WARNING 2024-03-01 21:23:31,315 basehttp 212 "GET /2024/03/01/goods001.jpg HTTP/1.1" 404 5692
+WARNING 2024-03-01 21:23:31,322 log 241 Not Found: /manage.py
+WARNING 2024-03-01 21:23:31,324 basehttp 212 "GET /manage.py HTTP/1.1" 404 5650
+WARNING 2024-03-01 21:23:31,443 log 241 Not Found: /apps/areas/admin.py
+WARNING 2024-03-01 21:23:31,445 basehttp 212 "GET /apps/areas/admin.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:31,453 log 241 Not Found: /apps/__init__.py
+WARNING 2024-03-01 21:23:31,455 basehttp 212 "GET /apps/__init__.py HTTP/1.1" 404 5671
+WARNING 2024-03-01 21:23:31,788 log 241 Not Found: /apps/areas/apps.py
+WARNING 2024-03-01 21:23:31,790 basehttp 212 "GET /apps/areas/apps.py HTTP/1.1" 404 5677
+WARNING 2024-03-01 21:23:31,968 log 241 Not Found: /apps/areas/tests.py
+WARNING 2024-03-01 21:23:31,989 basehttp 212 "GET /apps/areas/tests.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:31,997 log 241 Not Found: /apps/areas/views.py
+WARNING 2024-03-01 21:23:32,008 log 241 Not Found: /apps/areas/models.py
+WARNING 2024-03-01 21:23:32,016 log 241 Not Found: /apps/areas/urls.py
+WARNING 2024-03-01 21:23:32,026 basehttp 212 "GET /apps/areas/views.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:32,039 log 241 Not Found: /apps/areas/migrations/__init__.py
+WARNING 2024-03-01 21:23:32,046 log 241 Not Found: /apps/areas/__init__.py
+WARNING 2024-03-01 21:23:32,046 basehttp 212 "GET /apps/areas/models.py HTTP/1.1" 404 5683
+WARNING 2024-03-01 21:23:32,056 basehttp 212 "GET /apps/areas/urls.py HTTP/1.1" 404 5677
+WARNING 2024-03-01 21:23:32,065 basehttp 212 "GET /apps/areas/migrations/__init__.py HTTP/1.1" 404 5722
+WARNING 2024-03-01 21:23:32,065 basehttp 212 "GET /apps/areas/__init__.py HTTP/1.1" 404 5689
+WARNING 2024-03-01 21:23:32,102 log 241 Not Found: /apps/areas/serializers.py
+WARNING 2024-03-01 21:23:32,106 log 241 Not Found: /apps/areas/migrations/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,111 log 241 Not Found: /apps/areas/migrations/0001_initial.py
+WARNING 2024-03-01 21:23:32,116 log 241 Not Found: /apps/areas/migrations/__pycache__/0001_initial.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,125 basehttp 212 "GET /apps/areas/serializers.py HTTP/1.1" 404 5698
+WARNING 2024-03-01 21:23:32,133 basehttp 212 "GET /apps/areas/migrations/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5797
+WARNING 2024-03-01 21:23:32,143 basehttp 212 "GET /apps/areas/migrations/__pycache__/0001_initial.cpython-311.pyc HTTP/1.1" 404 5809
+WARNING 2024-03-01 21:23:32,166 log 241 Not Found: /apps/areas/__pycache__/admin.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,173 log 241 Not Found: /apps/areas/__pycache__/apps.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,166 basehttp 212 "GET /apps/areas/migrations/0001_initial.py HTTP/1.1" 404 5734
+WARNING 2024-03-01 21:23:32,187 basehttp 212 "GET /apps/areas/__pycache__/admin.cpython-311.pyc HTTP/1.1" 404 5755
+WARNING 2024-03-01 21:23:32,209 log 241 Not Found: /apps/areas/__pycache__/serializers.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,256 basehttp 212 "GET /apps/areas/__pycache__/serializers.cpython-311.pyc HTTP/1.1" 404 5773
+WARNING 2024-03-01 21:23:32,219 basehttp 212 "GET /apps/areas/__pycache__/apps.cpython-311.pyc HTTP/1.1" 404 5752
+WARNING 2024-03-01 21:23:32,230 log 241 Not Found: /apps/areas/__pycache__/urls.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,251 log 241 Not Found: /apps/areas/__pycache__/views.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,219 log 241 Not Found: /apps/areas/__pycache__/models.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,279 basehttp 212 "GET /apps/areas/__pycache__/urls.cpython-311.pyc HTTP/1.1" 404 5752
+WARNING 2024-03-01 21:23:32,292 log 241 Not Found: /apps/contents/admin.py
+WARNING 2024-03-01 21:23:32,299 basehttp 212 "GET /apps/areas/__pycache__/views.cpython-311.pyc HTTP/1.1" 404 5755
+WARNING 2024-03-01 21:23:32,305 log 241 Not Found: /apps/contents/apps.py
+WARNING 2024-03-01 21:23:32,312 basehttp 212 "GET /apps/areas/__pycache__/models.cpython-311.pyc HTTP/1.1" 404 5758
+WARNING 2024-03-01 21:23:32,328 log 241 Not Found: /apps/areas/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,331 basehttp 212 "GET /apps/contents/admin.py HTTP/1.1" 404 5689
+WARNING 2024-03-01 21:23:32,342 basehttp 212 "GET /apps/contents/apps.py HTTP/1.1" 404 5686
+WARNING 2024-03-01 21:23:32,369 basehttp 212 "GET /apps/areas/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5764
+WARNING 2024-03-01 21:23:32,410 log 241 Not Found: /apps/contents/models.py
+WARNING 2024-03-01 21:23:32,414 log 241 Not Found: /apps/contents/views.py
+WARNING 2024-03-01 21:23:32,439 log 241 Not Found: /apps/contents/tests.py
+WARNING 2024-03-01 21:23:32,444 log 241 Not Found: /apps/contents/__init__.py
+WARNING 2024-03-01 21:23:32,457 basehttp 212 "GET /apps/contents/views.py HTTP/1.1" 404 5689
+WARNING 2024-03-01 21:23:32,458 basehttp 212 "GET /apps/contents/models.py HTTP/1.1" 404 5692
+WARNING 2024-03-01 21:23:32,470 basehttp 212 "GET /apps/contents/tests.py HTTP/1.1" 404 5689
+WARNING 2024-03-01 21:23:32,476 log 241 Not Found: /apps/contents/migrations/__init__.py
+WARNING 2024-03-01 21:23:32,502 basehttp 212 "GET /apps/contents/__init__.py HTTP/1.1" 404 5698
+WARNING 2024-03-01 21:23:32,838 log 241 Not Found: /apps/contents/migrations/0001_initial.py
+WARNING 2024-03-01 21:23:32,840 basehttp 212 "GET /apps/contents/migrations/__init__.py HTTP/1.1" 404 5731
+WARNING 2024-03-01 21:23:32,849 log 241 Not Found: /apps/contents/migrations/__pycache__/0001_initial.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,852 log 241 Not Found: /apps/contents/migrations/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,862 basehttp 212 "GET /apps/contents/migrations/0001_initial.py HTTP/1.1" 404 5743
+WARNING 2024-03-01 21:23:32,885 basehttp 212 "GET /apps/contents/migrations/__pycache__/0001_initial.cpython-311.pyc HTTP/1.1" 404 5818
+WARNING 2024-03-01 21:23:32,893 log 241 Not Found: /apps/contents/__pycache__/admin.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,900 basehttp 212 "GET /apps/contents/migrations/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5806
+WARNING 2024-03-01 21:23:32,913 log 241 Not Found: /apps/contents/__pycache__/apps.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,926 basehttp 212 "GET /apps/contents/__pycache__/admin.cpython-311.pyc HTTP/1.1" 404 5764
+WARNING 2024-03-01 21:23:32,934 log 241 Not Found: /apps/contents/__pycache__/models.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,944 basehttp 212 "GET /apps/contents/__pycache__/apps.cpython-311.pyc HTTP/1.1" 404 5761
+WARNING 2024-03-01 21:23:32,951 log 241 Not Found: /apps/contents/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:32,959 log 241 Not Found: /apps/goods/apps.py
+WARNING 2024-03-01 21:23:32,963 basehttp 212 "GET /apps/contents/__pycache__/models.cpython-311.pyc HTTP/1.1" 404 5767
+WARNING 2024-03-01 21:23:32,979 log 241 Not Found: /apps/goods/admin.py
+WARNING 2024-03-01 21:23:32,993 basehttp 212 "GET /apps/contents/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5773
+WARNING 2024-03-01 21:23:32,998 log 241 Not Found: /apps/goods/models.py
+WARNING 2024-03-01 21:23:33,004 basehttp 212 "GET /apps/goods/apps.py HTTP/1.1" 404 5677
+WARNING 2024-03-01 21:23:33,011 log 241 Not Found: /apps/goods/tests.py
+WARNING 2024-03-01 21:23:33,015 basehttp 212 "GET /apps/goods/admin.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:33,031 basehttp 212 "GET /apps/goods/models.py HTTP/1.1" 404 5683
+WARNING 2024-03-01 21:23:33,048 basehttp 212 "GET /apps/goods/tests.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:33,069 log 241 Not Found: /apps/goods/views.py
+WARNING 2024-03-01 21:23:33,083 basehttp 212 "GET /apps/goods/views.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:33,097 log 241 Not Found: /apps/goods/__init__.py
+WARNING 2024-03-01 21:23:33,101 log 241 Not Found: /apps/goods/migrations/0001_initial.py
+WARNING 2024-03-01 21:23:33,117 basehttp 212 "GET /apps/goods/__init__.py HTTP/1.1" 404 5689
+WARNING 2024-03-01 21:23:33,117 basehttp 212 "GET /apps/goods/migrations/0001_initial.py HTTP/1.1" 404 5734
+WARNING 2024-03-01 21:23:33,122 log 241 Not Found: /apps/goods/migrations/__init__.py
+WARNING 2024-03-01 21:23:33,135 log 241 Not Found: /apps/goods/migrations/0002_goods_desc_detail_goods_desc_pack_goods_desc_service.py
+WARNING 2024-03-01 21:23:33,148 basehttp 212 "GET /apps/goods/migrations/__init__.py HTTP/1.1" 404 5722
+WARNING 2024-03-01 21:23:33,151 log 241 Not Found: /apps/goods/migrations/__pycache__/0001_initial.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,159 basehttp 212 "GET /apps/goods/migrations/0002_goods_desc_detail_goods_desc_pack_goods_desc_service.py HTTP/1.1" 404 5869
+WARNING 2024-03-01 21:23:33,164 basehttp 212 "GET /apps/goods/migrations/__pycache__/0001_initial.cpython-311.pyc HTTP/1.1" 404 5809
+WARNING 2024-03-01 21:23:33,172 log 241 Not Found: /apps/goods/migrations/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,186 log 241 Not Found: /apps/goods/__pycache__/admin.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,202 log 241 Not Found: /apps/goods/migrations/__pycache__/0002_goods_desc_detail_goods_desc_pack_goods_desc_service.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,204 basehttp 212 "GET /apps/goods/migrations/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5797
+WARNING 2024-03-01 21:23:33,213 log 241 Not Found: /apps/goods/__pycache__/apps.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,217 log 241 Not Found: /apps/goods/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,218 basehttp 212 "GET /apps/goods/__pycache__/admin.cpython-311.pyc HTTP/1.1" 404 5755
+WARNING 2024-03-01 21:23:33,224 log 241 Not Found: /apps/goods/__pycache__/models.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,225 basehttp 212 "GET /apps/goods/migrations/__pycache__/0002_goods_desc_detail_goods_desc_pack_goods_desc_service.cpython-311.pyc HTTP/1.1" 404 5944
+WARNING 2024-03-01 21:23:33,229 basehttp 212 "GET /apps/goods/__pycache__/apps.cpython-311.pyc HTTP/1.1" 404 5752
+WARNING 2024-03-01 21:23:33,230 basehttp 212 "GET /apps/goods/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5764
+WARNING 2024-03-01 21:23:33,245 basehttp 212 "GET /apps/goods/__pycache__/models.cpython-311.pyc HTTP/1.1" 404 5758
+WARNING 2024-03-01 21:23:33,262 log 241 Not Found: /apps/users/apps.py
+WARNING 2024-03-01 21:23:33,280 log 241 Not Found: /apps/users/admin.py
+WARNING 2024-03-01 21:23:33,303 basehttp 212 "GET /apps/users/apps.py HTTP/1.1" 404 5677
+WARNING 2024-03-01 21:23:33,305 basehttp 212 "GET /apps/users/admin.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:33,318 log 241 Not Found: /apps/users/models.py
+WARNING 2024-03-01 21:23:33,324 log 241 Not Found: /apps/users/tests.py
+WARNING 2024-03-01 21:23:33,329 log 241 Not Found: /apps/users/serializer.py
+WARNING 2024-03-01 21:23:33,332 basehttp 212 "GET /apps/users/models.py HTTP/1.1" 404 5683
+WARNING 2024-03-01 21:23:33,332 basehttp 212 "GET /apps/users/tests.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:33,337 log 241 Not Found: /apps/users/urls.py
+WARNING 2024-03-01 21:23:33,349 basehttp 212 "GET /apps/users/serializer.py HTTP/1.1" 404 5695
+WARNING 2024-03-01 21:23:33,368 log 241 Not Found: /apps/users/views.py
+WARNING 2024-03-01 21:23:33,368 basehttp 212 "GET /apps/users/urls.py HTTP/1.1" 404 5677
+WARNING 2024-03-01 21:23:33,377 log 241 Not Found: /apps/users/utils.py
+WARNING 2024-03-01 21:23:33,378 basehttp 212 "GET /apps/users/views.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:33,401 log 241 Not Found: /apps/users/migrations/0002_user_eamil_active.py
+WARNING 2024-03-01 21:23:33,408 log 241 Not Found: /apps/users/__init__.py
+WARNING 2024-03-01 21:23:33,431 basehttp 212 "GET /apps/users/utils.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:33,442 log 241 Not Found: /apps/users/migrations/0001_initial.py
+WARNING 2024-03-01 21:23:33,465 basehttp 212 "GET /apps/users/__init__.py HTTP/1.1" 404 5689
+WARNING 2024-03-01 21:23:33,465 basehttp 212 "GET /apps/users/migrations/0002_user_eamil_active.py HTTP/1.1" 404 5764
+WARNING 2024-03-01 21:23:33,486 basehttp 212 "GET /apps/users/migrations/0001_initial.py HTTP/1.1" 404 5734
+WARNING 2024-03-01 21:23:33,502 log 241 Not Found: /apps/users/migrations/0003_address_user_default_address.py
+WARNING 2024-03-01 21:23:33,525 log 241 Not Found: /apps/users/migrations/__init__.py
+WARNING 2024-03-01 21:23:33,528 basehttp 212 "GET /apps/users/migrations/0003_address_user_default_address.py HTTP/1.1" 404 5797
+WARNING 2024-03-01 21:23:33,536 basehttp 212 "GET /apps/users/migrations/__init__.py HTTP/1.1" 404 5722
+WARNING 2024-03-01 21:23:33,553 log 241 Not Found: /apps/users/migrations/__pycache__/0003_address_user_default_address.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,559 log 241 Not Found: /apps/users/migrations/__pycache__/0001_initial.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,568 log 241 Not Found: /apps/users/migrations/__pycache__/0002_user_eamil_active.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,568 basehttp 212 "GET /apps/users/migrations/__pycache__/0003_address_user_default_address.cpython-311.pyc HTTP/1.1" 404 5872
+WARNING 2024-03-01 21:23:33,579 basehttp 212 "GET /apps/users/migrations/__pycache__/0002_user_eamil_active.cpython-311.pyc HTTP/1.1" 404 5839
+WARNING 2024-03-01 21:23:33,580 basehttp 212 "GET /apps/users/migrations/__pycache__/0001_initial.cpython-311.pyc HTTP/1.1" 404 5809
+WARNING 2024-03-01 21:23:33,586 log 241 Not Found: /apps/users/migrations/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,594 log 241 Not Found: /apps/users/__pycache__/admin.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,609 basehttp 212 "GET /apps/users/migrations/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5797
+WARNING 2024-03-01 21:23:33,612 log 241 Not Found: /apps/users/__pycache__/apps.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,617 basehttp 212 "GET /apps/users/__pycache__/admin.cpython-311.pyc HTTP/1.1" 404 5755
+WARNING 2024-03-01 21:23:33,618 basehttp 212 "GET /apps/users/__pycache__/apps.cpython-311.pyc HTTP/1.1" 404 5752
+WARNING 2024-03-01 21:23:33,634 log 241 Not Found: /apps/users/__pycache__/urls.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,651 log 241 Not Found: /apps/users/__pycache__/models.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,658 basehttp 212 "GET /apps/users/__pycache__/urls.cpython-311.pyc HTTP/1.1" 404 5752
+WARNING 2024-03-01 21:23:33,664 basehttp 212 "GET /apps/users/__pycache__/models.cpython-311.pyc HTTP/1.1" 404 5758
+WARNING 2024-03-01 21:23:33,666 log 241 Not Found: /apps/users/__pycache__/serializer.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,688 log 241 Not Found: /apps/users/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,691 basehttp 212 "GET /apps/users/__pycache__/serializer.cpython-311.pyc HTTP/1.1" 404 5770
+WARNING 2024-03-01 21:23:33,693 basehttp 212 "GET /apps/users/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5764
+WARNING 2024-03-01 21:23:33,706 log 241 Not Found: /apps/verifications/admin.py
+WARNING 2024-03-01 21:23:33,711 log 241 Not Found: /apps/users/__pycache__/views.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,719 log 241 Not Found: /apps/users/__pycache__/utils.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,725 log 241 Not Found: /apps/verifications/apps.py
+WARNING 2024-03-01 21:23:33,725 basehttp 212 "GET /apps/verifications/admin.py HTTP/1.1" 404 5704
+WARNING 2024-03-01 21:23:33,726 basehttp 212 "GET /apps/users/__pycache__/views.cpython-311.pyc HTTP/1.1" 404 5755
+WARNING 2024-03-01 21:23:33,739 basehttp 212 "GET /apps/users/__pycache__/utils.cpython-311.pyc HTTP/1.1" 404 5755
+WARNING 2024-03-01 21:23:33,746 basehttp 212 "GET /apps/verifications/apps.py HTTP/1.1" 404 5701
+WARNING 2024-03-01 21:23:33,753 log 241 Not Found: /apps/verifications/constaints.py
+WARNING 2024-03-01 21:23:33,758 log 241 Not Found: /apps/verifications/models.py
+WARNING 2024-03-01 21:23:33,783 basehttp 212 "GET /apps/verifications/constaints.py HTTP/1.1" 404 5719
+WARNING 2024-03-01 21:23:33,796 basehttp 212 "GET /apps/verifications/models.py HTTP/1.1" 404 5707
+WARNING 2024-03-01 21:23:33,806 log 241 Not Found: /apps/verifications/tests.py
+WARNING 2024-03-01 21:23:33,818 log 241 Not Found: /apps/verifications/urls.py
+WARNING 2024-03-01 21:23:33,818 basehttp 212 "GET /apps/verifications/tests.py HTTP/1.1" 404 5704
+WARNING 2024-03-01 21:23:33,825 log 241 Not Found: /apps/verifications/views.py
+WARNING 2024-03-01 21:23:33,826 basehttp 212 "GET /apps/verifications/urls.py HTTP/1.1" 404 5701
+WARNING 2024-03-01 21:23:33,830 log 241 Not Found: /apps/verifications/__init__.py
+WARNING 2024-03-01 21:23:33,842 log 241 Not Found: /apps/verifications/migrations/__init__.py
+WARNING 2024-03-01 21:23:33,842 basehttp 212 "GET /apps/verifications/views.py HTTP/1.1" 404 5704
+WARNING 2024-03-01 21:23:33,845 log 241 Not Found: /apps/verifications/migrations/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,848 basehttp 212 "GET /apps/verifications/__init__.py HTTP/1.1" 404 5713
+WARNING 2024-03-01 21:23:33,850 basehttp 212 "GET /apps/verifications/migrations/__init__.py HTTP/1.1" 404 5746
+WARNING 2024-03-01 21:23:33,860 basehttp 212 "GET /apps/verifications/migrations/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5821
+WARNING 2024-03-01 21:23:33,893 log 241 Not Found: /apps/verifications/__pycache__/admin.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,897 log 241 Not Found: /apps/verifications/__pycache__/apps.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,910 log 241 Not Found: /apps/verifications/__pycache__/constaints.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,912 basehttp 212 "GET /apps/verifications/__pycache__/apps.cpython-311.pyc HTTP/1.1" 404 5776
+WARNING 2024-03-01 21:23:33,912 basehttp 212 "GET /apps/verifications/__pycache__/admin.cpython-311.pyc HTTP/1.1" 404 5779
+WARNING 2024-03-01 21:23:33,916 log 241 Not Found: /apps/verifications/__pycache__/models.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,923 log 241 Not Found: /apps/verifications/__pycache__/urls.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,927 basehttp 212 "GET /apps/verifications/__pycache__/constaints.cpython-311.pyc HTTP/1.1" 404 5794
+WARNING 2024-03-01 21:23:33,930 basehttp 212 "GET /apps/verifications/__pycache__/models.cpython-311.pyc HTTP/1.1" 404 5782
+WARNING 2024-03-01 21:23:33,931 basehttp 212 "GET /apps/verifications/__pycache__/urls.cpython-311.pyc HTTP/1.1" 404 5776
+WARNING 2024-03-01 21:23:33,940 log 241 Not Found: /apps/verifications/__pycache__/views.cpython-311.pyc
+WARNING 2024-03-01 21:23:33,945 basehttp 212 "GET /apps/verifications/__pycache__/views.cpython-311.pyc HTTP/1.1" 404 5779
+WARNING 2024-03-01 21:23:34,015 log 241 Not Found: /celery_tasks/main.py
+WARNING 2024-03-01 21:23:34,019 basehttp 212 "GET /celery_tasks/main.py HTTP/1.1" 404 5683
+WARNING 2024-03-01 21:23:34,025 log 241 Not Found: /celery_tasks/config.py
+WARNING 2024-03-01 21:23:34,028 log 241 Not Found: /apps/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,031 log 241 Not Found: /celery_tasks/__init__.py
+WARNING 2024-03-01 21:23:34,036 log 241 Not Found: /apps/verifications/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,041 basehttp 212 "GET /apps/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5746
+WARNING 2024-03-01 21:23:34,042 basehttp 212 "GET /celery_tasks/config.py HTTP/1.1" 404 5689
+WARNING 2024-03-01 21:23:34,052 log 241 Not Found: /celery_tasks/sms/constaints.py
+WARNING 2024-03-01 21:23:34,053 basehttp 212 "GET /celery_tasks/__init__.py HTTP/1.1" 404 5695
+WARNING 2024-03-01 21:23:34,055 basehttp 212 "GET /apps/verifications/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5788
+WARNING 2024-03-01 21:23:34,059 log 241 Not Found: /celery_tasks/sms/tasks.py
+WARNING 2024-03-01 21:23:34,066 basehttp 212 "GET /celery_tasks/sms/constaints.py HTTP/1.1" 404 5713
+WARNING 2024-03-01 21:23:34,096 basehttp 212 "GET /celery_tasks/sms/tasks.py HTTP/1.1" 404 5698
+WARNING 2024-03-01 21:23:34,108 log 241 Not Found: /celery_tasks/sms/__init__.py
+WARNING 2024-03-01 21:23:34,119 basehttp 212 "GET /celery_tasks/sms/__init__.py HTTP/1.1" 404 5707
+WARNING 2024-03-01 21:23:34,134 log 241 Not Found: /celery_tasks/sms/yuntongxun/xmltojson.py
+WARNING 2024-03-01 21:23:34,136 log 241 Not Found: /celery_tasks/sms/yuntongxun/CCPRestSDK.py
+WARNING 2024-03-01 21:23:34,140 log 241 Not Found: /celery_tasks/sms/yuntongxun/sms.py
+WARNING 2024-03-01 21:23:34,148 basehttp 212 "GET /celery_tasks/sms/yuntongxun/xmltojson.py HTTP/1.1" 404 5743
+WARNING 2024-03-01 21:23:34,152 log 241 Not Found: /celery_tasks/sms/yuntongxun/__init__.py
+WARNING 2024-03-01 21:23:34,156 log 241 Not Found: /celery_tasks/sms/yuntongxun/__pycache__/CCPRestSDK.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,158 basehttp 212 "GET /celery_tasks/sms/yuntongxun/CCPRestSDK.py HTTP/1.1" 404 5746
+WARNING 2024-03-01 21:23:34,158 basehttp 212 "GET /celery_tasks/sms/yuntongxun/sms.py HTTP/1.1" 404 5725
+WARNING 2024-03-01 21:23:34,166 basehttp 212 "GET /celery_tasks/sms/yuntongxun/__init__.py HTTP/1.1" 404 5740
+WARNING 2024-03-01 21:23:34,169 log 241 Not Found: /celery_tasks/sms/yuntongxun/__pycache__/sms.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,180 basehttp 212 "GET /celery_tasks/sms/yuntongxun/__pycache__/CCPRestSDK.cpython-311.pyc HTTP/1.1" 404 5821
+WARNING 2024-03-01 21:23:34,211 log 241 Not Found: /celery_tasks/sms/yuntongxun/__pycache__/xmltojson.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,215 basehttp 212 "GET /celery_tasks/sms/yuntongxun/__pycache__/sms.cpython-311.pyc HTTP/1.1" 404 5800
+WARNING 2024-03-01 21:23:34,236 basehttp 212 "GET /celery_tasks/sms/yuntongxun/__pycache__/xmltojson.cpython-311.pyc HTTP/1.1" 404 5818
+WARNING 2024-03-01 21:23:34,241 log 241 Not Found: /celery_tasks/sms/yuntongxun/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,251 basehttp 212 "GET /celery_tasks/sms/yuntongxun/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5815
+WARNING 2024-03-01 21:23:34,256 log 241 Not Found: /celery_tasks/sms/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,264 log 241 Not Found: /celery_tasks/__pycache__/config.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,272 log 241 Not Found: /celery_tasks/sms/__pycache__/tasks.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,275 log 241 Not Found: /celery_tasks/sms/__pycache__/constaints.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,281 basehttp 212 "GET /celery_tasks/sms/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5782
+WARNING 2024-03-01 21:23:34,286 basehttp 212 "GET /celery_tasks/__pycache__/config.cpython-311.pyc HTTP/1.1" 404 5764
+WARNING 2024-03-01 21:23:34,289 basehttp 212 "GET /celery_tasks/sms/__pycache__/tasks.cpython-311.pyc HTTP/1.1" 404 5773
+WARNING 2024-03-01 21:23:34,291 basehttp 212 "GET /celery_tasks/sms/__pycache__/constaints.cpython-311.pyc HTTP/1.1" 404 5788
+WARNING 2024-03-01 21:23:34,294 log 241 Not Found: /celery_tasks/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,304 log 241 Not Found: /celery_tasks/__pycache__/main.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,319 basehttp 212 "GET /celery_tasks/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5770
+WARNING 2024-03-01 21:23:34,324 basehttp 212 "GET /celery_tasks/__pycache__/main.cpython-311.pyc HTTP/1.1" 404 5758
+WARNING 2024-03-01 21:23:34,345 log 241 Not Found: /libs/__init__.py
+WARNING 2024-03-01 21:23:34,356 basehttp 212 "GET /libs/__init__.py HTTP/1.1" 404 5671
+WARNING 2024-03-01 21:23:34,361 log 241 Not Found: /libs/yuntongxun/CCPRestSDK.py
+WARNING 2024-03-01 21:23:34,365 log 241 Not Found: /libs/yuntongxun/sms.py
+WARNING 2024-03-01 21:23:34,379 log 241 Not Found: /libs/yuntongxun/xmltojson.py
+WARNING 2024-03-01 21:23:34,380 basehttp 212 "GET /libs/yuntongxun/sms.py HTTP/1.1" 404 5689
+WARNING 2024-03-01 21:23:34,380 basehttp 212 "GET /libs/yuntongxun/CCPRestSDK.py HTTP/1.1" 404 5710
+WARNING 2024-03-01 21:23:34,393 log 241 Not Found: /libs/yuntongxun/__init__.py
+WARNING 2024-03-01 21:23:34,395 basehttp 212 "GET /libs/yuntongxun/xmltojson.py HTTP/1.1" 404 5707
+WARNING 2024-03-01 21:23:34,408 basehttp 212 "GET /libs/yuntongxun/__init__.py HTTP/1.1" 404 5704
+WARNING 2024-03-01 21:23:34,420 log 241 Not Found: /libs/yuntongxun/__pycache__/sms.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,428 basehttp 212 "GET /libs/yuntongxun/__pycache__/sms.cpython-311.pyc HTTP/1.1" 404 5764
+WARNING 2024-03-01 21:23:34,434 log 241 Not Found: /libs/yuntongxun/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,441 log 241 Not Found: /libs/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,442 basehttp 212 "GET /libs/yuntongxun/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5779
+WARNING 2024-03-01 21:23:34,443 basehttp 212 "GET /libs/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5746
+WARNING 2024-03-01 21:23:34,447 log 241 Not Found: /libs/yuntongxun/__pycache__/CCPRestSDK.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,454 basehttp 212 "GET /libs/yuntongxun/__pycache__/CCPRestSDK.cpython-311.pyc HTTP/1.1" 404 5785
+WARNING 2024-03-01 21:23:34,460 log 241 Not Found: /libs/yuntongxun/__pycache__/xmltojson.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,461 basehttp 212 "GET /libs/yuntongxun/__pycache__/xmltojson.cpython-311.pyc HTTP/1.1" 404 5782
+WARNING 2024-03-01 21:23:34,478 log 241 Not Found: /logs/my_mall.log
+WARNING 2024-03-01 21:23:34,480 basehttp 212 "GET /logs/my_mall.log HTTP/1.1" 404 5671
+WARNING 2024-03-01 21:23:34,535 log 241 Not Found: /my_mall/settings.py
+WARNING 2024-03-01 21:23:34,538 log 241 Not Found: /my_mall/asgi.py
+WARNING 2024-03-01 21:23:34,543 log 241 Not Found: /my_mall/urls.py
+WARNING 2024-03-01 21:23:34,544 basehttp 212 "GET /my_mall/settings.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:34,546 log 241 Not Found: /my_mall/__pycache__/settings.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,546 basehttp 212 "GET /my_mall/asgi.py HTTP/1.1" 404 5668
+WARNING 2024-03-01 21:23:34,550 log 241 Not Found: /my_mall/wsgi.py
+WARNING 2024-03-01 21:23:34,553 log 241 Not Found: /my_mall/__init__.py
+WARNING 2024-03-01 21:23:34,555 basehttp 212 "GET /my_mall/urls.py HTTP/1.1" 404 5668
+WARNING 2024-03-01 21:23:34,561 basehttp 212 "GET /my_mall/__pycache__/settings.cpython-311.pyc HTTP/1.1" 404 5755
+WARNING 2024-03-01 21:23:34,566 basehttp 212 "GET /my_mall/wsgi.py HTTP/1.1" 404 5668
+WARNING 2024-03-01 21:23:34,580 basehttp 212 "GET /my_mall/__init__.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:34,614 log 241 Not Found: /my_mall/__pycache__/wsgi.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,623 log 241 Not Found: /my_mall/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,626 log 241 Not Found: /utils/converters.py
+WARNING 2024-03-01 21:23:34,627 basehttp 212 "GET /my_mall/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5755
+WARNING 2024-03-01 21:23:34,631 log 241 Not Found: /my_mall/__pycache__/urls.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,631 basehttp 212 "GET /my_mall/__pycache__/wsgi.cpython-311.pyc HTTP/1.1" 404 5743
+WARNING 2024-03-01 21:23:34,634 log 241 Not Found: /utils/models.py
+WARNING 2024-03-01 21:23:34,635 basehttp 212 "GET /utils/converters.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:34,640 basehttp 212 "GET /my_mall/__pycache__/urls.cpython-311.pyc HTTP/1.1" 404 5743
+WARNING 2024-03-01 21:23:34,648 log 241 Not Found: /utils/exceptions.py
+WARNING 2024-03-01 21:23:34,655 basehttp 212 "GET /utils/models.py HTTP/1.1" 404 5668
+WARNING 2024-03-01 21:23:34,675 basehttp 212 "GET /utils/exceptions.py HTTP/1.1" 404 5680
+WARNING 2024-03-01 21:23:34,700 log 241 Not Found: /utils/__init__.py
+WARNING 2024-03-01 21:23:34,703 log 241 Not Found: /utils/fastdfs/__init__.py
+WARNING 2024-03-01 21:23:34,706 log 241 Not Found: /utils/fastdfs/client.conf
+WARNING 2024-03-01 21:23:34,714 basehttp 212 "GET /utils/__init__.py HTTP/1.1" 404 5674
+WARNING 2024-03-01 21:23:34,718 log 241 Not Found: /utils/fastdfs/fdfs_storage.py
+WARNING 2024-03-01 21:23:34,718 basehttp 212 "GET /utils/fastdfs/client.conf HTTP/1.1" 404 5698
+WARNING 2024-03-01 21:23:34,718 basehttp 212 "GET /utils/fastdfs/__init__.py HTTP/1.1" 404 5698
+WARNING 2024-03-01 21:23:34,722 log 241 Not Found: /utils/fastdfs/__pycache__/fdfs_storage.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,725 basehttp 212 "GET /utils/fastdfs/fdfs_storage.py HTTP/1.1" 404 5710
+WARNING 2024-03-01 21:23:34,744 log 241 Not Found: /utils/fastdfs/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,753 basehttp 212 "GET /utils/fastdfs/__pycache__/fdfs_storage.cpython-311.pyc HTTP/1.1" 404 5785
+WARNING 2024-03-01 21:23:34,768 basehttp 212 "GET /utils/fastdfs/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5773
+WARNING 2024-03-01 21:23:34,772 log 241 Not Found: /utils/__pycache__/models.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,775 basehttp 212 "GET /utils/__pycache__/models.cpython-311.pyc HTTP/1.1" 404 5743
+INFO 2024-03-01 21:23:34,785 basehttp 212 "GET /static/ckeditor/galleriffic/css/loader.gif HTTP/1.1" 200 10453
+WARNING 2024-03-01 21:23:34,790 log 241 Not Found: /utils/__pycache__/exceptions.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,800 log 241 Not Found: /utils/__pycache__/converters.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,803 basehttp 212 "GET /utils/__pycache__/exceptions.cpython-311.pyc HTTP/1.1" 404 5755
+WARNING 2024-03-01 21:23:34,805 basehttp 212 "GET /utils/__pycache__/converters.cpython-311.pyc HTTP/1.1" 404 5755
+WARNING 2024-03-01 21:23:34,820 log 241 Not Found: /utils/__pycache__/__init__.cpython-311.pyc
+WARNING 2024-03-01 21:23:34,823 basehttp 212 "GET /utils/__pycache__/__init__.cpython-311.pyc HTTP/1.1" 404 5749
+WARNING 2024-03-01 21:23:34,827 log 241 Not Found: /2024/03/01/goods001.jpg
+WARNING 2024-03-01 21:23:34,832 log 241 Not Found: /manage.py
+WARNING 2024-03-01 21:23:34,832 basehttp 212 "GET /2024/03/01/goods001.jpg HTTP/1.1" 404 5692
+WARNING 2024-03-01 21:23:34,833 basehttp 212 "GET /manage.py HTTP/1.1" 404 5650
+INFO 2024-03-01 21:54:43,934 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 21:54:45,646 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 22:09:10,316 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 22:09:13,361 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 22:10:59,988 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-01 22:11:01,065 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 22:33:16,460 basehttp 212 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-01 22:33:16,795 basehttp 212 "GET /admin/ HTTP/1.1" 200 10485
+INFO 2024-03-01 22:33:17,138 basehttp 212 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-03-01 22:33:17,183 basehttp 212 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-01 22:33:17,194 basehttp 212 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-03-01 22:33:17,291 basehttp 212 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-03-01 22:33:17,305 basehttp 212 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-03-01 22:33:24,593 basehttp 212 "GET /admin/goods/goods/add/ HTTP/1.1" 200 26091
+INFO 2024-03-01 22:33:24,740 basehttp 212 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2024-03-01 22:33:24,751 basehttp 212 "GET /static/ckeditor/ckeditor.css HTTP/1.1" 200 672
+INFO 2024-03-01 22:33:24,753 basehttp 212 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-03-01 22:33:24,756 basehttp 212 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 1526
+INFO 2024-03-01 22:33:24,787 basehttp 212 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-03-01 22:33:24,789 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2024-03-01 22:33:24,804 basehttp 212 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 759716
+INFO 2024-03-01 22:33:24,821 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 22:33:24,821 basehttp 212 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2024-03-01 22:33:24,823 basehttp 212 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2024-03-01 22:33:24,825 basehttp 212 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-03-01 22:33:24,826 basehttp 212 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2024-03-01 22:33:24,830 basehttp 212 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-03-01 22:33:24,838 basehttp 212 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2024-03-01 22:33:24,841 basehttp 212 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-03-01 22:33:24,845 basehttp 212 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-03-01 22:33:24,879 basehttp 212 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-03-01 22:33:24,891 basehttp 212 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-03-01 22:33:25,007 basehttp 212 "GET /static/ckeditor/ckeditor/config.js?t=N5UC HTTP/1.1" 200 336
+INFO 2024-03-01 22:33:25,192 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=N5UC HTTP/1.1" 200 48309
+INFO 2024-03-01 22:33:25,193 basehttp 212 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=N5UC HTTP/1.1" 200 17901
+INFO 2024-03-01 22:33:25,295 basehttp 212 "GET /static/ckeditor/ckeditor/styles.js?t=N5UC HTTP/1.1" 200 5577
+INFO 2024-03-01 22:33:25,337 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=N5UC HTTP/1.1" 200 381
+INFO 2024-03-01 22:33:25,339 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=N5UC HTTP/1.1" 200 419
+INFO 2024-03-01 22:33:25,341 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/dialog/styles/dialog.css?t=N5UC HTTP/1.1" 200 249
+INFO 2024-03-01 22:33:25,343 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css?t=N5UC HTTP/1.1" 200 1145
+INFO 2024-03-01 22:33:25,344 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css?t=N5UC HTTP/1.1" 200 1511
+INFO 2024-03-01 22:33:25,405 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=4a1fb11f44 HTTP/1.1" 200 12237
+INFO 2024-03-01 22:33:25,454 basehttp 212 "GET /static/ckeditor/ckeditor/contents.css?t=N5UC HTTP/1.1" 200 3092
+INFO 2024-03-01 22:33:31,459 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 10505
+INFO 2024-03-01 22:33:31,623 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 22:33:31,624 basehttp 212 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2024-03-01 22:33:31,714 basehttp 212 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-03-01 22:33:31,723 basehttp 212 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-03-01 22:33:32,793 basehttp 212 "GET /admin/goods/goods/add/ HTTP/1.1" 200 26091
+INFO 2024-03-01 22:33:32,951 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 22:33:38,480 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/image/dialogs/image.js?t=N5UC HTTP/1.1" 200 21529
+INFO 2024-03-01 22:33:38,480 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/dialog.css?t=N5UC HTTP/1.1" 200 13634
+INFO 2024-03-01 22:33:38,619 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/lock.png HTTP/1.1" 200 506
+INFO 2024-03-01 22:33:38,620 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/close.png HTTP/1.1" 200 615
+INFO 2024-03-01 22:33:38,620 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/refresh.png HTTP/1.1" 200 757
+ERROR 2024-03-01 22:33:52,871 log 241 Internal Server Error: /ckeditor/upload/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\views.py", line 116, in post
+    saved_path = filewrapper.save_as(filepath)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\backends\dummy_backend.py", line 12, in save_as
+    return self.storage_engine.save(filepath, self.file_object)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\base.py", line 40, in save
+    validate_file_name(name, allow_relative_path=True)
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\utils.py", line 16, in validate_file_name
+    path = pathlib.PurePosixPath(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 477, in __new__
+    return cls._from_parts(args)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 509, in _from_parts
+    drv, root, parts = self._parse_args(args)
+                       ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 498, in _parse_args
+    raise TypeError(
+TypeError: argument should be a str object or an os.PathLike object returning str, not <class 'bytes'>
+ERROR 2024-03-01 22:33:52,881 basehttp 212 "POST /ckeditor/upload/ HTTP/1.1" 500 114514
+INFO 2024-03-01 22:35:02,770 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-01 22:38:16,989 log 241 Internal Server Error: /ckeditor/upload/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\views.py", line 116, in post
+    saved_path = filewrapper.save_as(filepath)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\backends\dummy_backend.py", line 12, in save_as
+    return self.storage_engine.save(filepath, self.file_object)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\base.py", line 40, in save
+    validate_file_name(name, allow_relative_path=True)
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\utils.py", line 16, in validate_file_name
+    path = pathlib.PurePosixPath(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 477, in __new__
+    return cls._from_parts(args)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 509, in _from_parts
+    drv, root, parts = self._parse_args(args)
+                       ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 498, in _parse_args
+    raise TypeError(
+TypeError: argument should be a str object or an os.PathLike object returning str, not <class 'bytes'>
+ERROR 2024-03-01 22:38:17,012 basehttp 212 "POST /ckeditor/upload/ HTTP/1.1" 500 123200
+INFO 2024-03-01 22:39:06,552 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-01 22:39:54,233 log 241 Internal Server Error: /ckeditor/upload/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\views.py", line 116, in post
+    saved_path = filewrapper.save_as(filepath)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\ckeditor_uploader\backends\dummy_backend.py", line 12, in save_as
+    return self.storage_engine.save(filepath, self.file_object)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\base.py", line 40, in save
+    validate_file_name(name, allow_relative_path=True)
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\utils.py", line 16, in validate_file_name
+    path = pathlib.PurePosixPath(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 477, in __new__
+    return cls._from_parts(args)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 509, in _from_parts
+    drv, root, parts = self._parse_args(args)
+                       ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\pathlib.py", line 498, in _parse_args
+    raise TypeError(
+TypeError: argument should be a str object or an os.PathLike object returning str, not <class 'bytes'>
+ERROR 2024-03-01 22:39:54,264 basehttp 212 "POST /ckeditor/upload/ HTTP/1.1" 500 123200
+INFO 2024-03-01 22:43:07,866 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 22:46:08,430 autoreload 266 D:\senior_homework\graduation project\my_mall\utils\fastdfs\fdfs_storage.py changed, reloading.
+INFO 2024-03-01 22:46:10,834 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 22:47:31,340 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 22:48:10,426 basehttp 212 "POST /ckeditor/upload/ HTTP/1.1" 200 156
+INFO 2024-03-01 22:48:18,570 autoreload 266 D:\senior_homework\graduation project\my_mall\utils\fastdfs\fdfs_storage.py changed, reloading.
+INFO 2024-03-01 22:48:20,154 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 22:49:56,175 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/magicline/images/icon.png?t=N5UC HTTP/1.1" 200 133
+INFO 2024-03-01 22:51:40,846 basehttp 212 "GET /admin/goods/brand/add/?_to_field=id&_popup=1 HTTP/1.1" 200 5707
+INFO 2024-03-01 22:51:41,047 basehttp 212 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-03-01 22:51:41,080 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 22:51:41,084 basehttp 212 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2024-03-01 22:51:41,084 basehttp 212 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2024-03-01 22:51:41,090 basehttp 212 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-03-01 22:51:41,100 basehttp 212 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-03-01 22:51:41,101 basehttp 212 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-03-01 22:51:41,109 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2024-03-01 22:51:41,121 basehttp 212 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-03-01 22:51:41,165 basehttp 212 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-03-01 22:53:00,211 basehttp 212 "GET /admin/goods/goodscategory/add/ HTTP/1.1" 200 12930
+INFO 2024-03-01 22:53:00,549 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 22:53:00,569 basehttp 212 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-01 22:53:00,627 basehttp 212 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-03-01 22:53:09,974 basehttp 212 "GET /admin/goods/specificationoption/add/ HTTP/1.1" 200 12985
+INFO 2024-03-01 22:53:10,138 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+WARNING 2024-03-01 22:54:40,562 log 241 Not Found: /categories/115/skus/
+WARNING 2024-03-01 22:54:40,565 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 404 5732
+INFO 2024-03-01 22:54:50,239 basehttp 212 "GET /admin/goods/brand/add/ HTTP/1.1" 200 12570
+INFO 2024-03-01 22:54:50,393 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 22:55:11,205 basehttp 212 "POST /admin/goods/brand/add/ HTTP/1.1" 200 12732
+INFO 2024-03-01 22:55:11,333 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 22:55:44,865 basehttp 212 "POST /admin/goods/brand/add/ HTTP/1.1" 302 0
+INFO 2024-03-01 22:55:44,936 basehttp 81 - Broken pipe from ('127.0.0.1', 5800)
+INFO 2024-03-01 22:55:45,075 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 12045
+INFO 2024-03-01 22:55:45,565 basehttp 212 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2024-03-01 22:55:45,669 basehttp 212 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-03-01 22:55:45,861 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 22:55:45,934 basehttp 212 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-03-01 22:55:46,003 basehttp 212 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-03-01 22:55:54,353 basehttp 212 "POST /admin/goods/brand/ HTTP/1.1" 200 10538
+INFO 2024-03-01 22:55:54,548 basehttp 212 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2024-03-01 22:55:56,732 basehttp 212 "GET /admin/goods/brand/2/change/ HTTP/1.1" 200 12970
+INFO 2024-03-01 22:55:56,889 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 22:58:58,229 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 22:59:17,801 basehttp 212 "GET /admin/goods/goodscategory/add/ HTTP/1.1" 200 12930
+INFO 2024-03-01 22:59:18,027 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 22:59:29,188 basehttp 212 "GET /admin/goods/sku/add/ HTTP/1.1" 200 20382
+INFO 2024-03-01 22:59:29,322 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:06,980 basehttp 212 "GET /admin/goods/skuspecification/add/ HTTP/1.1" 200 16185
+INFO 2024-03-01 23:00:07,145 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:17,302 basehttp 212 "GET /admin/goods/goods/add/ HTTP/1.1" 200 26165
+INFO 2024-03-01 23:00:17,426 basehttp 212 "GET /static/ckeditor/ckeditor.css HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,430 basehttp 212 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,432 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:17,432 basehttp 212 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,599 basehttp 212 "GET /static/ckeditor/ckeditor/config.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,698 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,698 basehttp 212 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,713 basehttp 212 "GET /static/ckeditor/ckeditor/styles.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,736 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,739 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,740 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,741 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/dialog/styles/dialog.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,743 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,787 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=4a1fb11f44 HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:17,822 basehttp 212 "GET /static/ckeditor/ckeditor/contents.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-01 23:00:22,773 basehttp 212 "GET /admin/goods/goodscategory/add/ HTTP/1.1" 200 12930
+INFO 2024-03-01 23:00:22,913 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:33,599 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 10561
+INFO 2024-03-01 23:00:33,725 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:34,498 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 10551
+INFO 2024-03-01 23:00:34,643 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:35,267 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 10516
+INFO 2024-03-01 23:00:35,361 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:36,346 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 10505
+INFO 2024-03-01 23:00:36,437 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:37,157 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 11859
+INFO 2024-03-01 23:00:37,300 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:42,342 basehttp 212 "POST /admin/goods/brand/ HTTP/1.1" 200 10538
+INFO 2024-03-01 23:00:45,184 basehttp 212 "POST /admin/goods/brand/ HTTP/1.1" 302 0
+INFO 2024-03-01 23:00:45,218 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 11789
+INFO 2024-03-01 23:00:45,333 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:47,579 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 11655
+INFO 2024-03-01 23:00:47,679 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:49,506 basehttp 212 "GET /admin/goods/brand/1/change/ HTTP/1.1" 200 12970
+INFO 2024-03-01 23:00:49,661 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-01 23:00:53,665 basehttp 212 "GET /admin/goods/brand/add/ HTTP/1.1" 200 12570
+INFO 2024-03-01 23:00:53,772 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-01 23:01:17,596 log 241 Internal Server Error: /admin/goods/brand/add/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1227, in save_model
+    obj.save()
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1821, in execute_sql
+    for sql, params in self.as_sql():
+                       ^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1745, in as_sql
+    value_rows = [
+                 ^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1746, in <listcomp>
+    [
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1747, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1695, in pre_save_val
+    return field.pre_save(obj, add=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\fields\files.py", line 317, in pre_save
+    file.save(file.name, file.file, save=False)
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\fields\files.py", line 93, in save
+    self.name = self.storage.save(name, content, max_length=self.field.max_length)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\files\storage\base.py", line 38, in save
+    name = self._save(name, content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\utils\fastdfs\fdfs_storage.py", line 48, in _save
+    ret = client.upload_by_filename(content.read())
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\fdfs_client\client.py", line 84, in upload_by_filename
+    raise DataError(errmsg + '(uploading)')
+fdfs_client.exceptions.DataError: [-] Error: b'\xff\xd8\xff\xe1\x00\x18Exif\x00\x00II*\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xff\xec\x00\x11Ducky\x00\x01\x00\x04\x00\x00\x00<\x00\x00\xff\xe1\x03ohttp://ns.adobe.com/xap/1.0/\x00<?xpacket begin="\xef\xbb\xbf" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:5208FACB7B52E611BC31951B901FD532" xmpMM:DocumentID="xmp.did:4F54BE6C67AD11E698E8B587E66BFCED" xmpMM:InstanceID="xmp.iid:4F54BE6B67AD11E698E8B587E66BFCED" xmp:CreatorTool="Adobe Photoshop CS6 (Windows)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:9B080CC3644E11E69467D55D30F664A9" stRef:documentID="xmp.did:9B080CC4644E11E69467D55D30F664A9"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>\xff\xee\x00\x0eAdobe\x00d\xc0\x00\x00\x00\x01\xff\xdb\x00\x84\x00\x06\x04\x04\x04\x05\x04\x06\x05\x05\x06\t\x06\x05\x06\t\x0b\x08\x06\x06\x08\x0b\x0c\n\n\x0b\n\n\x0c\x10\x0c\x0c\x0c\x0c\x0c\x0c\x10\x0c\x0e\x0f\x10\x0f\x0e\x0c\x13\x13\x14\x14\x13\x13\x1c\x1b\x1b\x1b\x1c\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x01\x07\x07\x07\r\x0c\r\x18\x10\x10\x18\x1a\x15\x11\x15\x1a\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\xff\xc0\x00\x11\x08\x00\xb4\x00\xb4\x03\x01\x11\x00\x02\x11\x01\x03\x11\x01\xff\xc4\x00\x92\x00\x01\x00\x01\x05\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x01\x03\x05\x06\x07\x02\x08\x01\x01\x00\x03\x01\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x02\x03\x05\x04\x06\x10\x00\x02\x01\x03\x03\x03\x03\x02\x04\x05\x02\x05\x05\x01\x00\x00\x01\x02\x03\x00\x11\x04!\x12\x051A\x06Q"\x13a\x07q\x812\x14\x91\xa1BR#\xb1b\xf0\xc13C\x15\xe1\xf1r\xa2S\x16\x11\x01\x01\x00\x02\x01\x04\x02\x01\x03\x05\x01\x00\x00\x00\x00\x00\x00\x01\x11\x02\x03!1\x12\x04AQ\x13aq\x05\x81"2Bb\x91\xff\xda\x00\x0c\x03\x01\x00\x02\x11\x03\x11\x00?\x00\xfa\xa6\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x0f\x12K\x1cb\xec@\xfc~\x9d\xea.\xd2\x121\x99>O\xc3c8I2\x03\x9b\\\x98\xc1q\xfcT\x11^]\xfd\xde=n2\xdf_[{\xf0\x8b\x91\xe6\xdc4-\xff\x00u\xd7\xbb*\x1d?\x1a\xca\xff\x00%\xc7\xf0\xbc\xf4\xf7]\x83\xcbx\xa9\xa4\t\xf2l\xde\xd6B\xda\x0b\x01\xb8\x93V\xd7\xdf\xe3\xb7\x19WoWx\xccG<2\xae\xe8\x9dd_U \x8f\xe5^\xcdw\x9bv\xb9au\xb3\xbb\xddY\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\x0b\x8b\xdb\xbd\x06\xab\xe5\x9e\x7f\xc6pR\x0cE\xb6Fs\x0f\xfaJn\x13\xbf\xbe\xda\xf4\xd6\xbc>\xd7\xbb8\xfaN\xbb=~\xbf\xaby:\xf6\x8eQ\xcay\xce^\\\xae\x1f&I\n\xb1A\x10%\x14\x83s\xb1c\xd3v\xde\xa4W\x1bm\xb97\xb9\xda\xba\x93\x8fM{D%\xe72\xe5\x95\x00p\xc5\x17\xfcy\x08\xb7*\xc6\xfd:[\xf3\xedU\xf0\xc2\xd9\xcb\'\x0f\x93#\x05\xf9\x94\t\x08\xb3\rGC\xa9\x00\xdc\xeb\xde\xa2\xf1#)\xf8\xdc\xb8bN9\x1b\x99I\x95\x18\xdc\x1f\xaa\x8a\x9du\xf8WfO\x8c\xe5\x9a)\x14\xa0d\xd6\xfb\xeen\x14j\x0e\xee\x9d{\x1a\x99\xb6\xda\xf6V\xe96\xee\xdc\xb8\xaf/I$\x11\xe5\x95\xd8\xc3\xd9*\xd8\x1b\xf5;\x85\xff\x00\xd2\xba\x1e\xbf\xf27\xb6\xff\x00\xfa\xf1r\xfa\x7f:\xb6H\xa6\x8ad\x0f\x13\x87C\xd1\x94\xdcW[]\xa6\xd31\xe1\xb2\xce\xefud\x14\n\x05\x02\x82\xd4\xf9X\xd8\xeaZyR%\x02\xe4\xbb\x01\xa7\xe7U\xbb\xc9\xde\xa6kodx9\xbe\x1eve\x876\t\x19?XY\x14\x91o\xce\xab9u\xbd\xaa\xd7\x8fi\xde%C4r\x82P\xdc)*H\xd7QW\x97*\xd8\xf7R\x82\x81@\xa0P(4_\xb9\x1e\x7f\x8d\xc0\xe2\x9c<L\x84\x1c\x94\x80\xeek\x82a\x04hH\xf5n\xd5\xcf\xf7=\x9f\x1f\xed\xd7\xfc\x9e\xcfW\xd7\xf2\xb9\xbd\x9c+\x95\xf2l\x8c\xa2\xcb<\xb0\xab\x92ZB\r\xdd\x89\xd6\xf7]\xfa\x9f\xc6\xb9:\xf1\xf5\xcfWW8\x98C|\xbc\x86O\xf2\x14\x99O\xb9N\xefu\xfa\x8fv\x86\xe3\xd6\xb5\x91Z\x90\x99\xb3H\xe3c.\xfd\t\xd3i\xdb\xdbE\xb7N\xb7\x1dj|Q\x94\xbf\xdd\x82\xe8\xd2K"<z\xab\'\xe96\xee\xcbc\xba\xd5_\x0f\xa3,\xae\x06s$\xd7k:\xe8\xcdq~\xbd\xc1\x1a\x1f\xc2\xa7\x19V\xb3X\xf9\xc2(\xd5\xc5\x82\x1e\x8e:\x83\xde\xff\x00\x8dV\xea\xacO\x83.<\x88\x88w\x1b=\xac\xb2\x01\xee\x1e\xbaV;\xe8\xd7]\x99\x8e\x13\xcb\xc7\x1c\xe2Lo\x93\'\x02Co\x8a\xcc\x1c\x9b\xd8\x9b=\xb6\x90{U\xfd\x7fgn\x1d\xbf\xe5\x97/\x04\xe4\x9f\xf4\xe9\xd8\xd3\xa4\xf8\xf1L\x86\xeb"\x86\x04}E\xeb\xe94\xdam%\x8e6\xd3\x17\x0b\x95d(\xee\x88\xa5\x9c\x80\xaa\t$\xfa\n\x8bp4\xcf#\xfb\x99\xc6\xe0\xb1\xc6\xe3\x14gd\xdc\x03(?\xe1R\x7f\xdc?_\xe0\xb5\xcf\xf6?\x90\xd7^\x9a\xf5\xafw\x07\xa5\xb6\xddv\xe9\x1c\xf7\x90\xf3\x8f$\xcd\xc8f\x97*E\x81\xcf\xb5!m\x8b\xdfM>\x95\xca\xdf\xda\xe4\xdb\xe5\xd2\xd3\xd6\xd3_\x86-\xc7"\xd3Y\xdc^q\xbc\x06y\x18\xaa\xe8w\xb8$\xed\xdd\xfe\xda\xc7\x17j\xd2\xd9"\xf9\x82x\xe3\t\xfe=\xda\x99r\x1e\xdai`\x00\xb7\xb8\x91\xde\xff\x00J\xd3\x13VR\xdd\xab\xdf\x0b\xcb\xf3x\x13I\'\x1f\x95&\'\xc8\xb6X\xbf]\xc7P\xc5\x18\xb0\xd7\xb0\xa9\xd3\x9fm:\xcao\xc1\xae\xdd\xe3\xa1\xf8\xd7\xdc\xbcy\x04x|\xee\xd82@\xb7\xee\xd0\x1f\x89\xb6\x8f\xeb\xbe\xa8O\xf0\xae\xa7\xaf\xfc\x84\xbd6\xe8\xe7\xf3zVu\xd7\xab|GI\x11]\x1820\x05Xj\x08=\x08\xae\x9c\xaf\x02\xb4\n\x05\x04\x1ew\x97\x83\x88\xe22\xf9)\x86\xe4\xc5\x89\xa4\xd8:\xb1\x1f\xa5G\xff\x00#\xa5g\xc9\xbc\xd7[V\xd3O+#\xe5\x0ew\xc8\x9f?\x90\x9f/1\xd7|\xf24\xb2\xb9\xbb]\xd8\x9b\xe8{/@-\\)\x9d\xad\xb7\xbdw$\x9a\xc9#\x1f\x1ev*\x1b\x7f\x8d@\xfd\x0b\xb5A\xfc\xc8kk\xd7\xa5\xeaqS\x95\xd8\xb2c\xdcY\xc3\t.A\xb2l\xdd\xda\xde\xeb^\xdf\x85O\x8a2\x95\x1b\xc4\xac\x03\xee\x92+\x93\xb8\x82\n[\xfbO\xfe\xb53(\xdaE\xe1\x95\x1a\xdd/\xbd\xd7\xf4\x86\xb86\xe9\xdcU\x94M\xc5\x99K(W\xd8\x08\xb2\x97=m\xa1RG\xafK\xd5f\xa6\xdb\'\xc1\xc8\x85`\x9b\x832\xb0+\x7fp(:\x06\xeat\xe9z\x9b\x15_\x87\x95@\xfe\xc0#]\xc5\x95\x05\xac5\xf4\x15K\xafE\xa5\xea\xd8p\xb9\x0b*\xcf\xb8\x90\x18\x83\x127\xf4\x93{\x11\xf4\xf5\xaf\x16\xfa\xdc\xb7\x97-\xe7\xed\xe79\x8e\x1d\xb8\x81"\xb2\x9d\xcf\x8eA\xe9k^>\xe3\xa1\xbfZ\xe9\xff\x00\x17\xcf\xfe\x97\xfa<\x1e\xf7\x17\xfbF\xf7]\xa75\xc7~\xe5y\xe4\xd9Y\xf2q<t\xa5q\xb1\x9b\xe2\x9c\xd8\xec\x96C\xf5\x03U^\x84\\W\x13\xdc\xf6\xae\xdbx\xcf\xf1v=?ZM|\xafv\x86\xb3\xe8\xee\xac!\x8c\x02\xccN\x8bs\xf5\xfe\x90-\\\xece\xee\xb6\x07\x94\xc2\x9c\x04L\xa0\xec[\xaa\x1b\xd8\xff\x00\xbb\xf8U\xe7\x15R\xf2Fb\x0f\x9e\xc6Fe\x8f"sg\x17\xb1 \\\x8bw\x1d\x8d\xbd+mu\x92<\xfbm\x9a\xa6FB\x8c\x14\x08\xc08DV&\xccH\xd6\xc4\xae\xb6\xb9\xefYo\xd5\xaf\x1c\xc3\x14\xb3\xc9;\x95\xf9Z\x05$1\x906\xd7\xb2\x8bi\xa0\xb1\x07\xd4\x9a\xcf\xc6F\xd9M\x12\xee\xbd\xcf\xc5(\xd1\x981\xdaH\xe9\xd7K\xf7\x07\xa5V\xc27_\x01\xf3\x19qr\x13\x8c\xc9\xca_\xd8J\xe4\x07r\xccbs\xfd\x84\xff\x00C\x1f\xc8WO\xd2\xf6\xae\xb7\xc7n\xce\x7f\xb7\xeb\xcb<\xa7wZ[X[\xa7j\xed\xb9%\x02\x83\x93\xfd\xf4\xe7\xd6<<N\x1e9\x08gc>B\x0e\x85V\xc1\x03}.o\\\xcf\xe49;j\xe8z<}|\x9c\x03#5_0\xee\x95\x9c%\x97m\xc7Mz\xdc\xd7\x8fMq\x1e\xfd\xafU\x03\x9b\x9b\x05*\xc3m\xbe5\xdcE\x8f\xf7\x1a\xb2\x17\x91I]\xd1)m\xbaj@am\x07N\xdf\x95Z+^\x9b\'\xde\x15\x9b\xe1u`\x7fP\xbe\xbd{\xd4\xe1\x19H\x87*\xf2\xfe\xd2fY\x18\xb5\x96\xcc\x0e\xd0,n\xe4n\xb5\xef\xa6\xb5Y>J\xac\x9c\x84\xa42\xc7\x8c\xc9\x8a\xcf\xb7\xf7\'RYz\xed\'N\xbd\xebI\xa6Yy2X\x19\t\xb4\x14!\xe4\x01\xa2\x12\x9e\x81\x8fG\xbd\xba\x8a\xa6\xd3\t\x89{\xe1\xfd\xa1h\xd5Y\xa1\xba\x16Sp\xda\xebo\xcf\xd2\xb3Z\xaebsm\x0c\x91m\x8eD\x8c\xd9}\xfe\xe5`t\xd1\x85\xf5\xbdF\xdc]\t\xbfV\xdd\xc4\xf2I\x83\xfbnG\x14\x90"q-\x94t\xb9\xb1\xd0\xfeu\xe7\xcd\xd3ig\xc3\\y\xcb+\xa4y\xc7\x9a\x1e#\xc4W\x95\xc3+\xf2\xe5\x85H\x1c\xea\x15\x9c\\\x9b\x7f\xb4^\xbb^\xc7\xb1g\x1c\xdb_\x973\xd7\xe0\xf2\xe4\xf1\xbf\x0f\x9ee\xcdF\xcb\xdc2Z\xf2\xfb\xdb\xe5\xb9:\xb7\xa1;z\xf5\xae.-\x8e\xdfn\xcc\x7f<2r\xf8\xc0\x91\xef\x92\x05\x90#E\x117o^\xfd?\xd2\xbd~\xbe\xba\xce\xb5\xe4\xe6\xb6\xf4\x8ax\xff\x00\x1b\x07\x1e\xef7\xed\x8c\x03\xda6\x96\xdc\xc0\xf5&\xd7\xb0\'\xe8jy\xb7\xf2\xbd\x11\xa6\x98\x9d[\xa6F[\x9c\x07\x9f\x14\x87%X\x14`w\x02\xbd\xb6\xfa\xeb\xa1\xf4\xac\x92\x81\xe3\xfc\xf6.b4+ \x8f )\xf9#\xd7y\xeb\xed\xea-Y\xf2qX\xd3]\xe2c\xc7:H\x04I\x1cq\x9b\x99\xa3 2\x90\xc2\xcf\xee\xfc5\xf5\xac\x7fv\xd2\xbc\xb4\xe2\xfb\xb2\x15#\x91\r\xef}H\x03F\xb1\x03\xd2\x94\x9dL\\\xa6\x92Qv1\xdbn\xd5p\x7fP$\x1b}\r\xfa\xd5nLGi\xfbm\xe42\xf2|9\xc4\xc9%\xb2\xb0O\xc6\\\x8f\xd4\x9f\xd0O\xd7\xb5w\xbd\x0e\x7f=1{\xc7\x1b\xdc\xe2\xf1\xdb3\xb5m\xf5\xefx\xd4fU\x17&\xc0kA\xf3\x8f\xdd^K+;\xcc2\xd6E\x8d\xe4\x83l\x11\x05;\x94*j4n\x9f\xaa\xe6\xb8\x1e\xd6\xf7m\xee]\xafSI4\x8ea\x97+\xc5)\x88\x81\xd6\xecM\x94_\xae\x96\x1a\x0f\xe7V\xd3\xack\xb5\xc3\xc3fN\xcc\x1dT\xaa\x83g\x05\xcb\x03amt\x1f\x90\xab\xcdd\xee\xa5\xda\xfc\x0b\xc8\xecb\xc1\x80${\xf6\\\x90OK\x82\x05\xaa\xd8V\xd5\xe5\xcf\xc5\xde\xd7\xbb?p\xc0\xdb\xf1\xb8\xa8\xba\xd4\xcb\x12x\xf9\xd0dB\xf2\'\xf8\x98\x80\xee,\x80-\xac\x06\xa6\xab\x83d\xa5\xe1\xf3\xe0i!pL\x08[\xe3\x93p>\xce\xa0\x01\xd0W\xa3]\xb3\x1ek:\xa9\x88\x8d\xb5\xe4\xdc\xde\xc2\xb7\x91T\x92\x0fU\xb8\xbd\xbbzV|\x8d4d\xf8\xdeBL\x8f\xdd\xc7\x18\x89\xe1E2\x15e\xf8\xdc\x92@w*N\x9d/\xd7J\xc7mp\xba\xc2~\xe1$lVk\xab\x1fc\xff\x00C#j\x08\xb5m\xde2\xf9n\xb81|xP\xc1u\x13j\\\x92T7\xad\xcf\xad\xab\x9d\xce\xf5q1\xff\x00q\xfc\x86w\xf0\xde\x1f\x00\x11\x0f\xfe>iC\xef\x17\x91\xcbh\xa5v\xdfn\xd0\xc4j/^\x8e>_-&\x9fJ\xce?\x1d\xee\xdfnw\x8b\x91>Q\x18\xc1\x1ew\x93Q\x19Vfm\xc2\xd6\xf5\xfc\xa9\xe3\x86\xb7fR\x0c\xb5\x85~\x19&KF\x01lwfN\x9ah\xaa?^\xb5\x17\\\xab\x94\x89\xf3\xa3\xc9\x08\x91\xc2\xc3\x15b\xb2\x95\xd0\x96\x1a1\xb9$\xb7\xba\xf5i0\xa3+:\x17\xe3\xe2\xc4U\xf7\x13\xac\x88M\xd6E\xd6;\x956\xb0m?:\xa5\xb2RK\xd5\xafe\xe4.Ff&LQ~\xdf\x90\xc6e\x0f$d\\\x81\xa3\xa1\x03\xd1\x87q\xa5z\xee<Xk\x9f&zNY\xdb!\x02\xdc2\x82\x04\xa4\x8dW\xd1\xbaw\xfc\xfb\xd76\xce\xb9{\xf5\xec\xf5\x1b\xcef\x8e\\\x96\xdd oh,\x00e\xb7\xb4\xed\x00\x9b\x1f\xadE\xec\x98\x99\x8f\x98,\xe4\xc2\xa9\xf1\xdc\x89\x14\x97m\xa3P\x02\xafE\xf5\xbdS\t\xad\xd7\xed\xe7\x90O\x8d\xe4Xj\x18|\x19\xc0\xc34@\x8d\xa2\xea\x1dM\xcd\xf5S\xd6\xbd\x9e\x8f-\xd3\x93\x1fo\x1f\xb9\xc76\xd3?N\xd7_B\xe2\xac\xe6c\x0c\x9ci!%\x94\xb0;]\x18\xa3+v!\x87J\xae\xda\xe6\'[\x8a\xf9s\xcc1\xf3W\x9c\xe4\x976&\x8f0HL\xdb\x8a\xbbm\x1a1\x05\x00Vq\xd4i\xaf\xa5|\xf77M\xae]\xde\x0c]f\x1a\xbc\xc7\x0b-^X\xd0\x0c\xac{\x87B\xc4]G\xe8:\xf5\xbfqV\xd33\xf6\xabm\x8a\xc5\xcb\x90\xd13\xee\xbbH\x1e\xc8\xb1\x92\x01\xbf}\xb7\xed\x7fZ\xf4\xeb\xaeX\xdd\x9ed\x9e0\xce\x88\x91d\xbc\x8d{\xb8!m\xb6\xce\t\xd0\x82[[\x83S\x83*\xa2\x0f\xd2Z%\x03Y,D\x97\xef\xd2\xe4\xd4d\xc2\xe8n?\xe3\x12\x89\x1d\xc8>\xe8\xd6+\xbf\xf1$\x01U\xfe\xe4\xe66$\xe4\xf0\xdf\n<7ft*\tca\xb4\r@mE\xaa\xb3\xca+d\xa8\x19\x199&\'Q\x0c\x85=\xba)\xb2\x8d\xda\x80\xcc\r\xf5\xea\x05_\xe5\x12-F\xc62\x89\xb2\x18Dm\xf2~\xecF~f+\xa7\xc7\xbb\xdd\xb4zv4\xee\x96\xcd\x8f7\xcf\x1ad\xca\xbbdpn\x8e/\xba\xddX[Mk;\xb5\x9d\x11uO\xc7\xe4\x9aM\xa8\x88\xabpP1\xe8\xb6\x1a\x9b\x9e\xc0W\x9b\x966\xe3j\xfee4\x84`\xe3i\xbeS#\x8c\x80l=70n\x97\xda*\xdc\x1a\xe35m\xeeXI\xe3H\xb6I\xf3\x87/b\n\x9b\x1b\xde\xcd{t5\xac\xb90\xaa\xc6\x91\xb0w`#\x02\xcb\xd1V\xc7\xb5^K{)l\x8b\xd1\xe4\x17\x80\x8cvX\xe3\x04\x92\x13\xfb\xbf3\xdf\xe9\xd6\xabe\x97\xaaf/fw\x072!\n\xaf\xb8\xc3o\xf2\xc3\xeeU\x0e\xa7Ku\xf5\xfc*\x9bjKU\xcd\xcd\xc7|\x85\xf8\xe2[hd`\x96r@\xd01\x03\xf9\xd3\xae\x11\xe3\xd5Fx\xc3t\xdf0\x04\xaa\x12E\x83\x0fOJ\xc6\xb6\xd6+\x89\x91\x0e,j\xa5>I\t\xde\xae\xc6\xec\x87\xa6\xd2_o_\xa1\x15M\xa6kT\xe8e\x8e7Vh7\xe2\xbd\x8e\x8c\x086\xb3)\xb8\xefs\xad\xea\x98\xa8\xad\xbf\xc3\x00o/\xe2F\x04\x1f0I\x8f\xc8\x87@\xa3ko$\x9fE\xe9\xa5z\xbdO+\xc9\x1eOfI\xa5w\xeb\xfb/n\xd7\xb5}\x1b\x86\xa9&\xc6\xddh>u\xfb\xbb\xc6<\x1e]\x9d7l\xc1\x0c\xc8\xabv\xb3m\xb0mz{\x81\xae\'\xb7\xae7\xae\xc7\xa9\xb6t\x8eO\x97*&K\x99M\xcc\xb6i\xb7-\x8d\xc0 \x15\xb5\xf7i\xd6\xf5:k\xd3\xa3K\xb7^\xa8\x8f.\xc6o\xda\xb9\x11\xc8/\xb8\xda\xe7p=\x87Qn\xbd5\xad\xa4\xe9\xd5\x95\xef\xd1f5\x04lB\x1a\xddM\xf6\xfd-\xaf\xe9\xebR\x84\x88\xe3\x11(\x8c\xa1\x1bur\x00=\x7f\x1e\xa6\xabnR\x95\xf17\xc7u\x8dP6\xa0h\x18\xf5\xb1 \xdb\xb5U+\xf0D\xb2\x84\x89\x15\xdfko\n\xf6e\xb8\x16\xbe\xa3\xdd\xff\x00\x1aTZaq\xf6B\xa9\x04d*\x00\x0f\xa1\xb9\xfcj\xd2g\xaa\xb6\xa4cB\\\x90E\xcb\x8b\xeb\xdc\x8e\xd5]\xaauN\xc23\xac\x85\xee\x02\xbc{f\xd6\xf7\x00\xe8\xc05\xce\x83_me\xb2\xf1\x90\x8eicF\xf9$,\xc4jR\xd6k\xf7\xedj\xc3x\xd3VS\xee\xb7\x84\xb7\x1d\xe0\xbe7\xc8,\x17w\x8d\xc6|\xc7u\xc3\xe4\x11*_\xb7\xa8\x02\xd5\xef\xdb\x8b\xc7]k\xcb\xc5\xcb\xe5\xb6\xd1\xcc\xf1\xe2M\xb6\xda\xd7\x16\xdc\xc4X_\xb6\xbd\xeb\xcf\xb5{d\xe8\xbf\x9d\xc7I\x91\x88\x100\x12!\xbak\xa1\xefk\xf6\xadxy$\xac9t\xca\xc7\x19\x87\xc8\xc55\xc4[\x10\x8b2\xb1\x0c\x1b\xbfAS\xcd\xc9\xae\xca\xf1i\xb4g\xf0f+1h\x9bc\x82w\xa9\x1a\x80\xcbk\x83\xdc\x13\xd6\xbc\xd7\xa3k\xd5p\xc3\xb2a*\xb2\xae\xe1\xfedbt`z\x8f\xa1?\xc2\xa2Q&e\x162\x86*\x08\xf7\x86\xd7Kv&\xf5\x9e\xcd5\xabK\x1cL\x17\xe4Be\x92\xe2-J\x8e\x97\x06\xe0\x8dt\xecj\x9f\xb3D\xc8\xf2\x0f\xc0\xb1\x00\xc1\x1d\xc0*\xa7r\xe9\xae\xb6\xd0joaLL\xabmo\xdfg8\xc9\xe7\xf2H\xe5\x04\x94\xc3\x89\xa7\x96K\x8bo\x96\xea\xb7\x1a\xfe\xa0M\x87Z\xf7z:yo\x9f\xa7\x8b\xdd\xdf\x1a\xe3\xed\xdd\xeb\xb4\xe4\x04\n\x0eW\xf7\xbf\xc7VN\x18s\xea\xe2\x1c\xacS\xf0\xc8\xe4\x9ftR\x90\x15m\xa7F\xb7\xf15\xe1\xf78\xf3<\x9e\xcfS\x93\x17\x0f\x9b\xf3\x03H\x8d,\x80\x96\x1e\xd3n\xdbN\xddT\xfb\xad\xf8W\x9bN\x8fn\xc8\xa66W\xdc\x88\x04"\xe3\xe4k\xed:\x0e\xd7\xbfz\xbez(\xaa\xe3\xe2\x9d\xa0\xce\xc4%\xb7\xef>\xed5\xb0\x1e\xf6\xfe\x15\x19\xa9H\x8eO\x88\x88\xf6\x9d\xa6\xe5E\x89s\xf5\x00t\xfc\xea\xb6-\x15\x01\xc5\xd1\x81\rbn\xc7R\xdd\xaf\xff\x00+Tel\'\xa91I\x1b\xb24gm\xca\xfb\x99\xb7\x7f\xefU\xccN\x1e\xf3q\xe6y~xqNB\xcd\xb4\xba)\x01\xd1\x87P\x01\xec~\x95~;\'F[\xea\x93\x8b\x85\x93#\x89\x04g\x163m\x91\x93n\x83[\xde\xc4V{\xed\x13\xace\x8f\x1d\xf0\xc6\x85\xbe3~\x977\xb1\x03\xaf\xb6\xff\x00\xebXM\xfa\xb5\xf1\xe8\xcc\xf8\x7f\x8a\xcb\xcey.>\n\x10!\x93d\xd9@\x10B\xc6\x80|\x96?_\xd3\xf8\x9a\xdf\x87\x8f\xcfi\x18\xf2\xf2x\xebk\xbe\xf9\xa7\x8f\';\xe2|\x8f\x0e\xbb\x11\xa7\x81\x96\x06m\x15\x1dE\xd0\xfd5\x15\xd7\xe5\xd3\xcb[\x1c\xce=\xfcv\x95\xf2,\xf8\xd9\xb8\x19O\x89<R&L\x07d\xd08\xfd.4#\xf8k\\]\xe7\xdb\xb9\xa5\xcc\xcaDE^2,@\x1a:\x0bn\x1f[\x9f\xc4\xd6v\xaf\xe3\x94\x9c8\xe3\x00\xfca\xe4\xbe\x81\xa5a\xb9M\xae\x0e\xc0\xabU\xb6\xd3\xc6E\xef\x8a K\x16\xf8\xd9T\xdd\x81\xb0\xb1\xf5\xfaU\xadS\x0fx\xf8+.Ih\x18\xc8\x83`\x845\xaeKh\xf7\'\xbe\xb7\x1akj"\xa6`\xf1\xb1\xcd\n\xe3\x8d\x85\x9e\xed\x14\x8eH\x0c5\xf6\xd9\x89\xda4\xb8\xfc\xc5R\x92\xac\x7f\xe3\x1f\x1eQ\xf28\x05w,q0\xf7\x0e\xceW\xaf\xe5\xa5Gv\x9eJa$\x91Hw\x86\x8a(\x9c\x94[]w\x13\xa0\xb7\xf7\x1b\x9b\x9a\x9b\xaeQw}\x11\xf6\xdb\xc3c\xf1\xfe%&v\r\x99\x96\x81\xf2\x00\x1a)\xd7`\x04\x80n\xaal~\xb5\xdb\xf5x<5\xfdk\x8b\xec\xf3y\xed\xfa7\x1a\xf5<\xe5\x04>_\x89\xc1\xe5\xb0f\xc1\xcd\x89f\xc7\x99\n:0\xbe\x8c-q\xe8}\rWmf\xd3\x15:\xede\xcc|\xb9\xe6\xbe\x177\x8fsrqN\x0c\x8a\x83~,\xec\xa0\xbb@\xdd\xd6\xfa6\xd3\xa3Z\xb8\xfc\x92\xe9\xb6+\xaf\xc5\xb4\xdf\\\xb5\\\xbf\x1e\xc8i\x0c\x8b$\x85,6\xa2\x90\xab`m\xd4\x93\xd4u\xf5\xa9\xd3\x9a-\xb7\x1dy\x8f\x8d\x96\x06\xdd4e\x14-\x90\xed\xe9\x7f\xc2\x9brK\xd9:\xe8\x9b\x1f\x1b2F$\x9aC\x16\xf2-\xb8jE\xbf\xa4.\xe65\x8d\xe4\xea\xd2j\xbf\x8d\x84\xfb\xd7l@X\xda\xef\xee\xfeCJ\xae\xdb&D\xecx\xf6\xc6$\nL\x85\xda7\xdb}\x80\x81q\xf5\'Z\xaaWS\x13x\xdc\xaaI\x07W\x1a\xed&\xab\xe7\x82\xeb\x95\xe4\x8e%\x01\t\xbd\x8d\x81\xb5\xcbZ\xa7\xca\xd4x\xc8\xbb*\xbe\xd2\x89\xbc\xdf\xfe\xde\xadvcaaQ\'S=\x1d\xaf\xed/\x89ep\xfcl\xfc\x87!\x17\xc5\xc8g\x11h\x88\xb1HWU\x16\xecX\x9b\x9a\xec\xfa\x9c^37\xbb\x91\xec\xf2\xf9\\N\xcd\xe2y\xe2D!\x8fQ\xadz\xedy\xe4|\xef\xf7\x83\xc0\xf21\xf3\xf2\xbc\x8f\x07(\xcb\x06C\x892\xf1\x82\x93(6\xd4\xa9\xb9\xdd\xd3^\xf5\xcd\xf68z\xe5\xd4\xf5\xb9\xbax\xd79\xc2\x98J\xdf\x0b-\xa4c\xfa\x17F \x8dw\xdf\xf0\xaf\x06\xd1\xd0\x95>8\x89\xc8\x8eK\xde\xe5\x81 \xd9\xc3\x95\xd3u\x8f@j\x9eE\x8a\x89\x11\xf1\xe4@\xc5D\x8a\x15\x89\x16Q\xa7R\x0fj\x0f|t\x8f\xb8\xbc\x92*B}\x80\x03pYV\xdb\xb4\x1e\x9a\xde\xa7*\xed3\x13\xa4\x95\x95\x8b\x80dG\xd5\xe4\x06\xcdq\xa0`O\xb7q\xef\xae\xb5y\x18\xaeI\xfblA&FD\x816\xaf\xfdvV6U7\x1bF\xbb}\x0e\x9f\x85W\x16\xd5\xbc\x9d\x0f\xed7\x83\xc9\x9c\xd0\xf9\'\'\x8d*\xe2\xc2\xf7\xe3\xe1\x92\xe0\xc8{\xcc\xe8@$_\xf4\xde\xba>\xb7\xaf\xf3\\\xff\x00g\x9b\xe2;et\x9e\x02\x81Afl\xccxE\xe4p*-L\x96\xb5_*\xff\x00\xf9\x8ek\x14\xe3r8\xe2`5IA\xd9"\x1e\xc5\x1cj?\xd2\xb0\xe5\x9ao1[\xf1\xf9ks\x1c\x0f\x98\xe3r\xb8\x9c\x8c\x88C4\x98\xb1I\xb29\x9bj\x87Rn\x01\xb7N\x95\xc7\xe4\xe3\xba\xd7[\x8fy\xb4F\x89\xe7\xb9\xb1*\xaco\xf1\x96\x05H\xed`t\x02\xb3_\x0f\x11\xecw\xf9Z\xcc\xe8\xd7+\xba\xf6\x1f\x88\xd0\x0fZQ\xe8|\x0c\xb6\xbe\xd6:oP\xdd5\xd3\xaf\xd7\xa9\xa2Wq\xcb\xfe\xdf\xe2\x8d}\x82A\xdb\xd5\x7f\xfa\xf4\xaa\xedS\'U\xd8\x0c\xd1\x80\xfa\xc6J\x9fh\xd0\x92o\xf9Z\xd5I\xd5m\xb0\xbd\x08&@\x91\xc6\x19\xdfE\x8dA\xb9c\xd8Z\xfdMi\xa6\xb7\xfa\xb2\xdfh\xe9\xde\x05\xe288O\x1f%\xcc\x82\xf9\xe1\x83\xc1\x00>\xd8\x8a\xff\x00S\x11\xd5\x8f\xf0\x15\xd3\xf5\xbdi\xad\xf2\xdb\xbb\x9f\xecs\xdd\xbaN\xce\x8f?-\x08[\xa9\xd2\xba\x17g\x8aj\xd7\xb9>f\xc0\xd9\xac+;\xb3Y\xabE\xe7|\xa1\xa2\xdd\xb5\xb5\xd6\xb2\xbb4\x91\xc9\xbc\x8c\xe3df6d#\xe1\xc8bL\xac\xba\x07c\xfdMn\xfa\xd7\x9f~)\xb3\xd5\xc7\xcbuk\xd1r\xeb\x8aX9d\x01\xb7h\xc6\xc5\xba\rM\xf4\xaf>\xfc\x15\xe9\xd3\x9bZ\x95\x8f\xcec\xcb\xb5\x0b\x85E\x1e\xe3\xd6\xebp@\x00\x7f:\xce\xf1U\xe7$LNg\x00\x93\xfe[\x12=\x84\x00\x02\x9e\xfd\xacj\x9f\x8e\x9eq\'\x17*9e\x11\xe2\xdc\xc64$\xb1\x01\xaf\xafj\xd7^\x1d\xafv;\xf2\xeb\x1b\x8f\x8e\xf0\x9f\xb8\x9f\x19\xf2\\I\xfbyQ\xd6\x06]\xf0\x95F\x0cE\x8e\xba\x8f\xe0k\xd3\xc7\xc1\'w\x97\x93\x9a\xde\xcf\xa28Gf\xe3a\x056\x05P\x14\x01a\xb4t\xb0\xae\x96\xbd\x9c\xfd\xbb\xa7U\x95(!rYM\x0cD.\x84\xf7\xaa\xedW\xd6e\xa5r\x9c\x84\xd7k\x9a\xf3Z\xdeF\xb3\x9b\xc8=\xcd\xcdW-$k\\\xbeN.Jl\xc9\x8cJ\x8b\xa8\rT\xdaK\xdd}s;4.JD\xc4b\xf1\x93"\x7f\xf96\xa4\x0fE=\x85yw\xe0\x9f\x0fN\x9c\xd7\xe5\x019\xbc).\x00h\xe4\xfe\xc3\xa7N\xfe\x95\x95\xe3\xb1\xb4\xdeT\xb1\x9d,\xfa@T\xa8]\xcc\x0b\x0bZ\xddOz\xcf\x18_)0\xf2\x1ctq$se\x83 c,\xb7k\x00\xd6\xb0\x00X\xdc\x01\xd2\xabt\xda\xfc#\xca+\x8f\xca\xbeC\xda\x04g\x91\xff\x00\xee\xbf\xe9[\xff\x00\xce\xb7\x9c\x1bVW\x9bX\xdbx(\x9e\x12\xacF\xe9mo\x90\xf5\xfa\xdb\xd3\xf2\xafo\x17\x14\xd7\xb3\xc7\xc9\xc9vt\xbf\x14\xc2\xe42\xe2\xf6\xeb\x18\xb0[\xff\x00:\xf4\xe9-y\xf6\xb27Q\xc2\t!\xda\xe4\xabv\xad|Yy\xb0\x1c\xcf\x8af\xba\x1f\x8b\xdd\xf8U6\xd2\xaf\xae\xf1\xcf\xb9\xcf\x12\xceB\xc6H\xdb\xf1\xb5euk6i|\x8f\x8c\xca\t\xf6\x1a\xce\xc6\x93f\xbd\x97\xe2N\xe4\xde?\xe5U\xca\xd9CO\x05\x0e@1\x9b\x0e\x9az\xd4\xf9\x16\xb38\x9e\x06\x8d\xb3|;\xb6\xd8(#\xd2\xa2D]\xdbo\r\xe13\x12\xab\x1c\'\xe9\xa5^j\xa5\xd9\xd4<W\xed\xfc\x90\x95\x9b,|h5\x0b\xdc\xd6\xfaq\xfd\xb0\xdf\x91\xd0Q\x15\x10"\x8b*\x8b\x01[\xb0V\x81Ac/\x11gK\x1e\xbe\xb5\x16e2\xe1\xaar\xde?9\'h\xbf\xd4V\x1bh\xdf]\xe3N\xe4\xf8\\\x85$\x15"\xd5\x8d\xd6\xb5\x9b5^C\x87\xc87\xf6\x9a\xa5\x8b\xca\xd6\xb9\x0f\x1e\x9aK\xfb\x7f\x95UyX,\x8f\x12\x99\x8d\xc0 \xd2\xc4\xf9"\xaf\x88d/\xb4;\x8d\xc7P\t\x15\x19\x9fF\x7fVC\x1f\xc2\x94\xcc\xcc\xb0\xde\xe7M=*\xd2\xd5n\x1bw\x01\xe19\xef \xf8\xa3ff\xd0(\x17\xabMmR\xed\x1dO\xc7>\xd9\xb2\x85\x93\x90m\x80k\xf1\x8e\xb5\xe9\xd3\x8b\xed\x86\xdc\xbfN\x81\x85\x81\x8d\x87\n\xc5\x02\x04U\x16\xd2\xb6\x93\x0c-\xcaEJ\n\x0br\xe3\xc1(\xdb"+\x0f\xa8\xa6\x13+\x19\x95\xe2\x9c\x1eE\xf7\xe3\xa8\xbf\xa6\x95K\xa4ZrV:_\xb7~>\xe7H\xedQ\xf8\xa2\xdf\x96\xbc\xc5\xf6\xe7\x81C}\xa4\xd4~(~Z\xc8\xe3\xf8\x8f\t\r\xad\x00b=j\xd3\x8e+y+%\x8f\x83\x89\x8e-\x0c*\x9f\x80\xd6\xad$\x8a\xdbj\xfdJ\n\x05\x02\x81@ \x1e\xa2\xf4\x11\xe7\xe3\xf1&\xfdq\x82}j.\xb1i\xb5c\xa7\xf1^2^\xb1\x8d~\x95K\xc7\x16\xfc\x95\x02\x7f\x01\xe2e\xfe\x90*/\x14[\xf2\xa0I\xf6\xc7\x8drll?\xe3\xe9Q\xf8a\xf9T\x8b\xedg\x14\xae\x19\x9e\xf5_\xc1\x13\xf9\x99|?\x05\xe0q\xc8?\x0e\xf2=kI\xc5"\x97\x96\xb3X\xd8\x18x\xca\x04\x10\xac`z\n\xbc\x92)m\xab\xf5((\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x17\x02\x81q@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x02\x81@\xa0P(\x14\n\x05\x07\xff\xd9' is not a file.(uploading)
+ERROR 2024-03-01 23:01:17,621 basehttp 212 "POST /admin/goods/brand/add/ HTTP/1.1" 500 268128
+INFO 2024-03-01 23:02:01,968 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-01 23:02:05,703 basehttp 212 "GET /admin/goods/brand/add/ HTTP/1.1" 200 12570
+INFO 2024-03-01 23:02:06,042 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560

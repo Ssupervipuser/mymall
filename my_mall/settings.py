@@ -40,11 +40,15 @@ INSTALLED_APPS = [
 
     'corsheaders.apps.CorsHeadersAppConfig',
     'rest_framework',
+    'ckeditor',
+    'ckeditor_uploader',
 
 
     'apps.users',
     'apps.verifications',
     'apps.areas',
+    'apps.goods',
+    'apps.contents',
 ]
 
 MIDDLEWARE = [
@@ -120,9 +124,9 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'zh-hans'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
@@ -241,3 +245,32 @@ JWT_AUTH = {
 AUTHENTICATION_BACKENDS = [
     'apps.users.utils.UsernameMobileAuthBackend',
 ]
+
+
+############
+# django文件存储
+DEFAULT_FILE_STORAGE = 'utils.fastdfs.fdfs_storage.FastDFSStorage'
+
+# FastDFS
+FDFS_BASE_URL = 'http://192.168.10.130:8888/'
+FDFS_CLIENT_CONF = os.path.join(BASE_DIR, 'utils/fastdfs/client.conf')
+# http://192.168.10.130:8888/group1/M00/00/00/wKgKgmXh3jOAOtEDAAvTeChfXcA934.png
+
+# 富文本编辑器ckeditor配置
+CKEDITOR_CONFIGS = {
+    'default': {
+        'toolbar': 'full',  # 工具条功能
+        'height': 300,  # 编辑器高度
+        # 'width': 300,  # 编辑器宽
+    },
+}
+CKEDITOR_UPLOAD_PATH = ''  # 上传图片保存路径，使用了FastDFS，所以此处设为''
+#
+# from fdfs_client.client import Fdfs_client, get_tracker_conf
+#
+# track_config = get_tracker_conf('utils/fastdfs/client.conf')
+#
+# client = Fdfs_client(track_config)
+# c=client.upload_by_filename('C:/Users/31952/Desktop/screenshot-1708996630918.png')
+
+# cd var/fdfs/storage/data
