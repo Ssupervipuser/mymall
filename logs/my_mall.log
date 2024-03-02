@@ -2944,3 +2944,440 @@ INFO 2024-03-02 16:03:22,486 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 1
 INFO 2024-03-02 16:03:22,579 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
 INFO 2024-03-02 16:03:24,190 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 44064
 INFO 2024-03-02 16:03:24,300 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 16:22:04,943 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-03-02 16:22:07,677 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 16:22:20,642 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-03-02 16:22:22,323 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 16:26:49,842 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\views.py changed, reloading.
+INFO 2024-03-02 16:26:51,972 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 16:28:47,289 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\views.py changed, reloading.
+INFO 2024-03-02 16:28:48,852 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 16:32:16,417 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\views.py changed, reloading.
+INFO 2024-03-02 16:32:18,128 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 16:36:09,692 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 3227
+INFO 2024-03-02 16:36:38,520 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\views.py changed, reloading.
+INFO 2024-03-02 16:36:40,525 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 16:37:18,563 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=price HTTP/1.1" 200 3227
+INFO 2024-03-02 16:37:19,852 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-sales HTTP/1.1" 200 3227
+INFO 2024-03-02 16:37:27,073 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 3227
+INFO 2024-03-02 16:39:47,540 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 44064
+INFO 2024-03-02 16:39:47,667 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 16:41:25,826 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 3227
+INFO 2024-03-02 16:42:30,131 basehttp 212 "GET /categories/115/skus/?page=2&page_size=5&ordering=-create_time HTTP/1.1" 200 3227
+INFO 2024-03-02 16:44:20,028 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 16:44:40,444 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 16:44:48,032 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 16:48:01,955 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 16:49:14,596 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 16:49:19,218 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2465
+INFO 2024-03-02 16:50:07,435 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2465
+INFO 2024-03-02 16:50:44,174 basehttp 212 "GET /admin/ HTTP/1.1" 200 13367
+INFO 2024-03-02 16:50:47,768 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12317
+INFO 2024-03-02 16:50:47,901 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 16:50:50,339 basehttp 212 "GET /admin/goods/goods/3/change/ HTTP/1.1" 200 97674
+INFO 2024-03-02 16:50:50,435 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 16:51:08,341 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15830
+INFO 2024-03-02 16:51:08,496 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 16:51:11,098 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 44064
+INFO 2024-03-02 16:51:11,210 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 16:51:54,564 basehttp 212 "POST /admin/goods/sku/16/change/ HTTP/1.1" 302 0
+INFO 2024-03-02 16:51:54,590 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 16098
+INFO 2024-03-02 16:51:54,709 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 16:51:57,837 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2462
+INFO 2024-03-02 17:11:26,799 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:11:28,133 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:11:58,696 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:11:59,814 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:12:14,082 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:12:14,925 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:13:18,537 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:13:20,484 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:14:03,908 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:14:05,398 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:14:40,965 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:14:42,412 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:15:15,903 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:15:17,455 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:15:38,110 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:15:39,779 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:15:46,298 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:15:48,034 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:15:55,854 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:15:57,819 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:17:01,464 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:17:03,014 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:17:17,961 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:17:19,783 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:19:03,096 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:19:04,149 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:19:11,955 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:19:13,119 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:20:55,178 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:20:56,896 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:22:02,936 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:22:05,291 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:27:08,459 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:27:09,968 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:28:06,094 basehttp 212 "GET /admin/goods/sku/1/change/ HTTP/1.1" 200 43969
+INFO 2024-03-02 17:28:06,251 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-02 17:28:18,205 log 241 Internal Server Error: /admin/goods/sku/1/change/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\goods\admin.py", line 25, in save_model
+    generate_static_sku_detail_html(obj.id)
+  File "D:\senior_homework\graduation project\my_mall\apps\goods\static_detail.py", line 99, in generate_static_sku_detail_html
+    f.write(html_text)
+UnicodeEncodeError: 'gbk' codec can't encode character '\xa5' in position 97564: illegal multibyte sequence
+ERROR 2024-03-02 17:28:18,207 basehttp 212 "POST /admin/goods/sku/1/change/ HTTP/1.1" 500 150506
+INFO 2024-03-02 17:29:10,440 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:29:12,626 basehttp 212 "GET /admin/goods/sku/1/change/ HTTP/1.1" 200 43969
+INFO 2024-03-02 17:29:15,088 basehttp 212 "POST /admin/goods/sku/1/change/ HTTP/1.1" 302 0
+INFO 2024-03-02 17:29:15,129 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 16058
+INFO 2024-03-02 17:29:15,239 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:29:35,742 basehttp 212 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 444
+INFO 2024-03-02 17:30:01,597 basehttp 212 "GET /admin/goods/sku/1/change/ HTTP/1.1" 200 43961
+INFO 2024-03-02 17:30:01,704 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:30:07,307 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15830
+INFO 2024-03-02 17:30:08,930 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 44061
+INFO 2024-03-02 17:30:09,029 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:30:12,218 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15830
+INFO 2024-03-02 17:30:13,795 basehttp 212 "GET /admin/goods/sku/1/change/ HTTP/1.1" 200 43961
+INFO 2024-03-02 17:30:13,889 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:30:22,987 basehttp 212 "POST /admin/goods/sku/1/change/ HTTP/1.1" 302 0
+INFO 2024-03-02 17:30:23,013 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 16058
+INFO 2024-03-02 17:30:23,096 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:30:25,908 basehttp 212 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 451
+INFO 2024-03-02 17:31:02,335 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 44061
+INFO 2024-03-02 17:31:02,455 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:31:10,087 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15830
+INFO 2024-03-02 17:31:12,129 basehttp 212 "GET /admin/goods/sku/1/change/ HTTP/1.1" 200 43968
+INFO 2024-03-02 17:31:12,227 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:31:25,616 basehttp 212 "POST /admin/goods/sku/1/change/ HTTP/1.1" 302 0
+INFO 2024-03-02 17:31:25,643 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 16058
+INFO 2024-03-02 17:31:25,734 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:31:28,045 basehttp 212 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 449
+INFO 2024-03-02 17:34:28,631 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 44061
+INFO 2024-03-02 17:34:28,741 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:35:12,268 basehttp 212 "POST /admin/goods/sku/16/change/ HTTP/1.1" 302 0
+INFO 2024-03-02 17:35:12,294 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15948
+INFO 2024-03-02 17:35:12,407 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:35:22,371 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2387
+INFO 2024-03-02 17:36:17,312 basehttp 212 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 449
+INFO 2024-03-02 17:36:36,074 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2387
+INFO 2024-03-02 17:39:31,679 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-02 17:39:34,849 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 17:40:45,911 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 36064
+INFO 2024-03-02 17:40:46,020 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:40:56,416 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-02 17:40:56,519 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:41:12,113 basehttp 212 "GET /admin/contents/contentcategory/1/change/ HTTP/1.1" 200 12234
+INFO 2024-03-02 17:41:12,240 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:41:24,805 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-02 17:41:27,519 basehttp 212 "GET /admin/contents/contentcategory/2/change/ HTTP/1.1" 200 12221
+INFO 2024-03-02 17:41:27,628 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:41:30,950 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-02 17:41:32,495 basehttp 212 "GET /admin/contents/contentcategory/3/change/ HTTP/1.1" 200 12247
+INFO 2024-03-02 17:41:32,610 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:41:34,758 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-02 17:41:36,172 basehttp 212 "GET /admin/contents/contentcategory/5/change/ HTTP/1.1" 200 12234
+INFO 2024-03-02 17:41:36,271 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:41:40,362 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-02 17:41:41,726 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 36064
+INFO 2024-03-02 17:41:41,822 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:41:59,264 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17661
+INFO 2024-03-02 17:41:59,367 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:43:16,918 basehttp 212 "GET /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17853
+INFO 2024-03-02 17:43:17,025 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:48:24,090 basehttp 212 "POST /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-02 17:48:24,122 basehttp 212 "GET /admin/contents/content/add/?_changelist_filters=p%3D2 HTTP/1.1" 200 17419
+INFO 2024-03-02 17:48:24,230 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:48:30,468 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 36064
+INFO 2024-03-02 17:48:30,593 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:48:36,012 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17653
+INFO 2024-03-02 17:48:36,141 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:48:41,182 basehttp 212 "GET /admin/contents/content/2/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17877
+INFO 2024-03-02 17:48:41,290 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:49:04,347 basehttp 212 "POST /admin/contents/content/2/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-02 17:49:04,381 basehttp 212 "GET /admin/contents/content/2/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 18064
+INFO 2024-03-02 17:49:04,470 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:49:09,021 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 36064
+INFO 2024-03-02 17:49:09,141 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:49:14,145 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17640
+INFO 2024-03-02 17:49:14,258 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:49:18,464 basehttp 212 "GET /admin/contents/content/3/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17853
+INFO 2024-03-02 17:49:18,581 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:49:34,908 basehttp 212 "POST /admin/contents/content/3/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-02 17:49:34,966 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17837
+INFO 2024-03-02 17:49:35,085 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:51:03,849 basehttp 212 "GET /admin/contents/content/4/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17901
+INFO 2024-03-02 17:51:03,957 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:51:17,019 basehttp 212 "POST /admin/contents/content/4/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-02 17:51:17,075 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17818
+INFO 2024-03-02 17:51:17,166 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:54:11,125 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12317
+INFO 2024-03-02 17:54:11,227 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 17:54:13,621 basehttp 212 "GET /admin/goods/goods/4/change/ HTTP/1.1" 200 94747
+INFO 2024-03-02 17:54:13,737 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:12:17,009 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-02 18:13:32,774 basehttp 212 "GET /admin/goods/goods/4/change/ HTTP/1.1" 200 94747
+INFO 2024-03-02 18:13:33,014 basehttp 212 "GET /static/ckeditor/ckeditor.css HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:33,018 basehttp 212 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:33,021 basehttp 212 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:33,022 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:13:33,806 basehttp 212 "GET /static/ckeditor/ckeditor/config.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:34,110 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:34,110 basehttp 212 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:34,337 basehttp 212 "GET /static/ckeditor/ckeditor/styles.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:34,491 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:34,501 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/dialog/styles/dialog.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:34,501 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:34,502 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:34,502 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:34,548 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=4a1fb11f44 HTTP/1.1" 304 0
+INFO 2024-03-02 18:13:37,334 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 36064
+INFO 2024-03-02 18:13:37,460 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:13:41,624 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17614
+INFO 2024-03-02 18:13:41,719 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:13:43,863 basehttp 212 "GET /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17820
+INFO 2024-03-02 18:13:43,983 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-02 18:14:08,203 log 241 Internal Server Error: /admin/contents/content/1/change/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\contents\admin.py", line 11, in save_model
+    generate_static_index_html()
+  File "D:\senior_homework\graduation project\my_mall\apps\contents\crons.py", line 69, in generate_static_index_html
+    html_text = template.render(context)
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\fields\files.py", line 66, in url
+    self._require_file()
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+ERROR 2024-03-02 18:14:08,219 basehttp 212 "POST /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 500 306825
+INFO 2024-03-02 18:14:32,567 basehttp 212 "GET /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17820
+INFO 2024-03-02 18:15:00,997 basehttp 212 "POST /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17996
+INFO 2024-03-02 18:15:01,091 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:15:21,589 basehttp 212 "POST /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-02 18:15:21,639 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17817
+INFO 2024-03-02 18:15:21,746 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:15:25,889 basehttp 212 "GET /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17820
+INFO 2024-03-02 18:15:26,006 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:17:30,898 basehttp 212 "POST /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-02 18:17:30,963 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17817
+INFO 2024-03-02 18:17:31,091 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:20:17,768 basehttp 212 "GET /admin/contents/content/2/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17824
+INFO 2024-03-02 18:20:17,904 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:20:48,672 basehttp 212 "POST /admin/contents/content/2/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-02 18:20:48,729 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17818
+INFO 2024-03-02 18:20:48,865 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:21:52,191 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-02 18:21:52,692 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-02 18:22:02,075 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2387
+INFO 2024-03-02 18:22:03,309 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2024-03-02 18:22:03,322 log 241 Not Found: /browse_histories/
+WARNING 2024-03-02 18:22:03,323 basehttp 212 "POST /browse_histories/ HTTP/1.1" 404 5858
+INFO 2024-03-02 18:25:33,483 basehttp 212 "GET /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17820
+INFO 2024-03-02 18:25:33,657 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:26:03,697 basehttp 212 "POST /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17996
+INFO 2024-03-02 18:26:03,806 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:26:20,524 basehttp 212 "POST /admin/contents/content/1/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-02 18:26:20,577 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17817
+INFO 2024-03-02 18:26:20,676 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-02 18:28:18,013 basehttp 212 "GET /admin/contents/content/3/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17824
+INFO 2024-03-02 18:28:18,145 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-02 18:28:29,833 log 241 Internal Server Error: /admin/contents/content/3/change/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\contents\admin.py", line 11, in save_model
+    generate_static_index_html()
+  File "D:\senior_homework\graduation project\my_mall\apps\contents\crons.py", line 69, in generate_static_index_html
+    html_text = template.render(context)
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\fields\files.py", line 66, in url
+    self._require_file()
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+ERROR 2024-03-02 18:28:29,851 basehttp 212 "POST /admin/contents/content/3/change/?_changelist_filters=p%3D2 HTTP/1.1" 500 307502
+INFO 2024-03-02 18:28:41,734 basehttp 212 "GET /admin/contents/content/3/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17824

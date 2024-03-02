@@ -40,13 +40,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-
     'corsheaders.apps.CorsHeadersAppConfig',
     'rest_framework',
     'ckeditor',
     'ckeditor_uploader',
     # 'dj_crontab-0.8.0.dist-info'
-
 
     'apps.users',
     'apps.verifications',
@@ -99,7 +97,6 @@ TEMPLATES = [
         },
     },
 ]
-
 
 WSGI_APPLICATION = 'my_mall.wsgi.application'
 
@@ -246,12 +243,16 @@ LOGGING = {
 REST_FRAMEWORK = {
     # 异常处理utils/exceptions.py
     'EXCEPTION_HANDLER': 'utils.exceptions.exception_handler',
-    #用户认证
+    # 用户认证
     'DEFAULT_AUTHENTICATION_CLASSES': (
         'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
         'rest_framework.authentication.SessionAuthentication',
         'rest_framework.authentication.BasicAuthentication',
     ),
+    # 分页
+    #     'DEFAULT_PAGINATION_CLASS': 'utils.pagination.StandardResultsSetPagination',
+     'DEFAULT_PAGINATION_CLASS':  'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10  # 每页数目
 }
 
 ##############JWT#################
@@ -265,7 +266,6 @@ JWT_AUTH = {
 AUTHENTICATION_BACKENDS = [
     'apps.users.utils.UsernameMobileAuthBackend',
 ]
-
 
 ############
 # django文件存储
@@ -296,7 +296,7 @@ CKEDITOR_UPLOAD_PATH = ''  # 上传图片保存路径，使用了FastDFS，所�
 # cd var/fdfs/storage/data
 
 
-#静态化主页存储路径
+# 静态化主页存储路径
 GENERATED_STATIC_HTML_FILES_DIR = os.path.join(os.path.dirname(os.path.dirname(BASE_DIR)), 'front_end_pc')
 # print(GENERATED_STATIC_HTML_FILES_DIR)
 
