@@ -3961,3 +3961,75 @@ INFO 2024-03-03 10:14:32,962 basehttp 212 "GET /user/ HTTP/1.1" 200 82
 INFO 2024-03-03 10:17:57,508 autoreload 668 Watching for file changes with StatReloader
 INFO 2024-03-03 10:18:00,843 basehttp 212 "GET /user/ HTTP/1.1" 200 82
 INFO 2024-03-03 10:18:01,172 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 160
+INFO 2024-03-03 10:18:59,762 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2387
+INFO 2024-03-03 10:19:08,585 basehttp 212 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 449
+ERROR 2024-03-03 10:19:10,439 log 241 Internal Server Error: /browse_histories/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\serializer.py", line 151, in create
+    sku_id = SKU.objects.get('sku_id')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 623, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\query.py", line 1423, in build_filter
+    arg, value = filter_expr
+    ^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+ERROR 2024-03-03 10:19:10,454 basehttp 212 "POST /browse_histories/ HTTP/1.1" 500 158053
+INFO 2024-03-03 10:19:24,595 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-03 10:19:24,713 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 160
+INFO 2024-03-03 10:19:26,365 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-03 10:19:26,462 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 160
+INFO 2024-03-03 10:20:10,120 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-03 10:20:12,082 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2024-03-03 10:20:16,084 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2024-03-03 10:20:20,729 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-03 10:20:20,820 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 356

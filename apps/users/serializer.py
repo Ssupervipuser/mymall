@@ -148,9 +148,9 @@ class UserBrowserHistorySerializer(serializers.Serializer):
         return value
 
     def create(self, validated_data):
-        sku_id = SKU.objects.get('sku_id')
+        # sku_id = SKU.objects.get('sku_id')
         user = self.context['request'].user
-        # sku_id = validated_data['sku_id']
+        sku_id = validated_data['sku_id']
         # 创建redis连接对象
         redis_conn = get_redis_connection('history')
         #创建管道
