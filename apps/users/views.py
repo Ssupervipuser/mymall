@@ -8,12 +8,15 @@ from rest_framework.views import APIView
 from rest_framework.viewsets import GenericViewSet
 from rest_framework.mixins import UpdateModelMixin
 from .models import User, Address
-from .serializer import CreateUserSerializer, UserAddressSerializer, AddressTitleSerializer
+from apps.users.serializer import *
 from rest_framework.permissions import IsAuthenticated
-from apps.users.serializer import UserDetailSerializer
+
+from django_redis import get_redis_connection
+from apps.goods.models import SKU
 
 
-class CreateUser(UpdateModelMixin,CreateAPIView):
+
+class CreateUser(CreateAPIView):
     serializer_class = CreateUserSerializer
 
 
@@ -158,3 +161,26 @@ class AddressViewSet(UpdateModelMixin, GenericViewSet):
         return Response(serializer.data)
 
 
+#################用户浏览记录##############
+class UserBrowserHistoryView(CreateAPIView):
+    serializer_class = UserBrowserHistorySerializer
+    permission_classes = [IsAuthenticated]
+
+    def get(self,request):
+        """查询浏览记录"""
+        #创建redis连接对象
+        redis_conn=get_redis_connection('history')
+        #获取当前用户
+        user=request.user
+        #获取reids中当前用户的浏览记录
+        sku_ids=redis_conn.lrange('history_%id'%user.id,0,-1)
+        #把sku_id的sku模型查询出来
+        # SKU.objects.filter(id_in=sku_ids)
+        sku_list=[]
+        for sku_id in sku_ids:
+            sku=SKU.objects.get(id=sku_id)
+            sku_list.append(sku)
+        #创建序列化器，序列化
+        serializer=SKUSerializer(sku_list,many=True)
+
+        return Response(serializer.data)

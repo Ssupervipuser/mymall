@@ -13,6 +13,13 @@ urlpatterns = [
     path('authorizations/', obtain_jwt_token),
     # userdetail
     path('user/', UserDetailView.as_view()),
+    #history
+    path('browse_histories/', UserBrowserHistoryView.as_view()),        # keys * lrange history_3 0 -1
+
+
+
+
+
 ]
 
 router = routers.DefaultRouter()

@@ -5,6 +5,7 @@ from rest_framework import serializers
 from rest_framework_jwt.settings import api_settings
 
 from apps.users.models import User, Address
+from apps.goods.models import SKU
 
 
 class CreateUserSerializer(serializers.ModelSerializer):
@@ -96,7 +97,6 @@ class UserDetailSerializer(serializers.ModelSerializer):
         fields = ['id', 'username', 'mobile', 'email', 'eamil_active']
 
 
-
 ###############
 class UserAddressSerializer(serializers.ModelSerializer):
     province = serializers.StringRelatedField(read_only=True)
@@ -108,7 +108,7 @@ class UserAddressSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Address
-        exclude = ['user','is_deleted', 'create_time', 'update_time']
+        exclude = ['user', 'is_deleted', 'create_time', 'update_time']
 
     def validate_mobile(self, value):
         """
@@ -124,8 +124,6 @@ class UserAddressSerializer(serializers.ModelSerializer):
         return Address.objects.create(**validated_data)
 
 
-
-
 class AddressTitleSerializer(serializers.ModelSerializer):
     """
     地址标题
@@ -134,3 +132,47 @@ class AddressTitleSerializer(serializers.ModelSerializer):
     class Meta:
         model = Address
         fields = ('title',)
+
+
+
+class UserBrowserHistorySerializer(serializers.Serializer):
+    # 商品id
+    sku_id = serializers.IntegerField(label='商品sku_id', min_value=1)
+
+    def validate_sku_id(self, value):
+        """单独校验sku_id"""
+        try:
+            SKU.objects.get(id=value)
+        except SKU.DoesNotExist:
+            raise serializers.ValidationError('sku_id 不存在')
+        return value
+
+    def create(self, validated_data):
+        sku_id = SKU.objects.get('sku_id')
+        user = self.context['request'].user
+        # sku_id = validated_data['sku_id']
+        # 创建redis连接对象
+        redis_conn = get_redis_connection('history')
+        #创建管道
+        pl=redis_conn.pipeline()
+        # 去重
+        pl.lrem('history_%id' % user.id, 0, sku_id)
+
+        # 添加到列表开头
+        pl.lpush('history_%id' % user.id, sku_id)
+        # 截取
+        pl.ltrim('history_%id' % user.id, 0, 4)
+
+        pl.execute()
+
+        return validated_data
+
+
+
+class SKUSerializer(serializers.ModelSerializer):
+    """sku商品序列化器"""
+
+    class Meta:
+        model=SKU
+        fields=['id','name','price','default_image_url','comments']
+
