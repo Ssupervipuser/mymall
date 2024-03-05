@@ -4033,3 +4033,1344 @@ INFO 2024-03-03 10:20:12,082 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201
 INFO 2024-03-03 10:20:16,084 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 12
 INFO 2024-03-03 10:20:20,729 basehttp 212 "GET /user/ HTTP/1.1" 200 82
 INFO 2024-03-03 10:20:20,820 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 356
+INFO 2024-03-03 10:32:55,158 basehttp 212 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-03 10:32:55,342 basehttp 212 "GET /admin/ HTTP/1.1" 200 13559
+INFO 2024-03-03 10:32:55,614 basehttp 212 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-03-03 10:32:55,683 basehttp 212 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-03-03 10:32:55,683 basehttp 212 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-03-03 10:32:55,747 basehttp 212 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-03 10:32:59,815 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 12074
+INFO 2024-03-03 10:32:59,945 basehttp 212 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-03-03 10:32:59,948 basehttp 212 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2024-03-03 10:32:59,949 basehttp 212 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2024-03-03 10:32:59,949 basehttp 212 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-03-03 10:32:59,954 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:32:59,957 basehttp 212 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-03-03 10:32:59,959 basehttp 212 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-03-03 10:32:59,959 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2024-03-03 10:32:59,969 basehttp 212 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-03-03 10:33:02,095 basehttp 212 "GET /admin/goods/brand/2/change/ HTTP/1.1" 200 13018
+INFO 2024-03-03 10:33:02,203 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:33:59,028 basehttp 212 "POST /admin/goods/brand/2/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 10:33:59,054 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 12248
+INFO 2024-03-03 10:33:59,172 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:35:03,897 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 12062
+INFO 2024-03-03 10:35:04,000 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:35:05,392 basehttp 212 "GET /admin/goods/brand/1/change/ HTTP/1.1" 200 12966
+INFO 2024-03-03 10:35:05,529 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:36:08,987 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-03 10:37:16,504 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 36064
+INFO 2024-03-03 10:37:16,624 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:37:22,804 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17614
+INFO 2024-03-03 10:37:22,916 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:37:26,937 basehttp 212 "GET /admin/contents/content/5/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17551
+INFO 2024-03-03 10:37:27,043 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:38:16,114 basehttp 212 "POST /admin/contents/content/5/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-03 10:38:16,166 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17828
+INFO 2024-03-03 10:38:16,280 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:40:33,189 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17529
+INFO 2024-03-03 10:40:33,315 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:40:40,647 basehttp 212 "GET /admin/contents/content/12/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17907
+INFO 2024-03-03 10:40:40,754 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:41:43,916 basehttp 212 "POST /admin/contents/content/12/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-03 10:41:43,970 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17755
+INFO 2024-03-03 10:41:44,095 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:44:48,025 basehttp 212 "GET /admin/contents/content/12/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17907
+INFO 2024-03-03 10:44:48,122 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:45:02,359 basehttp 212 "POST /admin/contents/content/12/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-03 10:45:02,413 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17755
+INFO 2024-03-03 10:45:02,516 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:45:09,312 basehttp 212 "GET /admin/contents/content/14/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17852
+INFO 2024-03-03 10:45:09,428 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:47:06,555 basehttp 212 "POST /admin/contents/content/14/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17948
+INFO 2024-03-03 10:47:06,637 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:47:13,963 basehttp 212 "POST /admin/contents/content/14/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-03 10:47:14,017 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17734
+INFO 2024-03-03 10:47:14,130 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:47:29,122 basehttp 212 "GET /admin/contents/content/15/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17505
+INFO 2024-03-03 10:47:29,252 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:48:38,557 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-03 10:48:38,723 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:48:44,763 basehttp 212 "GET /admin/contents/contentcategory/8/change/ HTTP/1.1" 200 12266
+INFO 2024-03-03 10:48:44,887 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 10:52:33,759 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2387
+WARNING 2024-03-03 10:52:34,724 log 241 Not Found: /cart/
+WARNING 2024-03-03 10:52:34,724 basehttp 212 "GET /cart/ HTTP/1.1" 404 5985
+WARNING 2024-03-03 10:52:37,075 log 241 Not Found: /cart/
+WARNING 2024-03-03 10:52:37,076 basehttp 212 "GET /cart/ HTTP/1.1" 404 5985
+WARNING 2024-03-03 10:52:38,314 log 241 Not Found: /cart/
+WARNING 2024-03-03 10:52:38,315 basehttp 212 "GET /cart/ HTTP/1.1" 404 5985
+INFO 2024-03-03 11:03:41,484 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33867
+INFO 2024-03-03 11:03:41,662 basehttp 212 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-03-03 11:03:41,667 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 11:03:41,669 basehttp 212 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2024-03-03 11:03:41,670 basehttp 212 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2024-03-03 11:03:41,672 basehttp 212 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-03-03 11:03:41,683 basehttp 212 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-03-03 11:03:41,685 basehttp 212 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-03-03 11:03:41,690 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2024-03-03 11:03:41,695 basehttp 212 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-03-03 11:03:41,793 basehttp 212 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-03-03 11:03:41,796 basehttp 212 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-03-03 11:03:41,818 basehttp 212 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-03 11:03:43,916 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13221
+INFO 2024-03-03 11:03:44,036 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 11:03:45,642 basehttp 212 "GET /admin/goods/goodsspecification/7/change/ HTTP/1.1" 200 13408
+INFO 2024-03-03 11:03:45,737 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 11:21:18,214 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-03-03 11:21:22,711 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-03 11:22:31,687 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\carts\views.py changed, reloading.
+INFO 2024-03-03 11:22:33,443 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-03 11:23:02,379 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\carts\views.py changed, reloading.
+INFO 2024-03-03 11:23:03,992 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-03 13:51:32,252 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2387
+INFO 2024-03-03 13:51:34,671 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2024-03-03 13:51:34,705 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-03 13:56:34,249 basehttp 212 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-03 13:56:34,504 basehttp 212 "GET /admin/ HTTP/1.1" 200 13590
+INFO 2024-03-03 13:56:34,784 basehttp 212 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-03-03 13:56:41,273 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 19394
+INFO 2024-03-03 13:56:41,409 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 13:58:19,722 basehttp 212 "POST /admin/goods/goodschannel/ HTTP/1.1" 200 15035
+INFO 2024-03-03 13:58:19,878 basehttp 212 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2024-03-03 13:58:22,740 basehttp 212 "POST /admin/goods/goodschannel/ HTTP/1.1" 302 0
+INFO 2024-03-03 13:58:22,790 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12920
+INFO 2024-03-03 13:58:22,907 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:00:45,157 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 14:00:45,268 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:00:46,812 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 14:00:46,913 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:00:48,574 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 14:00:48,651 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:00:50,419 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 14:00:50,495 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:01:04,857 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13221
+INFO 2024-03-03 14:01:04,950 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:01:12,282 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33867
+INFO 2024-03-03 14:01:12,371 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:02:43,112 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 25787
+INFO 2024-03-03 14:02:47,196 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 302 0
+INFO 2024-03-03 14:02:47,253 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 34052
+INFO 2024-03-03 14:02:47,368 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:02:50,185 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33910
+INFO 2024-03-03 14:02:50,267 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:03:02,275 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 25857
+INFO 2024-03-03 14:03:05,492 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 302 0
+INFO 2024-03-03 14:03:05,552 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33953
+INFO 2024-03-03 14:03:05,679 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:03:14,984 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 25785
+INFO 2024-03-03 14:03:18,110 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 302 0
+INFO 2024-03-03 14:03:18,169 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 34064
+INFO 2024-03-03 14:03:18,272 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:03:52,813 basehttp 212 "GET /admin/goods/goodscategory/?p=2 HTTP/1.1" 200 36472
+INFO 2024-03-03 14:03:52,939 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:03:58,831 basehttp 212 "GET /admin/goods/goodscategory/?p=3 HTTP/1.1" 200 22311
+INFO 2024-03-03 14:03:58,929 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:04:47,318 basehttp 212 "POST /admin/goods/goodscategory/?p=3 HTTP/1.1" 200 11999
+INFO 2024-03-03 14:04:56,324 basehttp 212 "GET /admin/goods/goodscategory/?p=3 HTTP/1.1" 200 22311
+INFO 2024-03-03 14:05:05,831 basehttp 212 "GET /admin/goods/goodscategory/?p=1 HTTP/1.1" 200 36548
+INFO 2024-03-03 14:05:05,943 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:05:10,650 basehttp 212 "POST /admin/goods/goodscategory/?p=1 HTTP/1.1" 200 10220
+INFO 2024-03-03 14:05:14,588 basehttp 212 "GET /admin/goods/goodscategory/?p=1 HTTP/1.1" 200 36548
+INFO 2024-03-03 14:05:51,793 basehttp 212 "POST /admin/goods/goodscategory/?p=1 HTTP/1.1" 200 23117
+INFO 2024-03-03 14:05:54,773 basehttp 212 "POST /admin/goods/goodscategory/?p=1 HTTP/1.1" 302 0
+INFO 2024-03-03 14:05:54,839 basehttp 212 "GET /admin/goods/goodscategory/?p=1 HTTP/1.1" 200 36688
+INFO 2024-03-03 14:05:54,945 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:07:51,375 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-03 14:09:21,349 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-03 14:10:54,219 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-03 14:11:39,869 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12317
+INFO 2024-03-03 14:11:40,076 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:11:46,896 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33921
+INFO 2024-03-03 14:11:47,013 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:12:51,438 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 11999
+INFO 2024-03-03 14:12:53,458 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33921
+INFO 2024-03-03 14:13:05,930 basehttp 212 "GET /admin/goods/goodscategory/?p=2 HTTP/1.1" 200 26721
+INFO 2024-03-03 14:13:06,059 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:14:41,003 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13221
+INFO 2024-03-03 14:14:41,144 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:14:54,862 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12317
+INFO 2024-03-03 14:14:54,977 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:15:05,912 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 12062
+INFO 2024-03-03 14:15:06,026 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:15:30,584 basehttp 212 "GET /admin/goods/brand/1/change/ HTTP/1.1" 200 12966
+INFO 2024-03-03 14:15:30,734 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:15:56,692 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15755
+INFO 2024-03-03 14:15:56,826 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:16:11,476 basehttp 212 "GET /admin/goods/sku/15/change/ HTTP/1.1" 200 28057
+INFO 2024-03-03 14:16:11,584 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:16:39,367 basehttp 212 "GET /admin/goods/goods/add/ HTTP/1.1" 200 46394
+INFO 2024-03-03 14:16:39,481 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:16:39,647 basehttp 212 "GET /static/ckeditor/ckeditor.css HTTP/1.1" 200 672
+INFO 2024-03-03 14:16:39,683 basehttp 212 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 1526
+INFO 2024-03-03 14:16:41,090 basehttp 212 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 759716
+INFO 2024-03-03 14:16:41,251 basehttp 212 "GET /static/ckeditor/ckeditor/config.js?t=N5UC HTTP/1.1" 200 336
+INFO 2024-03-03 14:16:41,326 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=N5UC HTTP/1.1" 200 48309
+INFO 2024-03-03 14:16:41,336 basehttp 212 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=N5UC HTTP/1.1" 200 17901
+INFO 2024-03-03 14:16:41,417 basehttp 212 "GET /static/ckeditor/ckeditor/styles.js?t=N5UC HTTP/1.1" 200 5577
+INFO 2024-03-03 14:16:41,447 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 14:16:41,447 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 14:16:41,453 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/dialog/styles/dialog.css?t=N5UC HTTP/1.1" 200 249
+INFO 2024-03-03 14:16:41,454 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=N5UC HTTP/1.1" 200 419
+INFO 2024-03-03 14:16:41,454 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=N5UC HTTP/1.1" 200 381
+INFO 2024-03-03 14:16:41,493 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=4a1fb11f44 HTTP/1.1" 200 12237
+INFO 2024-03-03 14:16:41,518 basehttp 212 "GET /static/ckeditor/ckeditor/contents.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 14:17:14,400 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33921
+INFO 2024-03-03 14:17:14,535 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:18:27,654 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33921
+INFO 2024-03-03 14:18:27,754 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:18:31,597 basehttp 212 "GET /admin/goods/goodscategory/?p=2 HTTP/1.1" 200 26721
+INFO 2024-03-03 14:18:31,758 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:19:15,438 basehttp 212 "POST /admin/goods/goodscategory/?p=2 HTTP/1.1" 200 11500
+INFO 2024-03-03 14:19:16,981 basehttp 212 "POST /admin/goods/goodscategory/?p=2 HTTP/1.1" 302 0
+INFO 2024-03-03 14:19:17,048 basehttp 212 "GET /admin/goods/goodscategory/?p=2 HTTP/1.1" 200 25163
+INFO 2024-03-03 14:19:17,158 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:19:25,716 basehttp 212 "POST /admin/goods/goodscategory/?p=2 HTTP/1.1" 200 11199
+INFO 2024-03-03 14:19:26,736 basehttp 212 "POST /admin/goods/goodscategory/?p=2 HTTP/1.1" 302 0
+INFO 2024-03-03 14:19:26,778 basehttp 212 "GET /admin/goods/goodscategory/?p=2 HTTP/1.1" 200 23948
+INFO 2024-03-03 14:19:26,897 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:19:33,484 basehttp 212 "GET /admin/goods/goodscategory/?p=1 HTTP/1.1" 200 36547
+INFO 2024-03-03 14:19:33,596 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:21:02,569 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-03 14:21:02,722 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:21:12,663 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 36064
+INFO 2024-03-03 14:21:12,798 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:21:22,814 basehttp 212 "GET /admin/contents/content/24/change/ HTTP/1.1" 200 17413
+INFO 2024-03-03 14:21:22,931 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:22:09,322 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-03 14:22:09,428 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:22:15,930 basehttp 212 "GET /admin/contents/contentcategory/6/change/ HTTP/1.1" 200 12240
+INFO 2024-03-03 14:22:16,054 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:22:38,577 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-03 14:22:43,135 basehttp 212 "GET /admin/contents/contentcategory/7/change/ HTTP/1.1" 200 12240
+INFO 2024-03-03 14:22:43,289 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:22:45,072 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-03 14:22:47,521 basehttp 212 "GET /admin/contents/contentcategory/8/change/ HTTP/1.1" 200 12266
+INFO 2024-03-03 14:22:47,619 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:23:28,033 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 36064
+INFO 2024-03-03 14:23:28,140 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:24:24,872 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22363
+INFO 2024-03-03 14:24:25,006 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:24:33,532 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 21670
+INFO 2024-03-03 14:24:33,626 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:24:43,960 basehttp 212 "GET /admin/goods/skuspecification/34/change/ HTTP/1.1" 200 19913
+INFO 2024-03-03 14:24:44,083 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:24:50,511 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13221
+INFO 2024-03-03 14:24:50,609 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:24:52,669 basehttp 212 "GET /admin/goods/goodsspecification/7/change/ HTTP/1.1" 200 13408
+INFO 2024-03-03 14:24:52,775 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:25:22,771 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 36064
+INFO 2024-03-03 14:25:22,882 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:25:38,416 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-03 14:25:38,507 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:25:46,466 basehttp 212 "GET /admin/contents/contentcategory/25/change/ HTTP/1.1" 200 12268
+INFO 2024-03-03 14:25:46,563 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:25:48,271 basehttp 212 "POST /admin/contents/contentcategory/25/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 14:25:48,305 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 16045
+INFO 2024-03-03 14:25:48,413 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:26:17,629 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-03 14:26:19,075 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-03 14:36:36,589 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-03 14:36:36,705 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:37:00,636 basehttp 212 "GET /admin/contents/contentcategory/6/change/ HTTP/1.1" 200 12240
+INFO 2024-03-03 14:37:00,749 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:37:03,842 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-03 14:37:05,672 basehttp 212 "GET /admin/contents/contentcategory/7/change/ HTTP/1.1" 200 12240
+INFO 2024-03-03 14:37:05,788 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:38:30,893 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-03 14:38:32,294 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-03 14:40:43,494 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-03 14:40:43,629 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:40:48,027 basehttp 212 "GET /admin/contents/contentcategory/5/change/ HTTP/1.1" 200 12234
+INFO 2024-03-03 14:40:48,161 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:40:52,248 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15823
+INFO 2024-03-03 14:40:54,222 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 36064
+INFO 2024-03-03 14:40:54,353 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:41:02,493 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17526
+INFO 2024-03-03 14:41:02,618 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:41:06,896 basehttp 212 "GET /admin/contents/content/14/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17842
+INFO 2024-03-03 14:41:07,000 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:43:33,918 basehttp 212 "POST /admin/contents/content/14/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-03 14:43:33,969 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 17734
+INFO 2024-03-03 14:43:34,103 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:53:42,997 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 35249
+INFO 2024-03-03 14:53:43,085 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:53:55,886 basehttp 212 "GET /admin/contents/content/91/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17849
+INFO 2024-03-03 14:53:56,006 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:54:22,973 basehttp 212 "GET /admin/contents/content/91/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17849
+INFO 2024-03-03 14:54:23,072 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:54:29,487 basehttp 212 "GET /admin/contents/content/91/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17849
+INFO 2024-03-03 14:54:29,594 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 14:54:37,893 basehttp 212 "POST /admin/contents/content/91/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-03 14:54:38,031 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 35463
+INFO 2024-03-03 14:54:38,157 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:00:18,341 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 35249
+INFO 2024-03-03 15:00:18,462 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:01:03,059 basehttp 212 "POST /admin/contents/content/?p=2 HTTP/1.1" 200 10598
+INFO 2024-03-03 15:01:04,227 basehttp 212 "POST /admin/contents/content/?p=2 HTTP/1.1" 302 0
+INFO 2024-03-03 15:01:04,404 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 35136
+INFO 2024-03-03 15:01:04,506 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:01:06,602 basehttp 212 "GET /admin/ HTTP/1.1" 200 13228
+INFO 2024-03-03 15:01:15,736 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 34996
+INFO 2024-03-03 15:01:41,930 basehttp 212 "GET /admin/contents/content/89/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17442
+INFO 2024-03-03 15:01:42,035 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:02:18,255 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 34996
+INFO 2024-03-03 15:03:26,323 basehttp 212 "GET /admin/contents/content/91/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 17801
+INFO 2024-03-03 15:03:26,461 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:03:38,510 basehttp 212 "POST /admin/contents/content/91/change/?_changelist_filters=p%3D2 HTTP/1.1" 302 0
+INFO 2024-03-03 15:03:38,712 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 35210
+INFO 2024-03-03 15:03:38,803 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:04:15,791 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15579
+INFO 2024-03-03 15:04:15,938 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:04:25,283 basehttp 212 "GET /admin/contents/contentcategory/23/change/ HTTP/1.1" 200 12242
+INFO 2024-03-03 15:04:25,389 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:04:29,920 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15579
+INFO 2024-03-03 15:04:32,702 basehttp 212 "GET /admin/contents/contentcategory/22/change/ HTTP/1.1" 200 12242
+INFO 2024-03-03 15:04:32,800 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:04:34,421 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15579
+INFO 2024-03-03 15:04:37,630 basehttp 212 "GET /admin/contents/contentcategory/24/change/ HTTP/1.1" 200 12268
+INFO 2024-03-03 15:04:37,731 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:04:42,717 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15579
+INFO 2024-03-03 15:08:18,213 basehttp 212 "GET /admin/contents/contentcategory/13/change/ HTTP/1.1" 200 12236
+INFO 2024-03-03 15:08:18,319 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:08:20,370 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 32656
+INFO 2024-03-03 15:08:20,515 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:08:41,380 basehttp 212 "GET /admin/contents/content/77/change/ HTTP/1.1" 200 17737
+INFO 2024-03-03 15:08:41,526 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:09:19,547 basehttp 212 "POST /admin/contents/content/77/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 15:09:19,663 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 32864
+INFO 2024-03-03 15:09:19,784 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:24:26,479 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15579
+INFO 2024-03-03 15:24:26,719 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:24:34,595 basehttp 212 "GET /admin/contents/contentcategory/8/change/ HTTP/1.1" 200 12246
+INFO 2024-03-03 15:24:34,731 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:24:37,257 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15579
+INFO 2024-03-03 15:24:47,458 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 28354
+INFO 2024-03-03 15:24:47,604 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:25:02,247 basehttp 212 "GET /admin/contents/content/28/change/ HTTP/1.1" 200 17789
+INFO 2024-03-03 15:25:02,365 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:26:00,440 basehttp 212 "POST /admin/contents/content/28/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 15:26:00,540 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 28547
+INFO 2024-03-03 15:26:00,637 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:30:18,669 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 27582
+INFO 2024-03-03 15:30:18,755 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:30:55,485 basehttp 212 "GET /admin/contents/content/29/change/ HTTP/1.1" 200 17712
+INFO 2024-03-03 15:30:55,627 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:31:08,183 basehttp 212 "POST /admin/contents/content/29/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 15:31:08,276 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 27794
+INFO 2024-03-03 15:31:08,375 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:31:14,525 basehttp 212 "GET /admin/contents/content/30/change/ HTTP/1.1" 200 17711
+INFO 2024-03-03 15:31:14,633 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:31:25,857 basehttp 212 "POST /admin/contents/content/30/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 15:31:25,952 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 27794
+INFO 2024-03-03 15:31:26,054 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:31:31,780 basehttp 212 "GET /admin/contents/content/31/change/ HTTP/1.1" 200 17711
+INFO 2024-03-03 15:31:31,902 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:31:41,804 basehttp 212 "POST /admin/contents/content/31/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 15:31:41,899 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 27794
+INFO 2024-03-03 15:31:42,025 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:32:19,256 basehttp 212 "GET /admin/contents/content/32/change/ HTTP/1.1" 200 17711
+INFO 2024-03-03 15:32:19,399 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:32:38,527 basehttp 212 "POST /admin/contents/content/32/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 15:32:38,648 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 27794
+INFO 2024-03-03 15:32:38,752 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 15:50:30,381 basehttp 212 "GET /usernames/test1/count/ HTTP/1.1" 200 30
+INFO 2024-03-03 16:13:11,031 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12317
+INFO 2024-03-03 16:13:11,189 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:14:33,111 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2387
+INFO 2024-03-03 16:14:44,170 basehttp 212 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2024-03-03 16:14:44,211 log 241 Not Found: /cart/
+WARNING 2024-03-03 16:14:44,211 basehttp 212 "GET /cart/ HTTP/1.1" 404 6138
+INFO 2024-03-03 16:14:51,971 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15755
+INFO 2024-03-03 16:14:52,074 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:14:54,725 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 26556
+INFO 2024-03-03 16:14:54,847 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:17:09,767 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 26547
+INFO 2024-03-03 16:17:09,869 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-03 16:17:56,224 log 241 Internal Server Error: /admin/goods/sku/16/change/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\goods\admin.py", line 27, in save_model
+    generate_static_sku_detail_html(obj.id)
+  File "D:\senior_homework\graduation project\my_mall\apps\goods\static_detail.py", line 24, in generate_static_sku_detail_html
+    goods.channel = goods.category1.goodschannel_set.all()[0]
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 450, in __getitem__
+    return qs._result_cache[0]
+           ~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+ERROR 2024-03-03 16:17:56,232 basehttp 212 "POST /admin/goods/sku/16/change/ HTTP/1.1" 500 128987
+INFO 2024-03-03 16:18:12,194 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 26547
+INFO 2024-03-03 16:18:19,036 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15755
+INFO 2024-03-03 16:18:19,156 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:18:20,928 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 26547
+INFO 2024-03-03 16:18:21,032 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:18:28,629 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12317
+INFO 2024-03-03 16:18:28,748 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:18:29,862 basehttp 212 "GET /admin/goods/goods/4/change/ HTTP/1.1" 200 43336
+INFO 2024-03-03 16:18:29,997 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:18:57,469 basehttp 212 "POST /admin/goods/goods/4/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:18:57,496 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12503
+INFO 2024-03-03 16:18:57,609 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:19:06,015 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 21670
+INFO 2024-03-03 16:19:06,109 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:19:08,670 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22363
+INFO 2024-03-03 16:19:08,791 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:19:15,437 basehttp 212 "GET /admin/goods/skuimage/43/change/ HTTP/1.1" 200 14898
+INFO 2024-03-03 16:19:15,546 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:21:21,202 basehttp 212 "POST /admin/goods/skuimage/43/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:21:21,270 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22560
+INFO 2024-03-03 16:21:21,406 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:21:36,157 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2387
+INFO 2024-03-03 16:21:39,258 basehttp 212 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2024-03-03 16:21:39,271 log 241 Not Found: /cart/
+WARNING 2024-03-03 16:21:39,271 basehttp 212 "GET /cart/ HTTP/1.1" 404 6138
+INFO 2024-03-03 16:21:43,443 basehttp 212 "GET /admin/goods/skuimage/42/change/ HTTP/1.1" 200 14898
+INFO 2024-03-03 16:21:43,570 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:21:46,616 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22363
+INFO 2024-03-03 16:21:50,505 basehttp 212 "GET /admin/goods/skuimage/41/change/ HTTP/1.1" 200 15120
+INFO 2024-03-03 16:21:50,618 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:22:05,693 basehttp 212 "POST /admin/goods/skuimage/41/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:22:05,766 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22486
+INFO 2024-03-03 16:22:05,875 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:22:09,733 basehttp 212 "GET /admin/goods/skuimage/40/change/ HTTP/1.1" 200 15120
+INFO 2024-03-03 16:22:09,850 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:22:18,699 basehttp 212 "POST /admin/goods/skuimage/40/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:22:18,773 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22412
+INFO 2024-03-03 16:22:18,883 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:22:26,383 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12317
+INFO 2024-03-03 16:22:26,552 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:22:33,119 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15755
+INFO 2024-03-03 16:22:33,229 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:22:39,081 basehttp 212 "GET /admin/goods/sku/15/change/ HTTP/1.1" 200 26923
+INFO 2024-03-03 16:22:39,185 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:23:14,714 basehttp 212 "POST /admin/goods/sku/15/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:23:14,743 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15874
+INFO 2024-03-03 16:23:14,851 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:23:21,586 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22215
+INFO 2024-03-03 16:23:21,690 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:23:54,008 basehttp 212 "GET /admin/goods/goods/add/ HTTP/1.1" 200 42992
+INFO 2024-03-03 16:23:54,125 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:24:53,852 basehttp 212 "POST /admin/goods/goods/add/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:24:53,878 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12713
+INFO 2024-03-03 16:24:54,016 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:24:56,584 basehttp 212 "GET /admin/goods/goods/5/change/ HTTP/1.1" 200 43286
+INFO 2024-03-03 16:24:56,697 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:25:01,223 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15681
+INFO 2024-03-03 16:25:01,339 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:25:08,129 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15681
+INFO 2024-03-03 16:25:08,213 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:25:11,802 basehttp 212 "GET /admin/goods/sku/add/ HTTP/1.1" 200 26217
+INFO 2024-03-03 16:25:11,900 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:25:59,107 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15681
+INFO 2024-03-03 16:26:01,957 basehttp 212 "GET /admin/goods/sku/add/ HTTP/1.1" 200 26217
+INFO 2024-03-03 16:26:02,056 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:26:05,754 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15681
+INFO 2024-03-03 16:26:07,399 basehttp 212 "GET /admin/goods/sku/14/change/ HTTP/1.1" 200 26967
+INFO 2024-03-03 16:26:07,513 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:26:31,917 basehttp 212 "GET /admin/goods/specificationoption/ HTTP/1.1" 200 16175
+INFO 2024-03-03 16:26:32,014 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:26:35,987 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 16:26:36,077 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:26:42,426 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13221
+INFO 2024-03-03 16:26:42,515 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:27:00,023 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15681
+INFO 2024-03-03 16:27:00,113 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:27:04,063 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 16:27:04,180 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:27:10,615 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15681
+INFO 2024-03-03 16:27:10,734 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:27:15,317 basehttp 212 "GET /admin/goods/sku/add/ HTTP/1.1" 200 26217
+INFO 2024-03-03 16:27:15,419 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:27:31,705 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 16:27:31,808 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:27:33,317 basehttp 212 "GET /admin/goods/goods/5/change/ HTTP/1.1" 200 43286
+INFO 2024-03-03 16:27:33,412 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:27:38,452 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22215
+INFO 2024-03-03 16:27:38,574 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:28:59,546 basehttp 212 "GET /admin/goods/skuimage/39/change/ HTTP/1.1" 200 15049
+INFO 2024-03-03 16:28:59,666 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:29:19,995 basehttp 212 "POST /admin/goods/skuimage/39/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:29:20,069 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22337
+INFO 2024-03-03 16:29:20,155 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:29:21,946 basehttp 212 "GET /admin/goods/skuimage/38/change/ HTTP/1.1" 200 15049
+INFO 2024-03-03 16:29:22,067 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:29:33,487 basehttp 212 "POST /admin/goods/skuimage/38/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:29:33,568 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22262
+INFO 2024-03-03 16:29:33,655 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:29:37,253 basehttp 212 "GET /admin/goods/skuimage/37/change/ HTTP/1.1" 200 15046
+INFO 2024-03-03 16:29:37,374 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:29:44,709 basehttp 212 "POST /admin/goods/skuimage/37/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:29:44,778 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22188
+INFO 2024-03-03 16:29:44,879 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:29:46,617 basehttp 212 "GET /admin/goods/skuimage/36/change/ HTTP/1.1" 200 15046
+INFO 2024-03-03 16:29:46,739 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:29:54,440 basehttp 212 "POST /admin/goods/skuimage/36/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:29:54,530 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22114
+INFO 2024-03-03 16:29:54,632 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:30:47,194 basehttp 212 "GET /admin/goods/skuimage/35/change/ HTTP/1.1" 200 15046
+INFO 2024-03-03 16:30:47,309 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:30:55,010 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 16:30:55,118 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:30:57,882 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 12062
+INFO 2024-03-03 16:30:57,971 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:30:59,616 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 21522
+INFO 2024-03-03 16:30:59,713 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:31:06,632 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33829
+INFO 2024-03-03 16:31:06,727 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:31:08,820 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13221
+INFO 2024-03-03 16:31:08,942 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:31:11,838 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 16:31:11,945 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:31:13,529 basehttp 212 "GET /admin/goods/specificationoption/ HTTP/1.1" 200 16175
+INFO 2024-03-03 16:31:13,652 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:31:21,888 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 12062
+INFO 2024-03-03 16:31:21,981 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:31:25,636 basehttp 212 "GET /admin/goods/brand/3/change/ HTTP/1.1" 200 12970
+INFO 2024-03-03 16:31:25,735 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:31:32,738 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 12062
+INFO 2024-03-03 16:31:32,845 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:31:34,104 basehttp 212 "GET /admin/goods/brand/1/change/ HTTP/1.1" 200 12966
+INFO 2024-03-03 16:31:34,201 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:31:51,195 basehttp 212 "POST /admin/goods/brand/1/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:31:51,223 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 12249
+INFO 2024-03-03 16:31:51,311 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:31:53,726 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 16:31:53,813 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:31:56,533 basehttp 212 "GET /admin/goods/goods/5/change/ HTTP/1.1" 200 43287
+INFO 2024-03-03 16:31:56,630 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:32:01,887 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 16:32:05,804 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 12063
+INFO 2024-03-03 16:32:05,924 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:32:10,217 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2311
+INFO 2024-03-03 16:32:20,277 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 16:32:20,375 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:32:22,068 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15681
+INFO 2024-03-03 16:32:22,153 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:32:26,800 basehttp 212 "GET /admin/goods/sku/15/change/ HTTP/1.1" 200 26585
+INFO 2024-03-03 16:32:26,908 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:32:35,950 basehttp 212 "POST /admin/goods/sku/15/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:32:35,976 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15874
+INFO 2024-03-03 16:32:36,070 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:32:40,252 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2232
+INFO 2024-03-03 16:33:07,836 basehttp 212 "GET /categories/115/skus/?page=2&page_size=5&ordering=-create_time HTTP/1.1" 200 1020
+INFO 2024-03-03 16:33:09,363 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2232
+INFO 2024-03-03 16:33:17,204 basehttp 212 "GET /admin/goods/sku/14/change/ HTTP/1.1" 200 26967
+INFO 2024-03-03 16:33:17,327 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:34:11,793 basehttp 212 "POST /admin/goods/sku/14/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:34:11,833 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15799
+INFO 2024-03-03 16:34:11,943 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:34:35,837 basehttp 212 "GET /admin/goods/sku/15/change/ HTTP/1.1" 200 26495
+INFO 2024-03-03 16:34:35,932 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:34:44,848 basehttp 212 "GET /admin/goods/sku/add/ HTTP/1.1" 200 26217
+INFO 2024-03-03 16:34:44,940 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:36:20,887 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 21917
+INFO 2024-03-03 16:36:20,989 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:36:24,969 basehttp 212 "GET /admin/goods/skuimage/35/change/ HTTP/1.1" 200 14971
+INFO 2024-03-03 16:36:25,075 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:36:30,928 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 21917
+INFO 2024-03-03 16:36:38,342 basehttp 212 "GET /admin/goods/skuimage/35/change/ HTTP/1.1" 200 14971
+INFO 2024-03-03 16:36:38,447 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:37:09,264 basehttp 212 "POST /admin/goods/skuimage/35/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:37:09,329 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 22040
+INFO 2024-03-03 16:37:09,423 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:37:11,514 basehttp 212 "GET /admin/goods/skuimage/34/change/ HTTP/1.1" 200 14971
+INFO 2024-03-03 16:37:11,633 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:37:19,435 basehttp 212 "POST /admin/goods/skuimage/34/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:37:19,512 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 21966
+INFO 2024-03-03 16:37:19,604 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:37:21,482 basehttp 212 "GET /admin/goods/skuimage/33/change/ HTTP/1.1" 200 14974
+INFO 2024-03-03 16:37:21,625 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:37:29,731 basehttp 212 "POST /admin/goods/skuimage/33/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:37:29,796 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 21891
+INFO 2024-03-03 16:37:29,882 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:37:41,506 basehttp 212 "GET /admin/goods/skuimage/4/change/ HTTP/1.1" 200 14855
+INFO 2024-03-03 16:37:41,619 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:37:53,101 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 16:37:53,190 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:37:56,861 basehttp 212 "GET /admin/goods/sku/1/change/ HTTP/1.1" 200 26873
+INFO 2024-03-03 16:37:56,955 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:39:30,818 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 16:39:30,988 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:39:34,916 basehttp 212 "GET /admin/goods/goods/1/change/ HTTP/1.1" 200 47927
+INFO 2024-03-03 16:39:35,016 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:40:26,467 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 16:40:40,048 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 21372
+INFO 2024-03-03 16:40:40,149 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:40:45,296 basehttp 212 "GET /admin/goods/skuspecification/34/change/ HTTP/1.1" 200 19764
+INFO 2024-03-03 16:40:45,402 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:40:57,345 basehttp 212 "GET /admin/goods/goodsspecification/add/ HTTP/1.1" 200 13162
+INFO 2024-03-03 16:40:57,460 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:41:10,819 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13221
+INFO 2024-03-03 16:41:10,919 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:41:14,915 basehttp 212 "GET /admin/goods/goodsspecification/7/change/ HTTP/1.1" 200 13448
+INFO 2024-03-03 16:41:15,020 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:41:25,048 basehttp 212 "POST /admin/goods/goodsspecification/7/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:41:25,080 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13418
+INFO 2024-03-03 16:41:25,171 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:41:27,427 basehttp 212 "GET /admin/goods/goodsspecification/6/change/ HTTP/1.1" 200 13448
+INFO 2024-03-03 16:41:27,528 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:41:42,157 basehttp 212 "POST /admin/goods/goodsspecification/6/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:41:42,194 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13402
+INFO 2024-03-03 16:41:42,300 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:44:27,016 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 16:44:27,149 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:44:28,891 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13189
+INFO 2024-03-03 16:44:28,995 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:44:31,608 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33829
+INFO 2024-03-03 16:44:31,731 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:45:11,688 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 11532
+INFO 2024-03-03 16:45:12,925 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:45:12,982 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33922
+INFO 2024-03-03 16:45:13,081 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:45:23,779 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 11852
+INFO 2024-03-03 16:45:25,001 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:45:25,055 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 33862
+INFO 2024-03-03 16:45:25,163 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:45:43,907 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 13616
+INFO 2024-03-03 16:45:43,982 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 13616
+INFO 2024-03-03 16:45:53,026 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:45:53,078 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 31583
+INFO 2024-03-03 16:45:53,169 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:46:28,626 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 16491
+INFO 2024-03-03 16:46:31,971 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:46:32,005 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 21175
+INFO 2024-03-03 16:46:32,120 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:47:01,923 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 12291
+INFO 2024-03-03 16:47:03,638 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:47:03,669 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 18544
+INFO 2024-03-03 16:47:03,756 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:47:17,031 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 11336
+INFO 2024-03-03 16:47:18,582 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:47:18,619 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 17256
+INFO 2024-03-03 16:47:18,714 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+WARNING 2024-03-03 16:47:40,267 log 241 Not Found: /cart/
+WARNING 2024-03-03 16:47:40,268 basehttp 212 "GET /cart/ HTTP/1.1" 404 6138
+INFO 2024-03-03 16:47:54,516 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 10220
+INFO 2024-03-03 16:47:57,431 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 17116
+INFO 2024-03-03 16:48:01,470 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 10220
+INFO 2024-03-03 16:48:02,839 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 17116
+INFO 2024-03-03 16:48:06,899 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 200 10593
+INFO 2024-03-03 16:48:07,994 basehttp 212 "POST /admin/goods/goodscategory/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:48:08,027 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 17037
+INFO 2024-03-03 16:48:08,123 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:48:14,274 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 16:48:14,379 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:54:51,090 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 16897
+INFO 2024-03-03 16:54:51,232 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:54:56,550 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13189
+INFO 2024-03-03 16:54:56,640 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:55:00,223 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 16:55:00,318 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:55:20,286 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 16897
+INFO 2024-03-03 16:55:20,396 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:56:15,491 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 16:56:15,611 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:56:21,140 basehttp 212 "GET /admin/goods/sku/13/change/ HTTP/1.1" 200 22350
+INFO 2024-03-03 16:56:21,246 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:57:10,215 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 21694
+INFO 2024-03-03 16:57:10,321 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:57:16,486 basehttp 212 "GET /admin/goods/skuimage/43/change/ HTTP/1.1" 200 14749
+INFO 2024-03-03 16:57:16,603 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:57:26,528 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 16:57:26,626 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:57:27,224 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 16:57:27,307 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:57:29,434 basehttp 212 "GET /admin/goods/sku/15/change/ HTTP/1.1" 200 21882
+INFO 2024-03-03 16:57:29,532 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:57:48,388 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 16:57:49,707 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 21974
+INFO 2024-03-03 16:57:49,840 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:57:56,508 basehttp 212 "POST /admin/goods/sku/16/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:57:56,539 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15799
+INFO 2024-03-03 16:57:56,643 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:57:58,513 basehttp 212 "GET /admin/goods/sku/15/change/ HTTP/1.1" 200 21882
+INFO 2024-03-03 16:57:58,619 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:02,330 basehttp 212 "POST /admin/goods/sku/15/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:58:02,359 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15799
+INFO 2024-03-03 16:58:02,486 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:04,226 basehttp 212 "GET /admin/goods/sku/14/change/ HTTP/1.1" 200 21972
+INFO 2024-03-03 16:58:04,327 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:07,845 basehttp 212 "POST /admin/goods/sku/14/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:58:07,874 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15799
+INFO 2024-03-03 16:58:07,970 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:09,419 basehttp 212 "GET /admin/goods/sku/13/change/ HTTP/1.1" 200 22350
+INFO 2024-03-03 16:58:09,524 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:12,868 basehttp 212 "POST /admin/goods/sku/13/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:58:12,895 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15873
+INFO 2024-03-03 16:58:13,016 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:14,095 basehttp 212 "GET /admin/goods/sku/13/change/ HTTP/1.1" 200 22347
+INFO 2024-03-03 16:58:14,233 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:17,327 basehttp 212 "POST /admin/goods/sku/13/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:58:17,354 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15873
+INFO 2024-03-03 16:58:17,460 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:21,104 basehttp 212 "GET /admin/goods/sku/3/change/ HTTP/1.1" 200 22281
+INFO 2024-03-03 16:58:21,204 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:24,088 basehttp 212 "POST /admin/goods/sku/3/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:58:24,116 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15856
+INFO 2024-03-03 16:58:24,224 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:26,220 basehttp 212 "GET /admin/goods/sku/4/change/ HTTP/1.1" 200 22284
+INFO 2024-03-03 16:58:26,314 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:29,179 basehttp 212 "POST /admin/goods/sku/4/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:58:29,206 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15857
+INFO 2024-03-03 16:58:29,320 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:35,679 basehttp 212 "GET /admin/goods/sku/12/change/ HTTP/1.1" 200 22350
+INFO 2024-03-03 16:58:35,802 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:40,033 basehttp 212 "POST /admin/goods/sku/12/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:58:40,060 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15873
+INFO 2024-03-03 16:58:40,178 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:41,430 basehttp 212 "GET /admin/goods/sku/13/change/ HTTP/1.1" 200 22347
+INFO 2024-03-03 16:58:41,548 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:43,750 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 16:58:45,344 basehttp 212 "GET /admin/goods/sku/10/change/ HTTP/1.1" 200 22354
+INFO 2024-03-03 16:58:45,455 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:48,412 basehttp 212 "POST /admin/goods/sku/10/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:58:48,456 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15874
+INFO 2024-03-03 16:58:48,572 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:51,271 basehttp 212 "GET /admin/goods/sku/9/change/ HTTP/1.1" 200 22345
+INFO 2024-03-03 16:58:51,374 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:54,092 basehttp 212 "POST /admin/goods/sku/9/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:58:54,119 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15871
+INFO 2024-03-03 16:58:54,226 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:58:56,780 basehttp 212 "GET /admin/goods/sku/8/change/ HTTP/1.1" 200 22284
+INFO 2024-03-03 16:58:56,876 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:00,067 basehttp 212 "POST /admin/goods/sku/8/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:59:00,114 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15857
+INFO 2024-03-03 16:59:00,229 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:01,775 basehttp 212 "GET /admin/goods/sku/7/change/ HTTP/1.1" 200 22280
+INFO 2024-03-03 16:59:01,878 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:04,615 basehttp 212 "POST /admin/goods/sku/7/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:59:04,655 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15856
+INFO 2024-03-03 16:59:04,781 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:06,667 basehttp 212 "GET /admin/goods/sku/6/change/ HTTP/1.1" 200 22308
+INFO 2024-03-03 16:59:06,764 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:10,207 basehttp 212 "POST /admin/goods/sku/6/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:59:10,257 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15863
+INFO 2024-03-03 16:59:10,383 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:15,722 basehttp 212 "GET /admin/goods/sku/5/change/ HTTP/1.1" 200 22305
+INFO 2024-03-03 16:59:15,823 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:18,670 basehttp 212 "POST /admin/goods/sku/5/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:59:18,704 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15862
+INFO 2024-03-03 16:59:18,810 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:20,794 basehttp 212 "GET /admin/goods/sku/4/change/ HTTP/1.1" 200 22281
+INFO 2024-03-03 16:59:20,896 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:23,390 basehttp 212 "POST /admin/goods/sku/4/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:59:23,420 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15857
+INFO 2024-03-03 16:59:23,537 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:24,957 basehttp 212 "GET /admin/goods/sku/3/change/ HTTP/1.1" 200 22278
+INFO 2024-03-03 16:59:25,059 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:27,587 basehttp 212 "POST /admin/goods/sku/3/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 16:59:27,614 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15856
+INFO 2024-03-03 16:59:27,710 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 16:59:31,587 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2210
+INFO 2024-03-03 17:01:07,142 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13189
+INFO 2024-03-03 17:01:07,232 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:01:10,670 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 17:01:10,779 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:01:13,763 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 17:01:13,886 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:01:14,728 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 21974
+INFO 2024-03-03 17:01:14,835 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:01:20,728 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 16897
+INFO 2024-03-03 17:01:20,839 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:01:24,747 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13189
+INFO 2024-03-03 17:01:24,867 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:01:31,761 basehttp 212 "GET /admin/goods/goodsspecification/7/change/ HTTP/1.1" 200 13400
+INFO 2024-03-03 17:01:31,870 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:04:49,701 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 21372
+INFO 2024-03-03 17:04:49,786 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:04:58,323 basehttp 212 "GET /admin/goods/skuspecification/34/change/ HTTP/1.1" 200 19636
+INFO 2024-03-03 17:04:58,432 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:05:15,053 basehttp 212 "GET /admin/goods/specificationoption/21/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6509
+INFO 2024-03-03 17:05:15,187 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:05:40,891 basehttp 212 "GET /admin/goods/specificationoption/21/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6509
+INFO 2024-03-03 17:05:40,992 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:05:48,721 basehttp 212 "POST /admin/goods/specificationoption/21/change/?_to_field=id&_popup=1 HTTP/1.1" 200 435
+INFO 2024-03-03 17:05:48,929 basehttp 212 "GET /static/admin/js/popup_response.js HTTP/1.1" 200 551
+INFO 2024-03-03 17:05:57,378 basehttp 212 "GET /admin/goods/specificationoption/20/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6506
+INFO 2024-03-03 17:05:57,577 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:06:02,468 basehttp 212 "POST /admin/goods/specificationoption/20/change/?_to_field=id&_popup=1 HTTP/1.1" 200 434
+INFO 2024-03-03 17:06:21,581 basehttp 212 "GET /admin/goods/goodsspecification/6/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6263
+INFO 2024-03-03 17:06:21,743 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:06:40,619 basehttp 212 "POST /admin/goods/goodsspecification/6/change/?_to_field=id&_popup=1 HTTP/1.1" 200 427
+INFO 2024-03-03 17:06:43,868 basehttp 212 "GET /admin/goods/specificationoption/13/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6524
+INFO 2024-03-03 17:06:44,029 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:07:00,732 basehttp 212 "POST /admin/goods/specificationoption/13/change/?_to_field=id&_popup=1 HTTP/1.1" 200 444
+INFO 2024-03-03 17:07:06,461 basehttp 212 "GET /admin/goods/specificationoption/14/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6524
+INFO 2024-03-03 17:07:06,573 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:07:18,851 basehttp 212 "POST /admin/goods/specificationoption/14/change/?_to_field=id&_popup=1 HTTP/1.1" 200 439
+INFO 2024-03-03 17:07:26,585 basehttp 212 "GET /admin/goods/specificationoption/15/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6524
+INFO 2024-03-03 17:07:26,731 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:07:32,408 basehttp 212 "POST /admin/goods/specificationoption/15/change/?_to_field=id&_popup=1 HTTP/1.1" 200 439
+INFO 2024-03-03 17:07:36,793 basehttp 212 "GET /admin/goods/specificationoption/16/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6524
+INFO 2024-03-03 17:07:36,985 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:07:41,894 basehttp 212 "POST /admin/goods/specificationoption/16/change/?_to_field=id&_popup=1 HTTP/1.1" 200 444
+ERROR 2024-03-03 17:07:48,452 log 241 Internal Server Error: /admin/goods/skuspecification/34/change/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\goods\admin.py", line 27, in save_model
+    generate_static_sku_detail_html(obj.id)
+  File "D:\senior_homework\graduation project\my_mall\apps\goods\static_detail.py", line 19, in generate_static_sku_detail_html
+    sku = SKU.objects.get(id=sku_id)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 637, in get
+    raise self.model.DoesNotExist(
+apps.goods.models.SKU.DoesNotExist: SKU matching query does not exist.
+ERROR 2024-03-03 17:07:48,463 basehttp 212 "POST /admin/goods/skuspecification/34/change/ HTTP/1.1" 500 133193
+INFO 2024-03-03 17:07:57,106 basehttp 212 "GET /admin/goods/skuspecification/34/change/ HTTP/1.1" 200 19620
+ERROR 2024-03-03 17:08:09,289 log 241 Internal Server Error: /admin/goods/skuspecification/34/change/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\goods\admin.py", line 27, in save_model
+    generate_static_sku_detail_html(obj.id)
+  File "D:\senior_homework\graduation project\my_mall\apps\goods\static_detail.py", line 19, in generate_static_sku_detail_html
+    sku = SKU.objects.get(id=sku_id)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 637, in get
+    raise self.model.DoesNotExist(
+apps.goods.models.SKU.DoesNotExist: SKU matching query does not exist.
+ERROR 2024-03-03 17:08:09,291 basehttp 212 "POST /admin/goods/skuspecification/34/change/ HTTP/1.1" 500 133193
+INFO 2024-03-03 17:08:11,883 basehttp 212 "GET /admin/goods/skuspecification/34/change/ HTTP/1.1" 200 19620
+INFO 2024-03-03 17:08:18,180 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13190
+INFO 2024-03-03 17:08:18,306 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:08:23,035 basehttp 212 "GET /admin/goods/goodsspecification/6/change/ HTTP/1.1" 200 13404
+INFO 2024-03-03 17:08:23,172 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:08:29,118 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13190
+INFO 2024-03-03 17:08:36,630 basehttp 212 "GET /admin/goods/goodsspecification/7/change/ HTTP/1.1" 200 13400
+INFO 2024-03-03 17:08:36,744 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:08:39,752 basehttp 212 "GET /admin/goods/specificationoption/ HTTP/1.1" 200 16065
+INFO 2024-03-03 17:08:39,868 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:09:09,282 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 17:09:09,382 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:09:12,063 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 21974
+INFO 2024-03-03 17:09:12,696 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:09:16,200 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 17:09:16,304 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:09:19,485 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 21340
+INFO 2024-03-03 17:09:19,585 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:09:24,313 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 17:09:24,411 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:09:26,199 basehttp 212 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 21974
+INFO 2024-03-03 17:09:26,314 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:09:44,923 basehttp 212 "POST /admin/goods/sku/16/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 17:09:44,953 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15799
+INFO 2024-03-03 17:09:45,052 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:11:27,765 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15579
+INFO 2024-03-03 17:11:27,913 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:11:31,180 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 27582
+INFO 2024-03-03 17:11:31,306 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:11:59,907 basehttp 212 "GET /admin/contents/content/33/change/ HTTP/1.1" 200 17711
+INFO 2024-03-03 17:12:00,037 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:12:13,306 basehttp 212 "POST /admin/contents/content/33/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 17:12:13,402 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 27794
+INFO 2024-03-03 17:12:13,526 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 17:12:25,678 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2208
+INFO 2024-03-03 17:26:23,754 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-03 17:26:24,265 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-03 17:26:27,528 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-03 17:26:27,559 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-03 17:26:27,588 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2024-03-03 17:26:27,613 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 354
+INFO 2024-03-03 17:56:01,760 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2024-03-03 17:56:01,865 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-03-03 17:56:01,869 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+WARNING 2024-03-03 18:02:47,985 log 241 Bad Request: /authorizations/
+WARNING 2024-03-03 18:02:47,986 basehttp 212 "POST /authorizations/ HTTP/1.1" 400 67
+WARNING 2024-03-03 18:02:49,637 log 241 Bad Request: /authorizations/
+WARNING 2024-03-03 18:02:49,637 basehttp 212 "POST /authorizations/ HTTP/1.1" 400 67
+WARNING 2024-03-03 18:02:50,487 log 241 Bad Request: /authorizations/
+WARNING 2024-03-03 18:02:50,487 basehttp 212 "POST /authorizations/ HTTP/1.1" 400 67
+INFO 2024-03-03 18:44:18,805 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 18:44:19,014 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:44:23,200 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 16898
+INFO 2024-03-03 18:44:23,326 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:44:41,331 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 18:44:41,437 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:44:44,096 basehttp 212 "GET /admin/goods/goods/5/change/ HTTP/1.1" 200 29451
+INFO 2024-03-03 18:44:44,228 basehttp 212 "GET /static/ckeditor/ckeditor.css HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,231 basehttp 212 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,231 basehttp 212 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,237 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:44:44,342 basehttp 212 "GET /static/ckeditor/ckeditor/config.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,443 basehttp 212 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,443 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,503 basehttp 212 "GET /static/ckeditor/ckeditor/styles.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,544 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,546 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,546 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/dialog/styles/dialog.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,547 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,547 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,580 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=4a1fb11f44 HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:44,612 basehttp 212 "GET /static/ckeditor/ckeditor/contents.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-03 18:44:51,369 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 18:44:51,493 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:46:07,315 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 18:46:07,462 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:48:29,608 basehttp 212 "GET /admin/goods/goodschannel/add/ HTTP/1.1" 200 15217
+INFO 2024-03-03 18:48:29,723 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:49:24,200 basehttp 212 "POST /admin/goods/goodschannel/add/ HTTP/1.1" 200 15441
+INFO 2024-03-03 18:49:24,342 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:49:31,925 basehttp 212 "GET /admin/goods/goodscategory/add/?_to_field=id&_popup=1 HTTP/1.1" 200 7025
+INFO 2024-03-03 18:49:32,048 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:49:56,363 basehttp 212 "GET /admin/goods/goodscategory/add/?_to_field=id&_popup=1 HTTP/1.1" 200 7025
+INFO 2024-03-03 18:49:56,486 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:50:08,301 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 16891
+INFO 2024-03-03 18:50:08,419 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:50:15,483 basehttp 212 "GET /admin/goods/goodscategory/add/ HTTP/1.1" 200 13908
+INFO 2024-03-03 18:50:15,594 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:50:24,075 basehttp 212 "POST /admin/goods/goodscategory/add/ HTTP/1.1" 302 0
+INFO 2024-03-03 18:50:24,109 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 17307
+INFO 2024-03-03 18:50:24,202 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:51:00,337 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 18:51:00,464 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:51:04,937 basehttp 212 "GET /admin/goods/sku/add/ HTTP/1.1" 200 21636
+INFO 2024-03-03 18:51:05,042 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:51:25,104 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12524
+INFO 2024-03-03 18:51:25,226 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:51:32,233 basehttp 212 "GET /admin/goods/goods/add/ HTTP/1.1" 200 29250
+INFO 2024-03-03 18:51:32,354 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:52:15,928 basehttp 212 "POST /admin/goods/goods/add/ HTTP/1.1" 200 29540
+INFO 2024-03-03 18:52:16,039 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:52:32,646 basehttp 212 "POST /admin/goods/goods/add/ HTTP/1.1" 302 0
+INFO 2024-03-03 18:52:32,673 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12922
+INFO 2024-03-03 18:52:32,807 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:52:57,450 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 27582
+INFO 2024-03-03 18:52:57,553 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:52:59,125 basehttp 212 "GET /admin/contents/content/91/change/ HTTP/1.1" 200 17712
+INFO 2024-03-03 18:52:59,252 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:53:01,126 basehttp 212 "POST /admin/contents/content/91/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 18:53:01,297 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 27796
+INFO 2024-03-03 18:53:01,447 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:53:57,295 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15579
+INFO 2024-03-03 18:53:57,439 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:53:58,747 basehttp 212 "GET /admin/contents/contentcategory/24/change/ HTTP/1.1" 200 12268
+INFO 2024-03-03 18:53:58,861 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:54:00,023 basehttp 212 "POST /admin/contents/contentcategory/24/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 18:54:00,074 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15801
+INFO 2024-03-03 18:54:00,202 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:55:52,368 basehttp 212 "GET /admin/goods/specificationoption/ HTTP/1.1" 200 16065
+INFO 2024-03-03 18:55:52,490 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:56:54,017 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 17106
+INFO 2024-03-03 18:56:54,134 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:57:00,198 basehttp 212 "GET /admin/goods/sku/add/ HTTP/1.1" 200 21677
+INFO 2024-03-03 18:57:00,299 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:57:09,804 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15606
+INFO 2024-03-03 18:57:09,906 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:57:13,550 basehttp 212 "GET /admin/goods/sku/add/ HTTP/1.1" 200 21677
+INFO 2024-03-03 18:57:13,665 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:57:53,911 basehttp 212 "POST /admin/goods/sku/add/ HTTP/1.1" 200 21869
+INFO 2024-03-03 18:57:54,024 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:58:00,346 basehttp 212 "POST /admin/goods/sku/add/ HTTP/1.1" 302 0
+INFO 2024-03-03 18:58:00,377 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 16008
+INFO 2024-03-03 18:58:00,470 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:58:29,711 basehttp 212 "GET /admin/goods/sku/17/change/ HTTP/1.1" 200 21949
+INFO 2024-03-03 18:58:29,812 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:59:04,382 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 18:59:04,500 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:59:07,159 basehttp 212 "GET /admin/goods/goodschannel/add/ HTTP/1.1" 200 15255
+INFO 2024-03-03 18:59:07,273 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:59:38,627 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 12779
+INFO 2024-03-03 18:59:38,738 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 18:59:53,998 basehttp 212 "GET /admin/goods/goodschannel/add/ HTTP/1.1" 200 15255
+INFO 2024-03-03 18:59:54,121 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:00:15,282 basehttp 212 "POST /admin/goods/goodschannel/add/ HTTP/1.1" 302 0
+INFO 2024-03-03 19:00:15,315 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 13190
+INFO 2024-03-03 19:00:15,413 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:00:47,538 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15579
+INFO 2024-03-03 19:00:47,650 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:00:48,832 basehttp 212 "GET /admin/contents/contentcategory/24/change/ HTTP/1.1" 200 12268
+INFO 2024-03-03 19:00:48,953 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:00:50,127 basehttp 212 "POST /admin/contents/contentcategory/24/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 19:00:50,159 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 15801
+INFO 2024-03-03 19:00:50,260 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:02:34,420 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 27582
+INFO 2024-03-03 19:02:34,577 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:02:38,849 basehttp 212 "GET /admin/contents/content/66/change/ HTTP/1.1" 200 17726
+INFO 2024-03-03 19:02:38,970 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:02:51,030 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12732
+INFO 2024-03-03 19:02:51,117 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:02:53,671 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15815
+INFO 2024-03-03 19:02:53,767 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:02:55,059 basehttp 212 "GET /admin/goods/sku/13/change/ HTTP/1.1" 200 22420
+INFO 2024-03-03 19:02:55,188 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:03:08,408 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15815
+INFO 2024-03-03 19:03:08,497 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:03:11,884 basehttp 212 "GET /admin/goods/sku/17/change/ HTTP/1.1" 200 21949
+INFO 2024-03-03 19:03:11,972 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:03:35,015 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2208
+INFO 2024-03-03 19:03:40,587 basehttp 212 "GET /categories/115/skus/?page=2&page_size=5&ordering=-create_time HTTP/1.1" 200 1008
+INFO 2024-03-03 19:03:41,983 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 2208
+INFO 2024-03-03 19:03:53,582 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12732
+INFO 2024-03-03 19:03:53,693 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:03:55,960 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15815
+INFO 2024-03-03 19:03:56,062 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:04:01,456 basehttp 212 "GET /admin/goods/sku/13/change/ HTTP/1.1" 200 22420
+INFO 2024-03-03 19:04:01,570 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:04:46,196 basehttp 212 "POST /admin/goods/sku/13/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 19:04:46,223 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15936
+INFO 2024-03-03 19:04:46,323 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:04:50,242 basehttp 212 "GET /admin/goods/sku/12/change/ HTTP/1.1" 200 22420
+INFO 2024-03-03 19:04:50,358 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:05:21,991 basehttp 212 "POST /admin/goods/sku/12/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 19:05:22,022 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15863
+INFO 2024-03-03 19:05:22,129 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:08:43,653 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15447
+INFO 2024-03-03 19:08:43,756 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:09:57,523 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15001
+INFO 2024-03-03 19:09:57,610 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:10:39,554 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1707
+INFO 2024-03-03 19:10:44,303 basehttp 212 "GET /admin/goods/sku/11/change/ HTTP/1.1" 200 22048
+INFO 2024-03-03 19:10:44,442 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:10:47,937 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15001
+INFO 2024-03-03 19:10:49,542 basehttp 212 "GET /admin/goods/sku/12/change/ HTTP/1.1" 200 22047
+INFO 2024-03-03 19:10:49,641 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:10:53,537 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15001
+INFO 2024-03-03 19:10:55,267 basehttp 212 "GET /admin/goods/sku/11/change/ HTTP/1.1" 200 22048
+INFO 2024-03-03 19:10:55,365 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:10:59,321 basehttp 212 "POST /admin/goods/sku/11/change/ HTTP/1.1" 302 0
+INFO 2024-03-03 19:10:59,353 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15195
+INFO 2024-03-03 19:10:59,441 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:11:36,984 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 13190
+INFO 2024-03-03 19:11:37,119 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:11:43,599 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1704
+INFO 2024-03-03 19:12:07,586 basehttp 212 "GET /admin/goods/goodsspecification/5/change/ HTTP/1.1" 200 13480
+INFO 2024-03-03 19:12:07,698 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:12:25,465 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 17106
+INFO 2024-03-03 19:12:25,563 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:13:31,645 basehttp 212 "GET /admin/goods/goodscategory/39/change/ HTTP/1.1" 200 14161
+INFO 2024-03-03 19:13:31,757 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:13:37,985 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15001
+INFO 2024-03-03 19:13:38,130 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:13:39,448 basehttp 212 "GET /admin/goods/sku/15/change/ HTTP/1.1" 200 22042
+INFO 2024-03-03 19:13:39,562 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:13:44,477 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 19635
+INFO 2024-03-03 19:13:44,604 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:15:27,194 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 19986
+INFO 2024-03-03 19:15:27,333 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:15:33,406 basehttp 212 "GET /admin/goods/skuimage/add/ HTTP/1.1" 200 13589
+INFO 2024-03-03 19:15:33,521 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:15:45,035 basehttp 212 "POST /admin/goods/skuimage/add/ HTTP/1.1" 302 0
+INFO 2024-03-03 19:15:45,104 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 20396
+INFO 2024-03-03 19:15:45,200 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:15:52,993 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 19635
+INFO 2024-03-03 19:15:53,098 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:19:00,847 basehttp 212 "GET /admin/goods/skuspecification/add/ HTTP/1.1" 200 18587
+INFO 2024-03-03 19:19:00,990 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:19:17,643 basehttp 212 "GET /admin/goods/goodsspecification/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6315
+INFO 2024-03-03 19:19:17,795 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:19:29,297 basehttp 212 "POST /admin/goods/goodsspecification/add/?_to_field=id&_popup=1 HTTP/1.1" 200 352
+INFO 2024-03-03 19:19:34,596 basehttp 212 "GET /admin/goods/specificationoption/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6556
+INFO 2024-03-03 19:19:34,727 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:19:44,681 basehttp 212 "POST /admin/goods/specificationoption/add/?_to_field=id&_popup=1 HTTP/1.1" 200 359
+INFO 2024-03-03 19:21:19,578 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15001
+INFO 2024-03-03 19:21:19,732 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:21:20,932 basehttp 212 "GET /admin/goods/sku/17/change/ HTTP/1.1" 200 21949
+INFO 2024-03-03 19:21:21,064 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:21:53,616 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 20199
+INFO 2024-03-03 19:21:53,736 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:21:55,203 basehttp 212 "GET /admin/goods/skuimage/44/change/ HTTP/1.1" 200 13978
+INFO 2024-03-03 19:21:55,325 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:21:58,540 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 19635
+INFO 2024-03-03 19:21:58,634 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:22:28,932 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-03 19:22:29,446 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-03 19:22:29,581 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-03 19:22:29,604 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-03 19:22:29,656 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2024-03-03 19:22:29,675 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 315
+INFO 2024-03-03 19:22:32,727 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-03 19:22:32,752 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 315
+INFO 2024-03-03 19:22:38,138 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15001
+INFO 2024-03-03 19:22:38,314 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:22:44,593 basehttp 212 "GET /admin/goods/sku/1/change/ HTTP/1.1" 200 22040
+INFO 2024-03-03 19:22:44,702 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:23:16,814 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 20199
+INFO 2024-03-03 19:23:16,936 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:24:31,117 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15001
+INFO 2024-03-03 19:24:31,246 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:24:35,019 basehttp 212 "GET /admin/goods/sku/1/change/ HTTP/1.1" 200 22040
+INFO 2024-03-03 19:24:35,119 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-03 19:24:43,885 basehttp 81 - Broken pipe from ('127.0.0.1', 13102)
+INFO 2024-03-03 19:24:43,971 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 20199
+INFO 2024-03-03 19:24:44,058 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-04 13:34:20,351 basehttp 212 "OPTIONS /carts/ HTTP/1.1" 200 0
+WARNING 2024-03-04 13:34:20,386 log 241 Unauthorized: /carts/
+WARNING 2024-03-04 13:34:20,387 basehttp 212 "GET /carts/ HTTP/1.1" 401 38
+WARNING 2024-03-04 13:34:27,332 log 241 Unauthorized: /carts/
+WARNING 2024-03-04 13:34:27,333 basehttp 212 "GET /carts/ HTTP/1.1" 401 38
+WARNING 2024-03-04 13:36:53,227 log 241 Unauthorized: /carts/
+WARNING 2024-03-04 13:36:53,227 basehttp 212 "GET /carts/ HTTP/1.1" 401 38
+INFO 2024-03-04 13:46:26,240 basehttp 212 "GET /usernames/test1/count/ HTTP/1.1" 200 30
+INFO 2024-03-04 14:22:35,615 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-04 14:22:38,930 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-04 14:22:54,985 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-04 14:22:56,918 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-04 17:11:21,314 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\carts\views.py changed, reloading.
+INFO 2024-03-04 17:11:23,862 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-04 17:15:52,643 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\carts\views.py changed, reloading.
+INFO 2024-03-04 17:15:55,683 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-04 17:16:37,299 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1704
+INFO 2024-03-04 17:16:39,392 basehttp 212 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2024-03-04 17:16:39,414 basehttp 212 "POST /carts/ HTTP/1.1" 201 39
+INFO 2024-03-04 17:16:41,789 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-04 17:16:44,138 basehttp 212 "PUT /carts/ HTTP/1.1" 200 39
+INFO 2024-03-04 17:16:44,321 basehttp 212 "PUT /carts/ HTTP/1.1" 200 39
+INFO 2024-03-04 17:16:44,591 basehttp 212 "PUT /carts/ HTTP/1.1" 200 39
+INFO 2024-03-04 17:16:45,883 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-04 17:16:48,924 basehttp 212 "PUT /carts/ HTTP/1.1" 200 39
+INFO 2024-03-04 17:16:50,236 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-04 17:17:02,861 basehttp 212 "POST /carts/ HTTP/1.1" 201 39
+INFO 2024-03-04 17:17:04,992 basehttp 212 "GET /carts/ HTTP/1.1" 200 264
+INFO 2024-03-04 17:17:06,574 basehttp 212 "GET /carts/ HTTP/1.1" 200 264
+INFO 2024-03-04 17:21:42,664 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-04 17:21:43,183 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-04 17:21:47,004 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1704
+INFO 2024-03-04 17:21:51,364 basehttp 212 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 368
+INFO 2024-03-04 17:22:08,108 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2024-03-04 17:22:08,154 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2024-03-04 17:22:22,421 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 20199
+INFO 2024-03-04 17:22:22,569 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-04 17:22:23,035 basehttp 212 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2024-03-04 17:22:23,048 basehttp 212 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2024-03-04 17:22:23,052 basehttp 212 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2024-03-04 17:22:23,052 basehttp 212 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2024-03-04 17:22:23,067 basehttp 212 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2024-03-04 17:22:23,072 basehttp 212 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-03-04 17:22:23,100 basehttp 212 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-03-04 17:22:23,104 basehttp 212 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2024-03-04 17:22:23,110 basehttp 212 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-03-04 17:22:23,113 basehttp 212 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2024-03-04 17:22:23,115 basehttp 212 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-03-04 17:22:23,174 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2024-03-04 17:22:23,203 basehttp 212 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-03-04 17:22:23,211 basehttp 212 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-03-04 17:22:23,237 basehttp 212 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-03-04 17:22:23,278 basehttp 212 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-03-04 17:22:23,279 basehttp 212 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-04 17:22:27,201 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15001
+INFO 2024-03-04 17:22:27,419 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-04 17:22:32,916 basehttp 212 "GET /admin/goods/sku/2/change/ HTTP/1.1" 200 22043
+INFO 2024-03-04 17:22:33,027 basehttp 212 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-03-04 17:22:33,031 basehttp 212 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2024-03-04 17:22:33,041 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-04 17:22:33,053 basehttp 212 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-03-04 17:22:33,074 basehttp 212 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2024-03-04 17:22:33,078 basehttp 212 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-03-04 17:22:33,094 basehttp 212 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2024-03-04 17:22:33,103 basehttp 212 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-03-04 17:23:00,243 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12732
+INFO 2024-03-04 17:23:00,359 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-04 17:23:03,271 basehttp 212 "GET /admin/goods/goods/1/change/ HTTP/1.1" 200 34184
+INFO 2024-03-04 17:23:03,388 basehttp 212 "GET /static/ckeditor/ckeditor.css HTTP/1.1" 304 0
+INFO 2024-03-04 17:23:03,391 basehttp 212 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 304 0
+INFO 2024-03-04 17:23:03,393 basehttp 212 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 304 0
+INFO 2024-03-04 17:23:03,395 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-04 17:23:03,570 basehttp 212 "GET /static/ckeditor/ckeditor/config.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-04 17:23:03,685 basehttp 212 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-04 17:23:03,686 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-04 17:23:03,729 basehttp 212 "GET /static/ckeditor/ckeditor/styles.js?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-04 17:23:03,764 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-04 17:23:03,766 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-04 17:23:03,770 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/dialog/styles/dialog.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-04 17:23:03,777 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css?t=N5UC HTTP/1.1" 200 1145
+INFO 2024-03-04 17:23:03,788 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css?t=N5UC HTTP/1.1" 200 1511
+INFO 2024-03-04 17:23:03,819 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=4a1fb11f44 HTTP/1.1" 304 0
+INFO 2024-03-04 17:23:03,858 basehttp 212 "GET /static/ckeditor/ckeditor/contents.css?t=N5UC HTTP/1.1" 200 3092
+INFO 2024-03-04 17:23:44,614 basehttp 212 "POST /admin/goods/goods/1/change/ HTTP/1.1" 200 30949
+INFO 2024-03-04 17:23:44,732 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-04 17:23:47,833 basehttp 212 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 368
+INFO 2024-03-04 17:24:02,957 basehttp 212 "POST /admin/goods/goods/1/change/ HTTP/1.1" 302 0
+INFO 2024-03-04 17:24:02,993 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 12897
+INFO 2024-03-04 17:24:03,113 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-04 17:24:03,164 basehttp 212 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-03-04 17:24:13,333 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15001
+INFO 2024-03-04 17:24:13,454 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-04 17:24:15,652 basehttp 212 "GET /admin/goods/sku/2/change/ HTTP/1.1" 200 22022
+INFO 2024-03-04 17:24:15,760 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-04 17:24:36,471 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2024-03-04 17:24:42,697 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-04 17:24:42,717 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-04 17:24:42,812 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 315
+INFO 2024-03-04 17:24:46,508 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-04 17:24:48,044 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-04 17:24:48,959 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-04 17:24:54,195 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1704
+INFO 2024-03-04 17:25:00,524 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-04 17:25:04,448 basehttp 212 "POST /carts/ HTTP/1.1" 201 39
+INFO 2024-03-04 17:25:07,865 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-04 17:25:12,125 basehttp 212 "PUT /carts/ HTTP/1.1" 200 39
+INFO 2024-03-04 17:25:12,334 basehttp 212 "PUT /carts/ HTTP/1.1" 200 39
+INFO 2024-03-04 17:25:13,663 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-04 17:25:15,025 basehttp 212 "PUT /carts/ HTTP/1.1" 200 39
+INFO 2024-03-04 17:25:16,298 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-05 10:25:56,540 basehttp 212 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2024-03-05 10:25:56,833 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+WARNING 2024-03-05 10:26:28,022 log 241 Bad Request: /carts/
+WARNING 2024-03-05 10:26:28,023 basehttp 212 "GET /carts/ HTTP/1.1" 400 35
+INFO 2024-03-05 10:27:53,932 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-05 10:27:54,494 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-05 10:27:56,688 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+WARNING 2024-03-05 10:35:54,050 log 241 Bad Request: /carts/
+WARNING 2024-03-05 10:35:54,051 basehttp 212 "GET /carts/ HTTP/1.1" 400 35
+INFO 2024-03-05 10:35:58,314 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1704
+INFO 2024-03-05 10:36:01,519 basehttp 212 "POST /carts/ HTTP/1.1" 201 39
+INFO 2024-03-05 10:36:04,508 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-05 11:10:04,785 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1704
+INFO 2024-03-05 11:10:05,853 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=price HTTP/1.1" 200 1697
+INFO 2024-03-05 11:10:06,414 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-sales HTTP/1.1" 200 1691
+INFO 2024-03-05 11:10:07,044 basehttp 212 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2024-03-05 11:10:07,140 log 241 Not Found: /cart/
+WARNING 2024-03-05 11:10:07,140 basehttp 212 "GET /cart/ HTTP/1.1" 404 6138
+INFO 2024-03-05 13:05:25,289 basehttp 212 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2024-03-05 13:05:25,443 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-05 13:05:27,272 basehttp 212 "DELETE /carts/ HTTP/1.1" 204 0
+WARNING 2024-03-05 13:05:28,909 log 241 Bad Request: /carts/
+WARNING 2024-03-05 13:05:28,910 basehttp 212 "GET /carts/ HTTP/1.1" 400 35
+INFO 2024-03-05 13:08:41,073 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-05 13:08:41,640 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-05 13:08:44,518 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-05 13:08:44,568 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-05 13:08:44,642 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2024-03-05 13:08:44,678 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 472
+INFO 2024-03-05 13:08:49,982 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2024-03-05 13:08:58,083 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2024-03-05 13:09:00,216 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 472
+INFO 2024-03-05 13:09:02,196 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-05 13:09:03,391 basehttp 212 "DELETE /carts/ HTTP/1.1" 204 0
+INFO 2024-03-05 13:09:05,314 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-05 13:09:05,961 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-05 13:09:28,443 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1704
+INFO 2024-03-05 13:09:30,828 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-05 13:09:36,877 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2024-03-05 13:09:45,520 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-05 13:09:50,517 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2024-03-05 13:10:18,519 basehttp 212 "POST /carts/ HTTP/1.1" 201 38
+INFO 2024-03-05 13:10:21,144 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-05 13:10:25,686 basehttp 212 "OPTIONS /carts/selection/ HTTP/1.1" 200 0
+WARNING 2024-03-05 13:10:25,722 log 241 Not Found: /carts/selection/
+WARNING 2024-03-05 13:10:25,724 basehttp 212 "PUT /carts/selection/ HTTP/1.1" 404 6171
+WARNING 2024-03-05 13:10:26,816 log 241 Not Found: /carts/selection/
+WARNING 2024-03-05 13:10:26,817 basehttp 212 "PUT /carts/selection/ HTTP/1.1" 404 6171
+WARNING 2024-03-05 13:10:27,523 log 241 Not Found: /carts/selection/
+WARNING 2024-03-05 13:10:27,524 basehttp 212 "PUT /carts/selection/ HTTP/1.1" 404 6171
+WARNING 2024-03-05 13:10:28,157 log 241 Not Found: /carts/selection/
+WARNING 2024-03-05 13:10:28,158 basehttp 212 "PUT /carts/selection/ HTTP/1.1" 404 6171
+WARNING 2024-03-05 13:10:28,765 log 241 Not Found: /carts/selection/
+WARNING 2024-03-05 13:10:28,769 basehttp 212 "PUT /carts/selection/ HTTP/1.1" 404 6171
+WARNING 2024-03-05 13:10:29,299 log 241 Not Found: /carts/selection/
+WARNING 2024-03-05 13:10:29,301 basehttp 212 "PUT /carts/selection/ HTTP/1.1" 404 6171
+WARNING 2024-03-05 13:10:29,911 log 241 Not Found: /carts/selection/
+WARNING 2024-03-05 13:10:29,912 basehttp 212 "PUT /carts/selection/ HTTP/1.1" 404 6171
+INFO 2024-03-05 13:11:21,164 basehttp 212 "PUT /carts/ HTTP/1.1" 200 39
+INFO 2024-03-05 13:11:21,526 basehttp 212 "PUT /carts/ HTTP/1.1" 200 38
+INFO 2024-03-05 13:11:22,293 basehttp 212 "PUT /carts/ HTTP/1.1" 200 39
+INFO 2024-03-05 13:11:22,773 basehttp 212 "PUT /carts/ HTTP/1.1" 200 38
+WARNING 2024-03-05 13:11:50,281 log 241 Not Found: /carts/selection/
+WARNING 2024-03-05 13:11:50,282 basehttp 212 "PUT /carts/selection/ HTTP/1.1" 404 6171
+INFO 2024-03-05 13:11:51,675 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+WARNING 2024-03-05 13:11:54,592 log 241 Not Found: /carts/selection/
+WARNING 2024-03-05 13:11:54,592 basehttp 212 "PUT /carts/selection/ HTTP/1.1" 404 6171
+INFO 2024-03-05 13:11:55,828 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-05 13:14:02,230 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\carts\urls.py changed, reloading.
+INFO 2024-03-05 13:14:05,524 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 13:16:28,716 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-05 13:16:36,102 basehttp 212 "PUT /carts/selection/ HTTP/1.1" 200 18

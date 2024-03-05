@@ -11,6 +11,7 @@ class Admin(admin.ModelAdmin):
         generate_static_index_html()
 
 
+
     def delete_model(self, request, obj):
         obj.delete()
         generate_static_index_html()
