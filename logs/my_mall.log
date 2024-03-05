@@ -5374,3 +5374,122 @@ INFO 2024-03-05 13:14:02,230 autoreload 266 D:\senior_homework\graduation projec
 INFO 2024-03-05 13:14:05,524 autoreload 668 Watching for file changes with StatReloader
 INFO 2024-03-05 13:16:28,716 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
 INFO 2024-03-05 13:16:36,102 basehttp 212 "PUT /carts/selection/ HTTP/1.1" 200 18
+WARNING 2024-03-05 14:41:27,997 log 241 Bad Request: /carts/
+WARNING 2024-03-05 14:41:28,001 basehttp 212 "GET /carts/ HTTP/1.1" 400 35
+INFO 2024-03-05 14:41:32,761 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1704
+INFO 2024-03-05 14:41:35,738 basehttp 212 "POST /carts/ HTTP/1.1" 201 39
+INFO 2024-03-05 14:41:38,960 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-05 14:41:42,044 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-05 14:41:44,345 basehttp 212 "GET /carts/ HTTP/1.1" 200 172
+INFO 2024-03-05 14:41:46,970 basehttp 212 "GET /carts/ HTTP/1.1" 200 172
+INFO 2024-03-05 14:42:04,270 basehttp 212 "GET /carts/ HTTP/1.1" 200 172
+INFO 2024-03-05 14:42:05,299 basehttp 212 "GET /carts/ HTTP/1.1" 200 172
+INFO 2024-03-05 14:42:09,668 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-05 14:42:14,300 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-05 14:42:18,166 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-05 14:42:22,175 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-05 14:42:24,338 basehttp 212 "GET /carts/ HTTP/1.1" 200 172
+INFO 2024-03-05 14:42:26,694 basehttp 212 "GET /carts/ HTTP/1.1" 200 172
+INFO 2024-03-05 14:44:00,563 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 14:44:21,504 basehttp 212 "GET /carts/ HTTP/1.1" 200 172
+INFO 2024-03-05 14:51:01,725 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-03-05 14:51:04,045 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-05 14:51:06,474 log 241 Internal Server Error: /authorizations/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\views.py", line 57, in post
+    if serializer.is_valid():
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework\serializers.py", line 429, in run_validation
+    value = self.validate(value)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\rest_framework_jwt\serializers.py", line 50, in validate
+    user = authenticate(**credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\debug.py", line 42, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\__init__.py", line 77, in authenticate
+    user = backend.authenticate(request, **credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\utils.py", line 40, in authenticate
+    merge_cart_cookie_to_redis()
+TypeError: merge_cart_cookie_to_redis() missing 3 required positional arguments: 'request', 'user', and 'response'
+ERROR 2024-03-05 14:51:06,483 basehttp 212 "POST /authorizations/ HTTP/1.1" 500 133889
+INFO 2024-03-05 14:52:13,707 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-03-05 14:52:16,157 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 14:53:15,755 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\utils.py changed, reloading.
+INFO 2024-03-05 14:53:18,921 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:09:17,642 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-05 15:09:20,194 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:14:53,065 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-05 15:14:55,527 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:16:24,568 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:17:10,932 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-05 15:17:12,053 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:17:21,870 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-05 15:17:23,178 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:17:28,512 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-05 15:17:29,105 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-05 15:17:32,612 basehttp 212 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2024-03-05 15:17:32,639 basehttp 212 "GET /carts/ HTTP/1.1" 200 172
+INFO 2024-03-05 15:17:34,086 basehttp 212 "GET /carts/ HTTP/1.1" 200 172
+INFO 2024-03-05 15:17:35,444 basehttp 212 "GET /carts/ HTTP/1.1" 200 172
+INFO 2024-03-05 15:17:38,585 basehttp 212 "DELETE /carts/ HTTP/1.1" 204 0
+INFO 2024-03-05 15:17:40,107 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-05 15:17:46,858 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1704
+INFO 2024-03-05 15:17:49,349 basehttp 212 "POST /carts/ HTTP/1.1" 201 39
+INFO 2024-03-05 15:17:51,216 basehttp 212 "GET /carts/ HTTP/1.1" 200 341
+INFO 2024-03-05 15:17:59,070 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-05 15:18:01,096 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-05 15:18:02,625 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-05 15:18:03,639 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-05 15:18:20,901 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-05 15:19:15,460 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-03-05 15:19:17,049 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:19:33,468 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-05 15:19:34,972 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-05 15:19:35,998 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-05 15:19:43,234 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:19:48,000 basehttp 212 "GET /carts/ HTTP/1.1" 200 341
+INFO 2024-03-05 15:19:52,574 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-05 15:20:58,227 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-05 15:20:59,368 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:21:10,082 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-05 15:21:11,540 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:21:22,585 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-05 15:21:50,032 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-05 15:21:51,694 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-05 15:23:55,096 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:24:04,340 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-05 15:26:10,053 basehttp 212 "GET /carts/ HTTP/1.1" 200 341
+INFO 2024-03-05 15:26:40,407 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 15:26:58,777 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-05 15:27:01,751 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-05 15:27:01,773 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-05 15:27:01,875 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2024-03-05 15:27:03,402 basehttp 212 "GET /carts/ HTTP/1.1" 200 341

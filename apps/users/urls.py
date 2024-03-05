@@ -10,7 +10,8 @@ urlpatterns = [
     path('mobiles/<mobile:mobile>/count/', MobileCountView.as_view()),
     # path('users/change_password/', CreateUser.as_view()),
     # login
-    path('authorizations/', obtain_jwt_token),
+    # path('authorizations/', obtain_jwt_token),
+    path('authorizations/', UserAuthorizeView.as_view()),
     # userdetail
     path('user/', UserDetailView.as_view()),
     #history

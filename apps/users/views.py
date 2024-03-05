@@ -7,13 +7,18 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework.viewsets import GenericViewSet
 from rest_framework.mixins import UpdateModelMixin
+from rest_framework_jwt.views import ObtainJSONWebToken
+from datetime import datetime
+from rest_framework_jwt.settings import api_settings
+jwt_response_payload_handler = api_settings.JWT_RESPONSE_PAYLOAD_HANDLER
+
 from .models import User, Address
 from apps.users.serializer import *
 from rest_framework.permissions import IsAuthenticated
 
 from django_redis import get_redis_connection
 from apps.goods.models import SKU
-
+from ..carts.utils import merge_cart_cookie_to_redis
 
 
 class CreateUser(CreateAPIView):
@@ -184,3 +189,30 @@ class UserBrowserHistoryView(CreateAPIView):
         serializer=SKUSerializer(sku_list,many=True)
 
         return Response(serializer.data)
+
+
+
+#继承drf。obt重写登录方法实现购物车合并
+class UserAuthorizeView(ObtainJSONWebToken):
+
+    def post(self, request, *args, **kwargs):
+        serializer = self.get_serializer(data=request.data)
+
+        if serializer.is_valid():
+            user = serializer.object.get('user') or request.user
+            token = serializer.object.get('token')
+            response_data = jwt_response_payload_handler(token, user, request)
+            response = Response(response_data)
+            if api_settings.JWT_AUTH_COOKIE:
+                expiration = (datetime.utcnow() +
+                              api_settings.JWT_EXPIRATION_DELTA)
+                response.set_cookie(api_settings.JWT_AUTH_COOKIE,
+                                    token,
+                                    expires=expiration,
+                                    httponly=True)
+
+            #登陆时合并购物车
+            merge_cart_cookie_to_redis(request, user, response)
+            return response
+
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
