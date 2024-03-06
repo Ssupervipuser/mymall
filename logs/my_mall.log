@@ -5493,3 +5493,152 @@ INFO 2024-03-05 15:27:01,751 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
 INFO 2024-03-05 15:27:01,773 basehttp 212 "GET /user/ HTTP/1.1" 200 82
 INFO 2024-03-05 15:27:01,875 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
 INFO 2024-03-05 15:27:03,402 basehttp 212 "GET /carts/ HTTP/1.1" 200 341
+INFO 2024-03-05 15:30:04,268 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2024-03-05 15:30:04,272 basehttp 212 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2024-03-05 15:30:04,356 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+WARNING 2024-03-05 15:30:04,517 log 241 Not Found: /orders/settlement/
+WARNING 2024-03-05 15:30:04,521 basehttp 212 "GET /orders/settlement/ HTTP/1.1" 404 6340
+WARNING 2024-03-05 15:35:25,106 log 241 Not Found: /orders/settlement/
+WARNING 2024-03-05 15:35:25,111 basehttp 212 "GET /orders/settlement/ HTTP/1.1" 404 6340
+INFO 2024-03-05 15:35:25,127 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+INFO 2024-03-05 15:35:27,428 basehttp 212 "OPTIONS /orders/ HTTP/1.1" 200 0
+WARNING 2024-03-05 15:35:27,470 log 241 Not Found: /orders/
+WARNING 2024-03-05 15:35:27,474 basehttp 212 "POST /orders/ HTTP/1.1" 404 6308
+WARNING 2024-03-05 15:35:29,440 log 241 Not Found: /orders/
+WARNING 2024-03-05 15:35:29,441 basehttp 212 "POST /orders/ HTTP/1.1" 404 6308
+INFO 2024-03-05 15:35:47,458 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-03-05 15:35:50,857 log 241 Not Found: /orders/
+WARNING 2024-03-05 15:35:50,858 basehttp 212 "POST /orders/ HTTP/1.1" 404 6308
+WARNING 2024-03-05 15:35:52,491 log 241 Not Found: /orders/settlement/
+WARNING 2024-03-05 15:35:52,494 basehttp 212 "GET /orders/settlement/ HTTP/1.1" 404 6340
+INFO 2024-03-05 15:35:52,509 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+WARNING 2024-03-05 15:35:53,499 log 241 Not Found: /orders/
+WARNING 2024-03-05 15:35:53,500 basehttp 212 "POST /orders/ HTTP/1.1" 404 6308
+INFO 2024-03-05 16:31:38,717 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-03-05 16:31:40,874 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 16:56:09,452 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-05 16:56:10,845 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 16:57:15,224 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\orders\apps.py changed, reloading.
+INFO 2024-03-05 16:57:16,619 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 16:59:06,281 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-03-05 16:59:07,206 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 17:38:39,217 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 17:39:30,231 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1704
+INFO 2024-03-05 17:39:34,311 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2024-03-05 17:39:34,424 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-05 17:39:36,713 basehttp 212 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2024-03-05 17:39:36,730 basehttp 212 "POST /carts/ HTTP/1.1" 201 39
+INFO 2024-03-05 17:39:39,391 basehttp 212 "GET /carts/ HTTP/1.1" 200 341
+INFO 2024-03-05 17:39:40,945 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2024-03-05 17:39:40,950 basehttp 212 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2024-03-05 17:39:40,973 basehttp 212 "GET /orders/settlement/ HTTP/1.1" 200 336
+INFO 2024-03-05 17:39:40,992 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+INFO 2024-03-05 17:51:39,996 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\orders\urls.py changed, reloading.
+INFO 2024-03-05 17:51:42,767 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 17:52:54,272 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\orders\serializers.py changed, reloading.
+INFO 2024-03-05 17:52:55,388 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-05 18:06:36,852 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-05 18:06:36,936 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-05 18:06:37,083 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 472
+INFO 2024-03-05 18:18:24,561 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-05 18:18:24,710 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 472
+INFO 2024-03-05 18:33:20,820 basehttp 212 "GET /admin/goods/sku/2/change/ HTTP/1.1" 302 0
+INFO 2024-03-05 18:33:21,067 basehttp 212 "GET /admin/login/?next=/admin/goods/sku/2/change/ HTTP/1.1" 200 4233
+INFO 2024-03-05 18:33:21,532 basehttp 212 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2024-03-05 18:33:21,543 basehttp 212 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2024-03-05 18:33:21,570 basehttp 212 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2024-03-05 18:33:21,571 basehttp 212 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-03-05 18:33:21,579 basehttp 212 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-03-05 18:33:21,582 basehttp 212 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2024-03-05 18:33:21,620 basehttp 212 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-03-05 18:33:23,761 basehttp 212 "POST /admin/login/?next=/admin/goods/sku/2/change/ HTTP/1.1" 302 0
+INFO 2024-03-05 18:33:23,930 basehttp 212 "GET /admin/goods/sku/2/change/ HTTP/1.1" 200 22022
+INFO 2024-03-05 18:33:24,083 basehttp 212 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2024-03-05 18:33:24,086 basehttp 212 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-03-05 18:33:24,102 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-05 18:33:24,105 basehttp 212 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2024-03-05 18:33:24,108 basehttp 212 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2024-03-05 18:33:24,115 basehttp 212 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-03-05 18:33:24,118 basehttp 212 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-03-05 18:33:24,125 basehttp 212 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2024-03-05 18:33:24,132 basehttp 212 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-03-05 18:33:24,134 basehttp 212 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-03-05 18:33:24,139 basehttp 212 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-03-05 18:33:24,158 basehttp 212 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-03-05 18:33:24,169 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2024-03-05 18:33:24,169 basehttp 212 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-03-05 18:33:24,192 basehttp 212 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2024-03-05 18:33:24,202 basehttp 212 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-03-05 18:33:24,213 basehttp 212 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-03-05 18:33:27,525 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15001
+INFO 2024-03-05 18:33:27,669 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-05 18:33:27,673 basehttp 212 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2024-03-05 18:33:27,723 basehttp 212 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-03-05 18:33:27,736 basehttp 212 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-03-05 18:33:30,564 basehttp 212 "GET /admin/goods/sku/1/change/ HTTP/1.1" 200 22019
+INFO 2024-03-05 18:33:30,680 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-05 18:33:48,525 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 20199
+INFO 2024-03-05 18:33:48,630 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-05 18:33:55,312 basehttp 212 "GET /admin/goods/skuimage/4/change/ HTTP/1.1" 200 13973
+INFO 2024-03-05 18:33:55,432 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-05 18:34:08,807 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15001
+INFO 2024-03-05 18:34:08,927 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-05 18:34:10,473 basehttp 212 "GET /admin/goods/sku/1/change/ HTTP/1.1" 200 22019
+INFO 2024-03-05 18:34:10,567 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-05 18:34:24,189 basehttp 212 "POST /admin/goods/sku/1/change/ HTTP/1.1" 302 0
+INFO 2024-03-05 18:34:24,215 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 15192
+INFO 2024-03-05 18:34:24,337 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-05 18:34:24,375 basehttp 212 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-03-05 18:37:58,948 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-05 18:37:58,984 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 472
+INFO 2024-03-05 18:43:48,642 basehttp 212 "GET /carts/ HTTP/1.1" 200 341
+INFO 2024-03-05 18:43:55,370 basehttp 212 "GET /orders/settlement/ HTTP/1.1" 200 336
+INFO 2024-03-05 18:43:55,374 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+INFO 2024-03-05 22:24:52,196 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2024-03-05 22:24:52,201 basehttp 212 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2024-03-05 22:24:52,296 basehttp 212 "GET /orders/settlement/ HTTP/1.1" 200 336
+INFO 2024-03-05 22:24:52,303 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+INFO 2024-03-05 22:24:56,340 basehttp 212 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2024-03-05 22:24:56,364 basehttp 212 "GET /carts/ HTTP/1.1" 200 341
+INFO 2024-03-05 22:25:00,910 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1704
+INFO 2024-03-05 22:25:01,842 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2024-03-05 22:25:01,888 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-05 22:25:22,687 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-06 09:36:11,171 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-06 09:36:11,737 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-06 09:36:11,906 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-06 09:36:11,937 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-06 09:36:12,034 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2024-03-06 09:36:12,064 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 472
+INFO 2024-03-06 09:40:42,696 basehttp 212 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2024-03-06 09:40:42,740 basehttp 212 "GET /carts/ HTTP/1.1" 200 341
+INFO 2024-03-06 09:40:44,343 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2024-03-06 09:40:44,345 basehttp 212 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2024-03-06 09:40:44,386 basehttp 212 "GET /orders/settlement/ HTTP/1.1" 200 336
+INFO 2024-03-06 09:40:44,394 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+INFO 2024-03-06 09:40:46,607 basehttp 212 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2024-03-06 09:40:46,700 basehttp 212 "POST /orders/ HTTP/1.1" 201 38
+INFO 2024-03-06 09:48:14,104 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-06 09:52:50,147 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-06 09:52:50,330 basehttp 212 "GET /carts/ HTTP/1.1" 200 2
+INFO 2024-03-06 09:52:51,693 basehttp 212 "GET /orders/settlement/ HTTP/1.1" 200 29
+INFO 2024-03-06 09:52:51,701 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+INFO 2024-03-06 10:34:30,461 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-06 10:34:32,686 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 11:16:03,414 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-06 11:16:06,393 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 11:16:21,845 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-06 11:16:23,192 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 11:17:55,171 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 11:20:22,346 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 11:22:08,146 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 11:22:33,301 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 11:23:10,277 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 11:28:23,293 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 11:28:43,154 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 11:28:55,956 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 12:09:20,876 autoreload 266 D:\python_worksation\venv\Lib\site-packages\xadmin\models.py changed, reloading.
+INFO 2024-03-06 12:09:22,206 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 12:10:08,936 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-06 12:11:14,785 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-06 12:11:16,407 autoreload 668 Watching for file changes with StatReloader

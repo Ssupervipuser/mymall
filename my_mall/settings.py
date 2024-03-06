@@ -45,12 +45,16 @@ INSTALLED_APPS = [
     'ckeditor',
     'ckeditor_uploader',
     # 'dj_crontab-0.8.0.dist-info'
+    # 'xadmin',
+    # 'crispy_forms',
+    # 'reversion',
 
     'apps.users',
     'apps.verifications',
     'apps.areas',
     'apps.goods.apps.GoodsConfig',
     'apps.contents',
+    'apps.orders',
 ]
 
 MIDDLEWARE = [
@@ -265,7 +269,7 @@ REST_FRAMEWORK = {
     ),
     # 分页
     #     'DEFAULT_PAGINATION_CLASS': 'utils.pagination.StandardResultsSetPagination',
-     'DEFAULT_PAGINATION_CLASS':  'rest_framework.pagination.PageNumberPagination',
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
     'PAGE_SIZE': 10  # 每页数目
 }
 
