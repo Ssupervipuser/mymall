@@ -1,5 +1,5 @@
 from django.contrib import admin
-from . import models
+from .models import *
 # Register your models here.
 from .static_detail import generate_static_sku_detail_html
 from .utils import generate_static_list_search_html
@@ -8,6 +8,7 @@ generate_static_list_search_html()
 class GoodsCategoryAdmin(admin.ModelAdmin):
 
     """liebiao"""
+
     def save_model(self, request, obj, form, change):
         obj.save()
         generate_static_list_search_html()
@@ -21,6 +22,9 @@ class GoodsCategoryAdmin(admin.ModelAdmin):
 
 class SKUAdmin(admin.ModelAdmin):
     """商品模型站点管理类"""
+    list_display = ['id', 'name', 'price', 'stock', 'sales', 'comments']
+    search_fields = ['id','name']
+    list_filter = ['category']
     def save_model(self, request, obj, form, change):
         obj.save()
 
@@ -42,13 +46,13 @@ class SKUImageAdmin(admin.ModelAdmin):
         generate_static_sku_detail_html(sku.id)
 
 
-admin.site.register(models.GoodsCategory,GoodsCategoryAdmin)
-admin.site.register(models.GoodsChannel,GoodsCategoryAdmin)
-admin.site.register(models.Goods,GoodsCategoryAdmin)
-admin.site.register(models.Brand,GoodsCategoryAdmin)
-admin.site.register(models.GoodsSpecification,GoodsCategoryAdmin)
-admin.site.register(models.SpecificationOption,GoodsCategoryAdmin)
-admin.site.register(models.SKU,SKUAdmin)
-admin.site.register(models.SKUSpecification,SKUAdmin)
-admin.site.register(models.SKUImage,SKUImageAdmin)
+admin.site.register(GoodsCategory,GoodsCategoryAdmin)
+admin.site.register(GoodsChannel,GoodsCategoryAdmin)
+admin.site.register(Goods,GoodsCategoryAdmin)
+admin.site.register(Brand,GoodsCategoryAdmin)
+admin.site.register(GoodsSpecification,GoodsCategoryAdmin)
+admin.site.register(SpecificationOption,GoodsCategoryAdmin)
+admin.site.register(SKU,SKUAdmin)
+admin.site.register(SKUSpecification)
+admin.site.register(SKUImage,SKUImageAdmin)
 
