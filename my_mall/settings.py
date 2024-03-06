@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     # 'xadmin',
     # 'crispy_forms',
     # 'reversion',
+    'haystack',
 
     'apps.users',
     'apps.verifications',
@@ -270,7 +271,7 @@ REST_FRAMEWORK = {
     # 分页
     #     'DEFAULT_PAGINATION_CLASS': 'utils.pagination.StandardResultsSetPagination',
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
-    'PAGE_SIZE': 10  # 每页数目
+    'PAGE_SIZE': 5  # 每页数目
 }
 
 ##############JWT#################
@@ -324,3 +325,16 @@ GENERATED_STATIC_HTML_FILES_DIR = os.path.join(os.path.dirname(os.path.dirname(B
 #     ('*/5 * * * *', 'contents.crons.generate_static_index_html', '>> D:/senior_homework/graduation project/my_mall/logscrontab.log')
 #
 # ]
+
+
+# Haystack
+HAYSTACK_CONNECTIONS = {
+    'default': {
+        'ENGINE': 'haystack.backends.elasticsearch_backend.ElasticsearchSearchEngine',
+        'URL': 'http://192.168.10.130:9200/',  # 此处为elasticsearch运行的服务器ip地址，端口号固定为9200
+        'INDEX_NAME': 'my_mall',  # 指定elasticsearch建立的索引库的名称
+    },
+}
+
+# 当添加、修改、删除数据时，自动生成索引
+HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'

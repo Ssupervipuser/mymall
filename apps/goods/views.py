@@ -3,7 +3,9 @@ from rest_framework.filters import OrderingFilter
 from rest_framework.generics import ListAPIView
 
 from .models import SKU
-from .serializers import SKUSerializer
+from .serializers import SKUSerializer, SKUIndexSerializer
+
+
 # # Create your views here.
 
 
@@ -17,3 +19,14 @@ class SKUListView(ListAPIView):
         category_id=self.kwargs.get('category_id')
         return SKU.objects.filter(is_launched=True,category_id=category_id)
 
+
+
+from drf_haystack.viewsets import HaystackViewSet
+
+class SKUSearchViewSet(HaystackViewSet):
+    """
+    SKU搜索
+    """
+    index_models = [SKU]
+
+    serializer_class = SKUIndexSerializer
