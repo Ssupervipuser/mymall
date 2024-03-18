@@ -34,6 +34,7 @@ ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = [
     'simpleui',
+    # 'smart_chart.smartui',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -46,9 +47,6 @@ INSTALLED_APPS = [
     'ckeditor',
     'ckeditor_uploader',
     # 'dj_crontab-0.8.0.dist-info'
-    # 'xadmin',
-    # 'crispy_forms',
-    # 'reversion',
     'haystack',
 
     'apps.users',
@@ -57,6 +55,7 @@ INSTALLED_APPS = [
     'apps.goods.apps.GoodsConfig',
     'apps.contents',
     'apps.orders',
+    # 'smart_chart.echart',
 ]
 
 MIDDLEWARE = [
@@ -67,7 +66,7 @@ MIDDLEWARE = [
     # 'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
-    'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    # 'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
 ROOT_URLCONF = 'my_mall.urls'
@@ -147,13 +146,18 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 
+# LANGUAGE_CODE = 'zh-hans'
+#
+# TIME_ZONE = 'Asia/Shanghai'
+#
+# USE_I18N = True
+#
+# USE_TZ = True
 LANGUAGE_CODE = 'zh-hans'
-
 TIME_ZONE = 'Asia/Shanghai'
-
 USE_I18N = True
-
-USE_TZ = True
+USE_L10N = True
+USE_TZ = False  # 此处必须为False
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
@@ -341,5 +345,22 @@ HAYSTACK_CONNECTIONS = {
 HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'
 
 # 隐藏右侧SimpleUI广告链接和使用分析
+SIMPLEUI_HOME_PAGE = '/vision/data/'
 SIMPLEUI_HOME_INFO = False
 SIMPLEUI_ANALYSIS = False
+# SIMPLEUI_CONFIG = {
+#     'system_keep': True,
+#     # 'menu_display': ['Simpleui', '测试', '权限认证', '动态菜单测试'],      # 开启排序和过滤功能, 不填此字段为默认排序和全部显示, 空列表[] 为全部不显示.
+#     'dynamic': True,  # 设置是否开启动态菜单, 默认为False. 如果开启, 则会在每次用户登陆时动态展示菜单内容
+#     'menus': [
+#         {
+#             'name': '可视化',
+#             'icon': 'fa-fw fa fa-leaf',
+#             'models': [{
+#                 'name': '文章报表',
+#                 'icon': 'far fa-surprise',
+#                 'url': '/vision/data/'
+#             }]
+#         },
+#     ]
+# }

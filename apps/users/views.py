@@ -10,6 +10,9 @@ from rest_framework.mixins import UpdateModelMixin
 from rest_framework_jwt.views import ObtainJSONWebToken
 from datetime import datetime
 from rest_framework_jwt.settings import api_settings
+
+from ..orders.models import OrderInfo
+
 jwt_response_payload_handler = api_settings.JWT_RESPONSE_PAYLOAD_HANDLER
 
 from .models import User, Address
@@ -216,3 +219,14 @@ class UserAuthorizeView(ObtainJSONWebToken):
             return response
 
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+
+
+def vision(request):
+    user_count = User.objects.count()
+    order_count=OrderInfo.objects.count()
+    context = {
+        'user_count': user_count,
+        'order_count': order_count,
+    }
+    return render(request, '../templates/vision.html', context)

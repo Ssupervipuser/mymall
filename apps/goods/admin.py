@@ -6,7 +6,7 @@ from .utils import generate_static_list_search_html
 
 generate_static_list_search_html()
 admin.site.site_header = '优选生活管理后台'
-
+admin.site.site_title = '优选生活管理后台'
 admin.site.index_title = '欢迎使用优选生活后台管理'
 
 

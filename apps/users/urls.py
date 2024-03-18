@@ -17,7 +17,7 @@ urlpatterns = [
     #history
     path('browse_histories/', UserBrowserHistoryView.as_view()),        # keys * lrange history_3 0 -1
 
-
+    path('vision/data/', vision, name='vision'),
 
 
 

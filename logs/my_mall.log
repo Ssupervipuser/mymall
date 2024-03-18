@@ -8918,3 +8918,1650 @@ INFO 2024-03-18 13:48:39,109 basehttp 212 "GET /admin/orders/orderinfo/202403060
 INFO 2024-03-18 13:48:39,208 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
 INFO 2024-03-18 13:48:40,774 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 12849
 INFO 2024-03-18 13:48:40,871 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:50:29,131 basehttp 212 "GET /admin/auth/ HTTP/1.1" 200 5103
+INFO 2024-03-18 13:50:29,434 basehttp 212 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-03-18 13:50:32,227 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 12849
+INFO 2024-03-18 13:50:33,822 basehttp 212 "GET /admin/auth/group/ HTTP/1.1" 200 11672
+INFO 2024-03-18 13:50:33,927 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:52:06,025 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 13:52:07,173 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:52:07,870 basehttp 212 "GET /admin/auth/group/ HTTP/1.1" 200 12183
+INFO 2024-03-18 13:52:08,018 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:52:10,691 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 13528
+INFO 2024-03-18 13:52:10,772 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:52:48,442 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 13:52:49,425 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:52:49,940 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 14202
+INFO 2024-03-18 13:52:50,046 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:53:05,743 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 13:53:06,727 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:53:07,181 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 14944
+INFO 2024-03-18 13:53:07,269 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:53:13,333 basehttp 212 "GET /admin/users/user/5/change/ HTTP/1.1" 200 29760
+INFO 2024-03-18 13:53:13,460 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:53:13,588 basehttp 212 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2024-03-18 13:53:13,589 basehttp 212 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-03-18 13:53:13,749 basehttp 212 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-03-18 13:53:13,752 basehttp 212 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-03-18 13:53:22,951 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 14944
+INFO 2024-03-18 14:02:48,174 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 14:02:49,575 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 14:03:07,987 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 14:03:15,111 basehttp 212 "GET /admin/ HTTP/1.1" 200 25894
+INFO 2024-03-18 14:03:15,588 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 200 238628
+INFO 2024-03-18 14:03:15,603 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 200 586253
+INFO 2024-03-18 14:03:15,610 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.12.12 HTTP/1.1" 200 12677
+INFO 2024-03-18 14:03:15,618 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.12.12 HTTP/1.1" 200 1194
+INFO 2024-03-18 14:03:15,627 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.12.12 HTTP/1.1" 200 811
+INFO 2024-03-18 14:03:15,631 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 200 101784
+INFO 2024-03-18 14:03:15,637 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.12.12 HTTP/1.1" 200 1254
+INFO 2024-03-18 14:03:15,637 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js?_=2023.12.12 HTTP/1.1" 200 524
+INFO 2024-03-18 14:03:15,638 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 200 3861
+INFO 2024-03-18 14:03:15,643 basehttp 212 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 200 115997
+INFO 2024-03-18 14:03:15,648 basehttp 212 "GET /static/admin/simpleui-x/theme/theme.js?_=2023.12.12 HTTP/1.1" 200 4274
+INFO 2024-03-18 14:03:15,652 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.12.12 HTTP/1.1" 200 6329
+INFO 2024-03-18 14:03:15,653 basehttp 212 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 200 6994
+INFO 2024-03-18 14:03:15,655 basehttp 212 "GET /static/admin/simpleui-x/js/menu.js?_=2023.12.12 HTTP/1.1" 200 1216
+INFO 2024-03-18 14:03:15,659 basehttp 212 "GET /static/admin/simpleui-x/js/index.js?_=2023.12.12 HTTP/1.1" 200 21460
+INFO 2024-03-18 14:03:15,660 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 200 93675
+INFO 2024-03-18 14:03:15,961 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200
+INFO 2024-03-18 14:03:15,962 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 25096
+INFO 2024-03-18 14:03:15,965 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 150472
+INFO 2024-03-18 14:03:15,965 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 107460
+INFO 2024-03-18 14:03:39,987 basehttp 212 "GET /static/admin/simpleui-x/theme/purple.css HTTP/1.1" 200 4544
+INFO 2024-03-18 14:03:49,325 basehttp 212 "GET / HTTP/1.1" 200 5308
+INFO 2024-03-18 14:03:49,434 basehttp 212 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-03-18 14:03:49,444 basehttp 212 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-03-18 14:03:49,451 basehttp 212 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-03-18 14:03:49,453 basehttp 212 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-03-18 14:03:49,454 basehttp 212 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-03-18 14:03:49,455 basehttp 212 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-03-18 14:03:49,457 basehttp 212 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-03-18 14:03:49,465 basehttp 212 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-03-18 14:03:49,470 basehttp 212 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-03-18 14:03:49,473 basehttp 212 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-03-18 14:03:49,509 basehttp 212 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-03-18 14:04:40,485 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 32568
+INFO 2024-03-18 14:04:40,546 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 14:04:40,550 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 14:04:40,552 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 14:04:40,557 basehttp 212 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 200 4638
+INFO 2024-03-18 14:04:40,558 basehttp 212 "GET /static/admin/css/changelists.css?_=20180905 HTTP/1.1" 200 6566
+INFO 2024-03-18 14:04:40,558 basehttp 212 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 200 4270
+INFO 2024-03-18 14:04:40,559 basehttp 212 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 200 189
+INFO 2024-03-18 14:04:40,559 basehttp 212 "GET /static/admin/css/base.css?_=2.7 HTTP/1.1" 200 21207
+INFO 2024-03-18 14:04:40,560 basehttp 212 "GET /static/admin/css/responsive.css?_=20180905 HTTP/1.1" 200 18533
+INFO 2024-03-18 14:04:40,580 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 200 811
+INFO 2024-03-18 14:04:40,582 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 14:04:40,582 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 200 524
+INFO 2024-03-18 14:04:40,589 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 200 1254
+INFO 2024-03-18 14:04:40,591 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 200 12677
+INFO 2024-03-18 14:04:40,593 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 200 89795
+INFO 2024-03-18 14:04:40,597 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 14:04:40,619 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 200 1194
+INFO 2024-03-18 14:04:40,624 basehttp 212 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 200 14237
+INFO 2024-03-18 14:04:40,797 basehttp 212 "GET /static/admin/simpleui-x/theme/purple.css HTTP/1.1" 304 0
+INFO 2024-03-18 14:04:40,832 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:40,066 basehttp 212 "GET /admin/logout/ HTTP/1.1" 200 161
+INFO 2024-03-18 16:56:40,808 basehttp 212 "GET /admin/login/ HTTP/1.1" 200 4027
+INFO 2024-03-18 16:56:40,947 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:40,958 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:40,958 basehttp 212 "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 200 500
+INFO 2024-03-18 16:56:40,972 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:40,985 basehttp 212 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:40,986 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:40,987 basehttp 212 "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 200 669
+INFO 2024-03-18 16:56:40,992 basehttp 212 "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 200 3728
+INFO 2024-03-18 16:56:40,994 basehttp 212 "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 200 51264
+INFO 2024-03-18 16:56:40,994 basehttp 212 "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 200 9547
+INFO 2024-03-18 16:56:41,134 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:41,284 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,201 basehttp 212 "POST /admin/login/ HTTP/1.1" 302 0
+INFO 2024-03-18 16:56:50,254 basehttp 212 "GET /admin/ HTTP/1.1" 200 25894
+INFO 2024-03-18 16:56:50,376 basehttp 212 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,376 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,379 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,379 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,407 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,415 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,415 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,425 basehttp 212 "GET /static/admin/simpleui-x/theme/theme.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,426 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,427 basehttp 212 "GET /static/admin/simpleui-x/js/menu.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,431 basehttp 212 "GET /static/admin/simpleui-x/js/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,653 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 16:56:50,653 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-brands-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 16:57:47,197 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 16:57:50,955 basehttp 212 "GET /admin/ HTTP/1.1" 200 24422
+INFO 2024-03-18 16:58:15,610 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 28739
+INFO 2024-03-18 16:58:15,688 basehttp 212 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 16:58:15,696 basehttp 212 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-18 16:58:15,697 basehttp 212 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 16:58:15,705 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-03-18 16:58:15,706 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-03-18 16:58:15,706 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 16:58:15,706 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-03-18 16:58:15,709 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-03-18 16:58:15,710 basehttp 212 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 16:58:15,736 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 16:58:17,870 basehttp 212 "GET /admin/users/user/5/change/ HTTP/1.1" 200 24572
+INFO 2024-03-18 16:58:17,980 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 16:58:18,127 basehttp 212 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-03-18 16:58:18,127 basehttp 212 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2024-03-18 16:58:18,270 basehttp 212 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-03-18 16:58:18,271 basehttp 212 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-03-18 16:58:39,962 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 28739
+INFO 2024-03-18 16:58:40,034 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 16:58:45,251 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 32568
+INFO 2024-03-18 16:58:45,298 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 16:58:50,634 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 53534
+INFO 2024-03-18 16:58:50,675 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 16:58:57,801 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 53534
+INFO 2024-03-18 16:58:57,836 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 16:59:01,218 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 53534
+INFO 2024-03-18 16:59:01,364 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 16:59:24,961 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 44326
+INFO 2024-03-18 16:59:25,046 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:00:06,232 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 17:00:07,700 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:00:08,306 basehttp 212 "GET /admin/ HTTP/1.1" 200 24422
+INFO 2024-03-18 17:00:08,839 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 42635
+INFO 2024-03-18 17:00:08,950 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:00:21,029 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-18 17:00:22,415 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:00:23,135 basehttp 212 "GET /admin/ HTTP/1.1" 200 24422
+INFO 2024-03-18 17:00:23,662 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 35375
+INFO 2024-03-18 17:00:23,713 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:00:39,821 basehttp 212 "GET /admin/auth/group/ HTTP/1.1" 200 29223
+INFO 2024-03-18 17:00:39,867 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:00:44,057 basehttp 212 "GET /admin/auth/group/add/ HTTP/1.1" 200 15790
+INFO 2024-03-18 17:00:44,118 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:00:44,239 basehttp 212 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-03-18 17:00:44,242 basehttp 212 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2024-03-18 17:00:44,346 basehttp 212 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-03-18 17:00:44,351 basehttp 212 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-03-18 17:00:44,355 basehttp 212 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-03-18 17:01:07,259 basehttp 212 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:01:07,288 basehttp 212 "GET /admin/auth/group/ HTTP/1.1" 200 29735
+INFO 2024-03-18 17:01:07,339 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:06:07,700 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 32568
+INFO 2024-03-18 17:06:07,792 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 200 238628
+INFO 2024-03-18 17:06:07,802 basehttp 212 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 200 4638
+INFO 2024-03-18 17:06:07,804 basehttp 212 "GET /static/admin/css/base.css?_=2.7 HTTP/1.1" 200 21207
+INFO 2024-03-18 17:06:07,804 basehttp 212 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 200 4270
+INFO 2024-03-18 17:06:07,806 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 200 101784
+INFO 2024-03-18 17:06:07,807 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 200 93675
+INFO 2024-03-18 17:06:07,811 basehttp 212 "GET /static/admin/css/changelists.css?_=20180905 HTTP/1.1" 200 6566
+INFO 2024-03-18 17:06:07,828 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 200 811
+INFO 2024-03-18 17:06:07,828 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 200 1254
+INFO 2024-03-18 17:06:07,832 basehttp 212 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 200 189
+INFO 2024-03-18 17:06:07,836 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 200 524
+INFO 2024-03-18 17:06:07,836 basehttp 212 "GET /static/admin/css/responsive.css?_=20180905 HTTP/1.1" 200 18533
+INFO 2024-03-18 17:06:07,842 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 200 586253
+INFO 2024-03-18 17:06:07,870 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 200 1194
+INFO 2024-03-18 17:06:07,875 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 200 12677
+INFO 2024-03-18 17:06:07,877 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:06:07,878 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 200 89795
+INFO 2024-03-18 17:06:07,879 basehttp 212 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 200 14237
+INFO 2024-03-18 17:06:08,214 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200
+INFO 2024-03-18 17:13:04,256 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 17:13:05,262 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:14:44,018 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 17:14:44,791 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:19:53,974 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:19:57,717 basehttp 212 "GET /admin/ HTTP/1.1" 200 26414
+INFO 2024-03-18 17:19:58,097 basehttp 212 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 200 6994
+INFO 2024-03-18 17:19:58,104 basehttp 212 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 200 115997
+INFO 2024-03-18 17:19:58,105 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 200 3861
+INFO 2024-03-18 17:19:58,123 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.12.12 HTTP/1.1" 200 1194
+INFO 2024-03-18 17:19:58,124 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.12.12 HTTP/1.1" 200 12677
+INFO 2024-03-18 17:19:58,124 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.12.12 HTTP/1.1" 200 811
+INFO 2024-03-18 17:19:58,128 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.12.12 HTTP/1.1" 200 1254
+INFO 2024-03-18 17:19:58,141 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js?_=2023.12.12 HTTP/1.1" 200 524
+INFO 2024-03-18 17:19:58,145 basehttp 212 "GET /static/admin/simpleui-x/theme/theme.js?_=2023.12.12 HTTP/1.1" 200 4274
+INFO 2024-03-18 17:19:58,160 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.12.12 HTTP/1.1" 200 6329
+INFO 2024-03-18 17:19:58,160 basehttp 212 "GET /static/admin/simpleui-x/js/menu.js?_=2023.12.12 HTTP/1.1" 200 1216
+INFO 2024-03-18 17:19:58,161 basehttp 212 "GET /static/admin/simpleui-x/js/index.js?_=2023.12.12 HTTP/1.1" 200 21460
+INFO 2024-03-18 17:19:58,461 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 25096
+INFO 2024-03-18 17:19:58,464 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 150472
+INFO 2024-03-18 17:20:10,832 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 28727
+INFO 2024-03-18 17:20:10,983 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-18 17:20:13,675 log 241 Internal Server Error: /admin/echart/echartdashboardsetup_v2/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'my_malldb.echart_projectlist' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1926, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 836, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 122, in __init__
+    self.queryset = self.get_queryset(request)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 503, in get_queryset
+    ) = self.get_filters(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\views\main.py", line 182, in get_filters
+    spec = field_list_filter_class(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\filters.py", line 175, in create
+    return list_filter_class(
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\filters.py", line 188, in __init__
+    self.lookup_choices = self.field_choices(field, request, model_admin)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\filters.py", line 225, in field_choices
+    return field.get_choices(include_blank=False, ordering=ordering)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 1009, in get_choices
+    return (blank_choice if include_blank else []) + [
+                                                     ^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'my_malldb.echart_projectlist' doesn't exist")
+ERROR 2024-03-18 17:20:13,692 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 500 234688
+INFO 2024-03-18 17:20:45,308 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:21:09,080 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:21:13,938 basehttp 212 "GET /admin/ HTTP/1.1" 200 26354
+INFO 2024-03-18 17:21:14,270 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=6.7.2 HTTP/1.1" 200 93675
+INFO 2024-03-18 17:21:14,277 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js?_=6.7.2 HTTP/1.1" 200 524
+INFO 2024-03-18 17:21:14,284 basehttp 212 "GET /static/admin/simpleui-x/theme/theme.js?_=6.7.2 HTTP/1.1" 200 4274
+INFO 2024-03-18 17:21:14,292 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.js?_=6.7.2 HTTP/1.1" 200 6329
+INFO 2024-03-18 17:21:14,299 basehttp 212 "GET /static/admin/simpleui-x/js/menu.js?_=6.7.2 HTTP/1.1" 200 1216
+INFO 2024-03-18 17:21:14,306 basehttp 212 "GET /static/admin/simpleui-x/js/index.js?_=6.7.2 HTTP/1.1" 200 21460
+INFO 2024-03-18 17:21:14,342 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=6.7.2 HTTP/1.1" 200 586253
+INFO 2024-03-18 17:21:14,441 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js?_=6.7.2 HTTP/1.1" 200 1194
+INFO 2024-03-18 17:21:14,447 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=6.7.2 HTTP/1.1" 200 811
+INFO 2024-03-18 17:21:14,456 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js?_=6.7.2 HTTP/1.1" 200 12677
+INFO 2024-03-18 17:21:14,459 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=6.7.2 HTTP/1.1" 200 1254
+INFO 2024-03-18 17:21:14,609 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 39611
+INFO 2024-03-18 17:21:14,804 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:21:17,266 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 28717
+INFO 2024-03-18 17:21:17,323 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:21:19,794 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 32546
+INFO 2024-03-18 17:21:19,827 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:21:23,040 basehttp 212 "GET /admin/echart/projectlist/ HTTP/1.1" 200 33561
+INFO 2024-03-18 17:21:23,076 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:21:23,232 basehttp 212 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-03-18 17:21:26,181 basehttp 212 "GET /admin/echart/echartformat/ HTTP/1.1" 200 35466
+INFO 2024-03-18 17:21:26,218 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:22:21,372 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:22:24,931 basehttp 212 "GET /admin/ HTTP/1.1" 200 26025
+INFO 2024-03-18 17:22:25,377 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 200 239740
+INFO 2024-03-18 17:22:25,393 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 200 101894
+INFO 2024-03-18 17:22:25,394 basehttp 212 "GET /static/smartui/waves/waves.min.css?_=2.1 HTTP/1.1" 200 3861
+INFO 2024-03-18 17:22:25,394 basehttp 212 "GET /static/smartui/elementui/index.js?_=6.7.2 HTTP/1.1" 200 664111
+INFO 2024-03-18 17:22:25,397 basehttp 212 "GET /static/smartui/img/magiccube.png HTTP/1.1" 200 1517
+INFO 2024-03-18 17:22:25,402 basehttp 212 "GET /static/smartui/automatic/segment.js?_=6.7.2 HTTP/1.1" 200 1182
+INFO 2024-03-18 17:22:25,403 basehttp 212 "GET /static/smartui/automatic/dicts.js?_=6.7.2 HTTP/1.1" 200 6018
+INFO 2024-03-18 17:22:25,407 basehttp 212 "GET /static/smartui/css/index.css?_=3.2 HTTP/1.1" 200 7204
+INFO 2024-03-18 17:22:25,407 basehttp 212 "GET /static/smartui/locale/en-us.js?_=6.7.2 HTTP/1.1" 200 811
+INFO 2024-03-18 17:22:25,412 basehttp 212 "GET /static/smartui/js/vue.min.js?_=6.7.2 HTTP/1.1" 200 93675
+INFO 2024-03-18 17:22:25,412 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=6.7.2 HTTP/1.1" 200 1254
+INFO 2024-03-18 17:22:25,415 basehttp 212 "GET /static/smartui/js/cookie.js?_=6.7.2 HTTP/1.1" 200 524
+INFO 2024-03-18 17:22:25,420 basehttp 212 "GET /static/smartui/theme/theme.js?_=6.7.2 HTTP/1.1" 200 4274
+INFO 2024-03-18 17:22:25,425 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=6.7.2 HTTP/1.1" 200 6291
+INFO 2024-03-18 17:22:25,429 basehttp 212 "GET /static/smartui/js/menu.js?_=6.7.2 HTTP/1.1" 200 1189
+INFO 2024-03-18 17:22:25,432 basehttp 212 "GET /static/smartui/js/index.js?_=6.7.2 HTTP/1.1" 200 20820
+INFO 2024-03-18 17:22:25,682 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 25236
+INFO 2024-03-18 17:22:25,685 basehttp 212 "GET /static/smartui/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200
+INFO 2024-03-18 17:22:25,687 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 150516
+INFO 2024-03-18 17:22:26,031 basehttp 212 "GET /static/smartui/img/favicon.ico HTTP/1.1" 200 4286
+INFO 2024-03-18 17:23:12,336 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 27901
+INFO 2024-03-18 17:23:12,422 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:12,431 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:12,437 basehttp 212 "GET /static/smartui/css/base.css?_=2.7 HTTP/1.1" 200 4149
+INFO 2024-03-18 17:23:12,440 basehttp 212 "GET /static/smartui/js/vue.min.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:12,441 basehttp 212 "GET /static/smartui/theme/simpleui.css HTTP/1.1" 200 4230
+INFO 2024-03-18 17:23:12,441 basehttp 212 "GET /static/smartui/js/language.js?_=2.1.2 HTTP/1.1" 200 189
+INFO 2024-03-18 17:23:12,441 basehttp 212 "GET /static/smartui/locale/en-us.js?_=2.1.2 HTTP/1.1" 200 811
+INFO 2024-03-18 17:23:12,442 basehttp 212 "GET /static/smartui/elementui/index.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:12,461 basehttp 212 "GET /static/smartui/locale/zh-hans.js HTTP/1.1" 200 1254
+INFO 2024-03-18 17:23:12,472 basehttp 212 "GET /static/smartui/js/cookie.js HTTP/1.1" 200 524
+INFO 2024-03-18 17:23:12,473 basehttp 212 "GET /static/smartui/automatic/dicts.js HTTP/1.1" 200 6018
+INFO 2024-03-18 17:23:12,475 basehttp 212 "GET /static/smartui/automatic/segment.js HTTP/1.1" 200 1182
+INFO 2024-03-18 17:23:12,478 basehttp 212 "GET /static/smartui/js/axios.min.js HTTP/1.1" 200 14202
+INFO 2024-03-18 17:23:12,481 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:23:12,602 basehttp 212 "GET /static/smartui/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:21,773 basehttp 212 "GET /admin/logout/ HTTP/1.1" 200 161
+INFO 2024-03-18 17:23:22,163 basehttp 212 "GET /admin/login/ HTTP/1.1" 200 2277
+INFO 2024-03-18 17:23:22,247 basehttp 212 "GET /static/smartui/css/login.css?_=2.2 HTTP/1.1" 200 1289
+INFO 2024-03-18 17:23:22,249 basehttp 212 "GET /static/smartui/img/smartviplogo.png HTTP/1.1" 200 25985
+INFO 2024-03-18 17:23:22,251 basehttp 212 "GET /static/smartui/js/login.js?_=3.3 HTTP/1.1" 200 669
+INFO 2024-03-18 17:23:22,338 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,198 basehttp 212 "POST /admin/login/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:23:31,225 basehttp 212 "GET /admin/ HTTP/1.1" 200 26025
+INFO 2024-03-18 17:23:31,310 basehttp 212 "GET /static/smartui/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,312 basehttp 212 "GET /static/smartui/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,315 basehttp 212 "GET /static/smartui/img/magiccube.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,321 basehttp 212 "GET /static/smartui/automatic/dicts.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,363 basehttp 212 "GET /static/smartui/automatic/segment.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,370 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,370 basehttp 212 "GET /static/smartui/locale/en-us.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,374 basehttp 212 "GET /static/smartui/js/cookie.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,376 basehttp 212 "GET /static/smartui/theme/theme.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,377 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,385 basehttp 212 "GET /static/smartui/js/menu.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,391 basehttp 212 "GET /static/smartui/js/index.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:31,525 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:23:43,375 basehttp 212 "GET /admin/echart/echartdataset/ HTTP/1.1" 200 34689
+INFO 2024-03-18 17:23:43,453 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:23:44,713 basehttp 212 "GET /admin/echart/visitlog/ HTTP/1.1" 200 30956
+INFO 2024-03-18 17:23:44,753 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:23:46,071 basehttp 212 "GET /admin/echart/projectlist/ HTTP/1.1" 200 32667
+INFO 2024-03-18 17:23:46,115 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:25:05,100 basehttp 212 "GET /echart/init_db/ HTTP/1.1" 200 115
+INFO 2024-03-18 17:25:08,618 basehttp 212 "GET / HTTP/1.1" 302 0
+INFO 2024-03-18 17:25:08,634 basehttp 212 "GET /echart/index/ HTTP/1.1" 200 14164
+INFO 2024-03-18 17:25:08,732 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:08,744 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:08,744 basehttp 212 "GET /static/smartui/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:08,747 basehttp 212 "GET /static/smartui/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:08,748 basehttp 212 "GET /static/smartui/theme/dark.green.css HTTP/1.1" 200 4231
+INFO 2024-03-18 17:25:08,749 basehttp 212 "GET /static/smartui/img/smartviplogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:08,772 basehttp 212 "GET /static/smartui/img/smartlogo.png HTTP/1.1" 200 23327
+INFO 2024-03-18 17:25:08,781 basehttp 212 "GET /static/smartui/js/axios.min.js?_=4.0 HTTP/1.1" 200 14202
+INFO 2024-03-18 17:25:08,788 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=4.0 HTTP/1.1" 200 1254
+INFO 2024-03-18 17:25:08,788 basehttp 212 "GET /static/smartui/locale/en-us.js?_=4.0 HTTP/1.1" 200 811
+INFO 2024-03-18 17:25:08,788 basehttp 212 "GET /static/smartui/js/vue.min.js?_=4.0 HTTP/1.1" 200 93675
+INFO 2024-03-18 17:25:08,798 basehttp 212 "GET /static/smartui/elementui/index.js?_=4.0 HTTP/1.1" 200 664111
+INFO 2024-03-18 17:25:08,818 basehttp 212 "GET /static/smartui/js/cookie.js?_=4.0 HTTP/1.1" 200 524
+INFO 2024-03-18 17:25:08,825 basehttp 212 "GET /static/smartui/theme/theme.js?_=4.0 HTTP/1.1" 200 4274
+INFO 2024-03-18 17:25:08,836 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=4.0 HTTP/1.1" 200 6291
+INFO 2024-03-18 17:25:08,840 basehttp 212 "GET /static/smartui/js/menu.js?_=4.0 HTTP/1.1" 200 1189
+INFO 2024-03-18 17:25:08,844 basehttp 212 "GET /static/smartui/js/smtindex.js?_=4.3.3 HTTP/1.1" 200 25684
+INFO 2024-03-18 17:25:09,066 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:09,076 basehttp 212 "GET /static/smartui/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:09,077 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:09,114 basehttp 212 "POST /echart/index_api2022/ HTTP/1.1" 200 71
+INFO 2024-03-18 17:25:14,714 basehttp 212 "GET /echart/index/ HTTP/1.1" 200 14164
+INFO 2024-03-18 17:25:15,060 basehttp 212 "POST /echart/index_api2022/ HTTP/1.1" 200 71
+INFO 2024-03-18 17:25:15,265 basehttp 212 "GET /static/smartui/img/favicon.ico HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:24,700 basehttp 212 "GET /admin/logout/?next=/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:25:24,709 basehttp 212 "GET / HTTP/1.1" 302 0
+INFO 2024-03-18 17:25:25,455 basehttp 212 "GET /echart/index/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:25:25,465 basehttp 212 "GET /admin/login/?next=/ HTTP/1.1" 200 2278
+INFO 2024-03-18 17:25:25,569 basehttp 212 "GET /static/smartui/css/login.css?_=2.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:25,579 basehttp 212 "GET /static/smartui/js/vue.min.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:25,607 basehttp 212 "GET /static/smartui/elementui/index.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:25,613 basehttp 212 "GET /static/smartui/js/login.js?_=3.3 HTTP/1.1" 304 0
+INFO 2024-03-18 17:25:27,527 basehttp 212 "POST /admin/login/?next=/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:25:27,537 basehttp 212 "GET / HTTP/1.1" 302 0
+INFO 2024-03-18 17:25:27,548 basehttp 212 "GET /echart/index/ HTTP/1.1" 200 14164
+INFO 2024-03-18 17:25:27,883 basehttp 212 "POST /echart/index_api2022/ HTTP/1.1" 200 72
+INFO 2024-03-18 17:26:02,301 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:26:11,665 basehttp 212 "GET /echart/index/ HTTP/1.1" 200 14164
+INFO 2024-03-18 17:26:11,792 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,809 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,821 basehttp 212 "GET /static/smartui/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,822 basehttp 212 "GET /static/smartui/img/smartlogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,822 basehttp 212 "GET /static/smartui/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,825 basehttp 212 "GET /static/smartui/theme/dark.green.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,829 basehttp 212 "GET /static/smartui/img/smartviplogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,900 basehttp 212 "GET /static/smartui/js/axios.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,911 basehttp 212 "GET /static/smartui/elementui/index.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,911 basehttp 212 "GET /static/smartui/locale/en-us.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,912 basehttp 212 "GET /static/smartui/js/vue.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,913 basehttp 212 "GET /static/smartui/js/cookie.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,916 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,918 basehttp 212 "GET /static/smartui/theme/theme.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,934 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,936 basehttp 212 "GET /static/smartui/js/menu.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:11,939 basehttp 212 "GET /static/smartui/js/smtindex.js?_=4.3.3 HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:12,172 basehttp 212 "POST /echart/index_api2022/ HTTP/1.1" 200 72
+INFO 2024-03-18 17:26:12,411 basehttp 212 "GET /static/smartui/img/favicon.ico HTTP/1.1" 304 0
+INFO 2024-03-18 17:26:17,561 basehttp 212 "GET /static/smartui/theme/purple.css HTTP/1.1" 200 4506
+INFO 2024-03-18 17:27:39,021 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:27:43,539 basehttp 212 "GET /echart/index/ HTTP/1.1" 200 14164
+INFO 2024-03-18 17:27:43,637 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,651 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,664 basehttp 212 "GET /static/smartui/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,666 basehttp 212 "GET /static/smartui/theme/dark.green.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,666 basehttp 212 "GET /static/smartui/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,667 basehttp 212 "GET /static/smartui/img/smartviplogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,673 basehttp 212 "GET /static/smartui/img/smartlogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,720 basehttp 212 "GET /static/smartui/js/axios.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,722 basehttp 212 "GET /static/smartui/locale/en-us.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,722 basehttp 212 "GET /static/smartui/js/vue.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,722 basehttp 212 "GET /static/smartui/elementui/index.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,735 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,746 basehttp 212 "GET /static/smartui/js/cookie.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,749 basehttp 212 "GET /static/smartui/theme/theme.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,749 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,755 basehttp 212 "GET /static/smartui/js/menu.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,776 basehttp 212 "GET /static/smartui/js/smtindex.js?_=4.3.3 HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:43,984 basehttp 212 "GET /static/smartui/theme/purple.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:44,027 basehttp 212 "POST /echart/index_api2022/ HTTP/1.1" 200 72
+INFO 2024-03-18 17:27:44,250 basehttp 212 "GET /static/smartui/img/favicon.ico HTTP/1.1" 304 0
+INFO 2024-03-18 17:27:45,633 basehttp 212 "GET /admin/login/?next=/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:27:45,690 basehttp 212 "GET /admin/ HTTP/1.1" 200 26414
+INFO 2024-03-18 17:27:55,256 basehttp 212 "POST /echart/index_api2022/ HTTP/1.1" 200 72
+INFO 2024-03-18 17:27:57,439 basehttp 212 "GET /admin/ HTTP/1.1" 200 26414
+INFO 2024-03-18 17:28:27,976 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 40594
+INFO 2024-03-18 17:28:28,041 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,049 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,054 basehttp 212 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,054 basehttp 212 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,056 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,061 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,061 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,063 basehttp 212 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,063 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,064 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,074 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,074 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,075 basehttp 212 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:28,078 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:28:28,231 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 17:28:30,335 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/add/ HTTP/1.1" 200 19519
+INFO 2024-03-18 17:28:30,409 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:29:36,241 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:29:39,476 basehttp 212 "GET /admin/ HTTP/1.1" 200 26354
+INFO 2024-03-18 17:29:40,012 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 40584
+INFO 2024-03-18 17:29:40,163 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:29:42,663 basehttp 212 "GET /admin/ HTTP/1.1" 200 26354
+INFO 2024-03-18 17:29:42,984 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 40584
+INFO 2024-03-18 17:29:43,077 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:29:45,401 basehttp 212 "GET /admin/echart/dbsetup/ HTTP/1.1" 200 28380
+INFO 2024-03-18 17:29:45,474 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:29:47,496 basehttp 212 "GET /admin/echart/dbsetup/add/ HTTP/1.1" 200 13955
+INFO 2024-03-18 17:29:47,550 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:30:46,149 basehttp 212 "POST /admin/echart/dbsetup/add/ HTTP/1.1" 200 14350
+INFO 2024-03-18 17:30:46,201 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:31:15,721 basehttp 212 "POST /admin/echart/dbsetup/add/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:31:15,755 basehttp 212 "GET /admin/echart/dbsetup/ HTTP/1.1" 200 29531
+INFO 2024-03-18 17:31:15,824 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:31:22,440 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/add/ HTTP/1.1" 200 19584
+INFO 2024-03-18 17:31:22,575 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:34:41,879 basehttp 212 "POST /admin/echart/echartdashboardsetup_v2/add/ HTTP/1.1" 200 19905
+INFO 2024-03-18 17:34:41,928 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:34:57,958 basehttp 212 "POST /admin/echart/echartdashboardsetup_v2/add/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:34:57,989 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 42915
+INFO 2024-03-18 17:34:58,035 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:34:58,120 basehttp 212 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-03-18 17:35:01,405 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/2/change/ HTTP/1.1" 200 21098
+INFO 2024-03-18 17:35:01,454 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:35:08,008 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 42748
+INFO 2024-03-18 17:35:08,125 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:35:11,145 basehttp 212 "GET /echart/?type=2 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:35:11,247 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 200 1602
+INFO 2024-03-18 17:35:11,249 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 200 27400
+INFO 2024-03-18 17:35:11,265 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 200 4013
+INFO 2024-03-18 17:35:11,268 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 200 687
+INFO 2024-03-18 17:35:11,279 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 200 36112
+INFO 2024-03-18 17:35:11,283 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 200 85659
+INFO 2024-03-18 17:35:11,303 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 200 1015913
+INFO 2024-03-18 17:35:16,249 basehttp 212 "GET /echart/?type=2&dev=1&list=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:35:28,192 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:35:44,916 basehttp 212 "POST /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:35:44,942 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 42748
+INFO 2024-03-18 17:35:45,128 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:35:48,449 basehttp 212 "GET /echart/?type=2&dev=1&list=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:35:52,527 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:36:01,385 basehttp 212 "GET /admin/echart/echartformat/ HTTP/1.1" 200 42693
+INFO 2024-03-18 17:36:01,480 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:36:14,318 basehttp 212 "POST /admin/echart/echartformat/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:36:14,362 basehttp 212 "GET /admin/echart/echartformat/ HTTP/1.1" 200 42693
+INFO 2024-03-18 17:36:14,429 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:36:21,365 basehttp 212 "GET /admin/echart/errorlog/ HTTP/1.1" 200 35600
+INFO 2024-03-18 17:36:21,415 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:36:22,337 basehttp 212 "GET /admin/echart/projectlist/ HTTP/1.1" 200 35419
+INFO 2024-03-18 17:36:22,363 basehttp 212 "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2024-03-18 17:36:22,371 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:36:22,649 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 107460
+INFO 2024-03-18 17:36:25,771 basehttp 212 "GET /admin/echart/projectlist/1/change/ HTTP/1.1" 200 14755
+INFO 2024-03-18 17:36:25,855 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:36:32,369 basehttp 212 "GET /admin/echart/echartdataset/ HTTP/1.1" 200 37621
+INFO 2024-03-18 17:36:32,415 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:36:35,039 basehttp 212 "GET /admin/echart/echartdataset/add/ HTTP/1.1" 200 17557
+INFO 2024-03-18 17:36:35,101 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:36:35,102 basehttp 212 "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 2024-03-18 17:36:35,102 basehttp 212 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2024-03-18 17:36:35,103 basehttp 212 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-03-18 17:36:50,597 basehttp 212 "GET /echart/?type=2&dev=1&list=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:36:54,738 basehttp 212 "GET /echart/?type=2&dev=1&list=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:36:55,049 basehttp 212 "GET /static/smartui/img/favicon.ico HTTP/1.1" 304 0
+INFO 2024-03-18 17:37:04,989 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 42748
+INFO 2024-03-18 17:37:05,113 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:37:13,846 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:37:17,593 basehttp 212 "GET /admin/ HTTP/1.1" 200 26299
+INFO 2024-03-18 17:37:18,023 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 42748
+INFO 2024-03-18 17:37:18,247 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:37:20,523 basehttp 212 "GET /admin/ HTTP/1.1" 200 26299
+INFO 2024-03-18 17:37:20,853 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 42748
+INFO 2024-03-18 17:37:20,981 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:37:28,830 basehttp 212 "GET /echart/?type=2&refresh=Y HTTP/1.1" 200 1146
+INFO 2024-03-18 17:37:28,923 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:37:28,938 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:37:28,942 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:37:28,949 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:37:28,952 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:37:28,953 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 304 0
+INFO 2024-03-18 17:37:28,953 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:37:33,071 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:37:51,827 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:39:30,255 basehttp 212 "GET /admin/echart/dbsetup/ HTTP/1.1" 200 29381
+INFO 2024-03-18 17:39:30,339 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:39:32,224 basehttp 212 "GET /admin/echart/echartformat/ HTTP/1.1" 200 42693
+INFO 2024-03-18 17:39:32,261 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:39:36,142 basehttp 212 "GET /admin/echart/echartformat/add/ HTTP/1.1" 200 13175
+INFO 2024-03-18 17:39:36,221 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:40:00,514 basehttp 212 "POST /admin/echart/echartformat/add/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:40:00,560 basehttp 212 "GET /admin/echart/echartformat/ HTTP/1.1" 200 44248
+INFO 2024-03-18 17:40:00,624 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:40:03,257 basehttp 212 "GET /echart/editor_min/?chartid=6 HTTP/1.1" 200 4874
+INFO 2024-03-18 17:40:03,382 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:40:03,673 basehttp 212 "GET /static/smartchart/editor/modal.css HTTP/1.1" 200 2345
+INFO 2024-03-18 17:40:03,678 basehttp 212 "GET /static/ace/mode-javascript.js HTTP/1.1" 200 32221
+INFO 2024-03-18 17:40:03,685 basehttp 212 "GET /static/ace/snippets/javascript.js HTTP/1.1" 200 4612
+INFO 2024-03-18 17:40:03,688 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:40:03,691 basehttp 212 "GET /static/ace/ext-language_tools.js HTTP/1.1" 200 70034
+INFO 2024-03-18 17:40:03,698 basehttp 212 "GET /static/smartchart/opt/smt_lodash.js HTTP/1.1" 200 52662
+INFO 2024-03-18 17:40:03,703 basehttp 212 "GET /static/smartchart/editor/colorpicker.js HTTP/1.1" 200 13474
+INFO 2024-03-18 17:40:03,709 basehttp 212 "GET /static/smartchart/editor/echart/editor_min.js?_=2.7 HTTP/1.1" 200 82616
+INFO 2024-03-18 17:40:03,713 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=1 HTTP/1.1" 200 3793
+INFO 2024-03-18 17:40:03,722 basehttp 212 "GET /static/smartchart/js/fun.js?_=1.2 HTTP/1.1" 200 36112
+INFO 2024-03-18 17:40:03,723 basehttp 212 "GET /static/smartchart/editor/echart/main.css?_=2.3 HTTP/1.1" 200 24488
+INFO 2024-03-18 17:40:03,725 basehttp 212 "GET /static/smartchart/js/fun.css HTTP/1.1" 200 1602
+INFO 2024-03-18 17:40:03,738 basehttp 212 "GET /static/ace/ace.js HTTP/1.1" 200 724406
+INFO 2024-03-18 17:40:03,791 basehttp 212 "GET /static/smartchart/icon/iconfont.woff2?t=1696733967990 HTTP/1.1" 200 17556
+INFO 2024-03-18 17:40:03,855 basehttp 212 "GET /echart/loadchart/?chartid=6&dataid=&param={}&cache= HTTP/1.1" 200 301
+INFO 2024-03-18 17:40:03,887 basehttp 212 "GET /static/ace/theme-chrome.js HTTP/1.1" 200 3363
+INFO 2024-03-18 17:40:04,108 basehttp 212 "GET /static/ace/worker-javascript.js HTTP/1.1" 200 344794
+INFO 2024-03-18 17:40:12,241 basehttp 212 "GET /static/smartchart/opt/smt_syscharts.js HTTP/1.1" 200 20888
+INFO 2024-03-18 17:40:12,271 basehttp 212 "GET /static/smartchart/editor/echart/img/bar.webp HTTP/1.1" 200 3126
+INFO 2024-03-18 17:40:12,275 basehttp 212 "GET /static/smartchart/editor/echart/img/line.webp HTTP/1.1" 200 3284
+INFO 2024-03-18 17:40:12,277 basehttp 212 "GET /static/smartchart/editor/echart/img/pie.webp HTTP/1.1" 200 7154
+INFO 2024-03-18 17:40:12,278 basehttp 212 "GET /static/smartchart/editor/echart/img/gauge.webp HTTP/1.1" 200 3846
+INFO 2024-03-18 17:40:30,412 basehttp 212 "GET /admin/echart/errorlog/ HTTP/1.1" 200 35600
+INFO 2024-03-18 17:40:30,518 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:40:32,391 basehttp 212 "GET /admin/echart/projectlist/ HTTP/1.1" 200 35419
+INFO 2024-03-18 17:40:32,435 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:40:32,610 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:40:40,103 basehttp 212 "GET /admin/echart/echartdataset/ HTTP/1.1" 200 37621
+INFO 2024-03-18 17:40:40,134 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:40:44,799 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:40:44,877 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:40:44,882 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:40:44,891 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:40:44,892 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 304 0
+INFO 2024-03-18 17:40:44,893 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:40:51,660 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/2/change/ HTTP/1.1" 200 21098
+INFO 2024-03-18 17:40:51,757 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:41:00,277 basehttp 212 "GET /admin/echart/projectlist/1/change/?_to_field=id HTTP/1.1" 200 14826
+INFO 2024-03-18 17:41:00,329 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:41:06,120 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/2/change/ HTTP/1.1" 200 21108
+INFO 2024-03-18 17:41:06,183 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:41:15,930 basehttp 212 "GET /echart/copy_dash/?dashid=2 HTTP/1.1" 200 53
+INFO 2024-03-18 17:41:20,731 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/2/change/ HTTP/1.1" 200 21108
+INFO 2024-03-18 17:41:30,835 basehttp 212 "GET /echart/upload_dash/?id=2 HTTP/1.1" 200 2440
+INFO 2024-03-18 17:41:30,884 basehttp 212 "GET /static/smartui/css/input.css HTTP/1.1" 200 2595
+INFO 2024-03-18 17:41:43,097 basehttp 212 "POST /echart/dash_connect/ HTTP/1.1" 200 60
+INFO 2024-03-18 17:41:46,304 basehttp 212 "POST /echart/dash_connect/ HTTP/1.1" 200 60
+INFO 2024-03-18 17:41:57,430 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 42748
+INFO 2024-03-18 17:41:57,464 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:41:57,470 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:41:57,475 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:42:00,635 basehttp 212 "GET /echart/?type=2&dev=1&list=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:43:58,183 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:44:03,871 basehttp 212 "GET / HTTP/1.1" 302 0
+INFO 2024-03-18 17:44:03,889 basehttp 212 "GET /echart/index/ HTTP/1.1" 200 14164
+INFO 2024-03-18 17:44:03,986 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:03,991 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:03,992 basehttp 212 "GET /static/smartui/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:03,996 basehttp 212 "GET /static/smartui/img/smartviplogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,009 basehttp 212 "GET /static/smartui/img/smartlogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,011 basehttp 212 "GET /static/smartui/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,013 basehttp 212 "GET /static/smartui/theme/dark.green.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,259 basehttp 212 "GET /static/smartui/js/axios.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,264 basehttp 212 "GET /static/smartui/js/vue.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,266 basehttp 212 "GET /static/smartui/elementui/index.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,267 basehttp 212 "GET /static/smartui/locale/en-us.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,267 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,275 basehttp 212 "GET /static/smartui/js/cookie.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,298 basehttp 212 "GET /static/smartui/theme/theme.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,317 basehttp 212 "GET /static/smartui/js/menu.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,319 basehttp 212 "GET /static/smartui/js/smtindex.js?_=4.3.3 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,324 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,624 basehttp 212 "GET /static/smartui/theme/purple.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,689 basehttp 212 "GET /static/smartui/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,689 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:04,714 basehttp 212 "POST /echart/index_api2022/ HTTP/1.1" 200 484
+INFO 2024-03-18 17:44:05,211 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 107656
+INFO 2024-03-18 17:44:18,556 basehttp 212 "GET /echart/?type=2 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:44:18,585 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:18,585 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:18,589 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:18,592 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:18,593 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:18,594 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:18,595 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:35,886 basehttp 212 "GET /admin/ HTTP/1.1" 200 25905
+INFO 2024-03-18 17:44:35,977 basehttp 212 "GET /static/smartui/img/magiccube.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:35,979 basehttp 212 "GET /static/smartui/js/vue.min.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:36,029 basehttp 212 "GET /static/smartui/elementui/index.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:36,036 basehttp 212 "GET /static/smartui/automatic/dicts.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:36,041 basehttp 212 "GET /static/smartui/locale/en-us.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:36,041 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:36,043 basehttp 212 "GET /static/smartui/automatic/segment.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:36,044 basehttp 212 "GET /static/smartui/js/cookie.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:36,056 basehttp 212 "GET /static/smartui/theme/theme.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:36,058 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:36,068 basehttp 212 "GET /static/smartui/js/index.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:36,070 basehttp 212 "GET /static/smartui/js/menu.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:36,274 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:43,826 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 41854
+INFO 2024-03-18 17:44:43,889 basehttp 212 "GET /static/smartui/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:43,889 basehttp 212 "GET /static/smartui/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:43,900 basehttp 212 "GET /static/smartui/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:43,900 basehttp 212 "GET /static/smartui/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:43,902 basehttp 212 "GET /static/smartui/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:43,903 basehttp 212 "GET /static/smartui/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:43,907 basehttp 212 "GET /static/smartui/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:43,911 basehttp 212 "GET /static/smartui/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:43,911 basehttp 212 "GET /static/smartui/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:44:43,912 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:44:45,974 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:46:57,430 basehttp 212 "GET / HTTP/1.1" 302 0
+INFO 2024-03-18 17:46:57,448 basehttp 212 "GET /echart/index/ HTTP/1.1" 200 14164
+INFO 2024-03-18 17:46:57,565 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,568 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,573 basehttp 212 "GET /static/smartui/img/smartviplogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,573 basehttp 212 "GET /static/smartui/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,576 basehttp 212 "GET /static/smartui/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,577 basehttp 212 "GET /static/smartui/theme/dark.green.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,610 basehttp 212 "GET /static/smartui/img/smartlogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,619 basehttp 212 "GET /static/smartui/js/axios.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,625 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,625 basehttp 212 "GET /static/smartui/js/vue.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,625 basehttp 212 "GET /static/smartui/locale/en-us.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,626 basehttp 212 "GET /static/smartui/elementui/index.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,639 basehttp 212 "GET /static/smartui/js/cookie.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,656 basehttp 212 "GET /static/smartui/theme/theme.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,669 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,670 basehttp 212 "GET /static/smartui/js/smtindex.js?_=4.3.3 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,670 basehttp 212 "GET /static/smartui/js/menu.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,895 basehttp 212 "GET /static/smartui/theme/purple.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,932 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,932 basehttp 212 "GET /static/smartui/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 17:46:57,940 basehttp 212 "POST /echart/index_api2022/ HTTP/1.1" 200 486
+INFO 2024-03-18 17:46:58,066 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-brands-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:47:00,408 basehttp 212 "GET /echart/?type=2 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:47:01,036 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 41854
+INFO 2024-03-18 17:47:01,133 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:47:03,236 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:47:07,685 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 41854
+INFO 2024-03-18 17:47:07,847 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:47:09,749 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:47:09,856 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:47:09,867 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:47:09,868 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:47:09,871 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:47:09,874 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:47:09,875 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 304 0
+INFO 2024-03-18 17:47:09,882 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 304 0
+INFO 2024-03-18 17:47:24,382 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:47:24,480 basehttp 212 "GET /admin/login/?next=/admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 2352
+INFO 2024-03-18 17:47:24,662 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 200 101894
+INFO 2024-03-18 17:47:24,667 basehttp 212 "GET /static/smartui/css/login.css?_=2.2 HTTP/1.1" 200 1289
+INFO 2024-03-18 17:47:24,668 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 200 239740
+INFO 2024-03-18 17:47:24,674 basehttp 212 "GET /static/smartui/js/vue.min.js?_=6.7.2 HTTP/1.1" 200 93675
+INFO 2024-03-18 17:47:24,684 basehttp 212 "GET /static/smartui/img/smartviplogo.png HTTP/1.1" 200 25985
+INFO 2024-03-18 17:47:24,864 basehttp 212 "GET /static/smartui/js/login.js?_=3.3 HTTP/1.1" 200 669
+INFO 2024-03-18 17:47:24,877 basehttp 212 "GET /static/smartui/elementui/index.js?_=6.7.2 HTTP/1.1" 200 664111
+INFO 2024-03-18 17:47:25,315 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 150516
+INFO 2024-03-18 17:47:25,412 basehttp 212 "GET /static/smartui/img/favicon.ico HTTP/1.1" 200 4286
+INFO 2024-03-18 17:47:37,973 basehttp 212 "GET /static/smartui/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200
+INFO 2024-03-18 17:47:38,477 basehttp 212 "POST /admin/login/?next=/admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:47:38,503 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 41854
+INFO 2024-03-18 17:47:38,570 basehttp 212 "GET /static/smartui/theme/simpleui.css HTTP/1.1" 200 4230
+INFO 2024-03-18 17:47:38,570 basehttp 212 "GET /static/admin/css/base.css?_=2.7 HTTP/1.1" 200 21207
+INFO 2024-03-18 17:47:38,571 basehttp 212 "GET /static/smartui/css/base.css?_=2.7 HTTP/1.1" 200 4149
+INFO 2024-03-18 17:47:38,580 basehttp 212 "GET /static/admin/css/changelists.css?_=20180905 HTTP/1.1" 200 6566
+INFO 2024-03-18 17:47:38,584 basehttp 212 "GET /static/admin/css/responsive.css?_=20180905 HTTP/1.1" 200 18533
+INFO 2024-03-18 17:47:38,586 basehttp 212 "GET /static/smartui/locale/en-us.js?_=2.1.2 HTTP/1.1" 200 811
+INFO 2024-03-18 17:47:38,587 basehttp 212 "GET /static/smartui/locale/zh-hans.js HTTP/1.1" 200 1254
+INFO 2024-03-18 17:47:38,589 basehttp 212 "GET /static/smartui/js/cookie.js HTTP/1.1" 200 524
+INFO 2024-03-18 17:47:38,593 basehttp 212 "GET /static/smartui/js/language.js?_=2.1.2 HTTP/1.1" 200 189
+INFO 2024-03-18 17:47:38,597 basehttp 212 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-03-18 17:47:38,602 basehttp 212 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2024-03-18 17:47:38,602 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:47:38,606 basehttp 212 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2024-03-18 17:47:38,607 basehttp 212 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-03-18 17:47:38,609 basehttp 212 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-03-18 17:47:38,612 basehttp 212 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-03-18 17:47:38,621 basehttp 212 "GET /static/smartui/automatic/segment.js HTTP/1.1" 200 1182
+INFO 2024-03-18 17:47:38,622 basehttp 212 "GET /static/smartui/automatic/dicts.js HTTP/1.1" 200 6018
+INFO 2024-03-18 17:47:38,624 basehttp 212 "GET /static/smartui/js/axios.min.js HTTP/1.1" 200 14202
+INFO 2024-03-18 17:47:38,626 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 200 89795
+INFO 2024-03-18 17:47:38,629 basehttp 212 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-03-18 17:47:38,633 basehttp 212 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2024-03-18 17:47:38,633 basehttp 212 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+WARNING 2024-03-18 17:47:39,023 log 241 Not Found: /favicon.ico
+WARNING 2024-03-18 17:47:39,024 basehttp 212 "GET /favicon.ico HTTP/1.1" 404 8058
+INFO 2024-03-18 17:47:59,418 basehttp 212 "GET /echart/?type=2 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:47:59,461 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 200 1602
+INFO 2024-03-18 17:47:59,471 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 200 27400
+INFO 2024-03-18 17:47:59,476 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 200 687
+INFO 2024-03-18 17:47:59,478 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 200 85659
+INFO 2024-03-18 17:47:59,479 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 200 4013
+INFO 2024-03-18 17:47:59,485 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 200 36112
+INFO 2024-03-18 17:47:59,505 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 200 1015913
+INFO 2024-03-18 17:48:02,114 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:48:13,787 basehttp 212 "GET /admin/login/?next=/admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:48:13,825 basehttp 212 "GET /admin/ HTTP/1.1" 200 25905
+INFO 2024-03-18 17:48:13,878 basehttp 212 "GET /static/smartui/waves/waves.min.css?_=2.1 HTTP/1.1" 200 3861
+INFO 2024-03-18 17:48:13,878 basehttp 212 "GET /static/smartui/img/magiccube.png HTTP/1.1" 200 1517
+INFO 2024-03-18 17:48:13,878 basehttp 212 "GET /static/smartui/css/index.css?_=3.2 HTTP/1.1" 200 7204
+INFO 2024-03-18 17:48:13,955 basehttp 212 "GET /static/smartui/automatic/dicts.js?_=6.7.2 HTTP/1.1" 200 6018
+INFO 2024-03-18 17:48:13,956 basehttp 212 "GET /static/smartui/automatic/segment.js?_=6.7.2 HTTP/1.1" 200 1182
+INFO 2024-03-18 17:48:13,958 basehttp 212 "GET /static/smartui/locale/en-us.js?_=6.7.2 HTTP/1.1" 200 811
+INFO 2024-03-18 17:48:13,958 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=6.7.2 HTTP/1.1" 200 1254
+INFO 2024-03-18 17:48:13,961 basehttp 212 "GET /static/smartui/js/cookie.js?_=6.7.2 HTTP/1.1" 200 524
+INFO 2024-03-18 17:48:13,962 basehttp 212 "GET /static/smartui/theme/theme.js?_=6.7.2 HTTP/1.1" 200 4274
+INFO 2024-03-18 17:48:13,968 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=6.7.2 HTTP/1.1" 200 6291
+INFO 2024-03-18 17:48:13,970 basehttp 212 "GET /static/smartui/js/menu.js?_=6.7.2 HTTP/1.1" 200 1189
+INFO 2024-03-18 17:48:13,973 basehttp 212 "GET /static/smartui/js/index.js?_=6.7.2 HTTP/1.1" 200 20820
+INFO 2024-03-18 17:48:14,116 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 25236
+INFO 2024-03-18 17:48:24,256 basehttp 212 "GET /admin/logout/ HTTP/1.1" 200 161
+INFO 2024-03-18 17:48:24,437 basehttp 212 "GET /admin/login/ HTTP/1.1" 200 2277
+INFO 2024-03-18 17:48:32,264 basehttp 212 "POST /admin/login/ HTTP/1.1" 302 0
+INFO 2024-03-18 17:48:32,284 basehttp 212 "GET /admin/ HTTP/1.1" 200 25905
+INFO 2024-03-18 17:48:44,173 basehttp 212 "GET /admin/echart/echartdataset/ HTTP/1.1" 200 36727
+INFO 2024-03-18 17:48:44,217 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:48:44,405 basehttp 212 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-03-18 17:48:44,877 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 41854
+INFO 2024-03-18 17:48:44,913 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 17:48:46,922 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:49:55,802 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 17:49:57,207 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:54:38,754 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:54:40,811 basehttp 212 "GET / HTTP/1.1" 302 0
+INFO 2024-03-18 17:54:40,871 basehttp 212 "GET /echart/index/ HTTP/1.1" 200 14164
+INFO 2024-03-18 17:54:41,411 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 200 239740
+INFO 2024-03-18 17:54:41,422 basehttp 212 "GET /static/smartui/img/smartlogo.png HTTP/1.1" 200 23327
+INFO 2024-03-18 17:54:41,468 basehttp 212 "GET /static/smartui/js/axios.min.js?_=4.0 HTTP/1.1" 200 14202
+INFO 2024-03-18 17:54:41,491 basehttp 212 "GET /static/smartui/js/vue.min.js?_=4.0 HTTP/1.1" 200 93675
+INFO 2024-03-18 17:54:41,537 basehttp 212 "GET /static/smartui/elementui/index.js?_=4.0 HTTP/1.1" 200 664111
+INFO 2024-03-18 17:54:41,551 basehttp 212 "GET /static/smartui/locale/en-us.js?_=4.0 HTTP/1.1" 200 811
+INFO 2024-03-18 17:54:41,563 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=4.0 HTTP/1.1" 200 1254
+INFO 2024-03-18 17:54:41,568 basehttp 212 "GET /static/smartui/css/index.css?_=3.2 HTTP/1.1" 200 7204
+INFO 2024-03-18 17:54:41,574 basehttp 212 "GET /static/smartui/js/cookie.js?_=4.0 HTTP/1.1" 200 524
+INFO 2024-03-18 17:54:41,585 basehttp 212 "GET /static/smartui/theme/theme.js?_=4.0 HTTP/1.1" 200 4274
+INFO 2024-03-18 17:54:41,587 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=4.0 HTTP/1.1" 200 6291
+INFO 2024-03-18 17:54:41,587 basehttp 212 "GET /static/smartui/waves/waves.min.css?_=2.1 HTTP/1.1" 200 3861
+INFO 2024-03-18 17:54:41,596 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 200 101894
+INFO 2024-03-18 17:54:41,606 basehttp 212 "GET /static/smartui/theme/dark.green.css HTTP/1.1" 200 4231
+INFO 2024-03-18 17:54:41,613 basehttp 212 "GET /static/smartui/js/menu.js?_=4.0 HTTP/1.1" 200 1189
+INFO 2024-03-18 17:54:41,619 basehttp 212 "GET /static/smartui/js/smtindex.js?_=4.3.3 HTTP/1.1" 200 25684
+INFO 2024-03-18 17:54:41,654 basehttp 212 "GET /static/smartui/img/smartviplogo.png HTTP/1.1" 200 25985
+INFO 2024-03-18 17:54:42,082 basehttp 212 "GET /static/smartui/theme/purple.css HTTP/1.1" 200 4506
+INFO 2024-03-18 17:54:42,166 basehttp 212 "GET /static/smartui/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200
+INFO 2024-03-18 17:54:42,167 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 150516
+INFO 2024-03-18 17:54:42,210 basehttp 212 "POST /echart/index_api2022/ HTTP/1.1" 200 484
+INFO 2024-03-18 17:54:42,599 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 107656
+INFO 2024-03-18 17:54:44,912 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 25236
+INFO 2024-03-18 17:56:07,746 basehttp 212 "GET /echart/?type=2 HTTP/1.1" 200 1146
+INFO 2024-03-18 17:56:07,791 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 200 1602
+INFO 2024-03-18 17:56:07,797 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 200 687
+INFO 2024-03-18 17:56:07,800 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 200 27400
+INFO 2024-03-18 17:56:07,801 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 200 85659
+INFO 2024-03-18 17:56:07,804 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 200 4013
+INFO 2024-03-18 17:56:07,807 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 200 36112
+INFO 2024-03-18 17:56:07,843 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 200 1015913
+INFO 2024-03-18 17:56:16,040 basehttp 212 "GET /static/smartui/img/smartviplogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:57:43,798 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-03-18 17:57:45,147 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-03-18 17:58:06,017 log 241 Not Found: /echart/index/
+WARNING 2024-03-18 17:58:06,018 basehttp 212 "GET /echart/index/ HTTP/1.1" 404 7857
+INFO 2024-03-18 17:58:12,200 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-03-18 17:58:21,732 log 241 Not Found: /echart/index/
+WARNING 2024-03-18 17:58:21,733 basehttp 212 "GET /echart/index/ HTTP/1.1" 404 7857
+INFO 2024-03-18 17:58:27,157 basehttp 212 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-18 17:58:27,247 basehttp 212 "GET /admin/ HTTP/1.1" 200 24273
+INFO 2024-03-18 17:58:27,337 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,345 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,349 basehttp 212 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,351 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,353 basehttp 212 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,354 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,391 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,399 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,400 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,401 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,401 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,403 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,425 basehttp 212 "GET /static/admin/simpleui-x/theme/theme.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,430 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,431 basehttp 212 "GET /static/admin/simpleui-x/js/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,431 basehttp 212 "GET /static/admin/simpleui-x/js/menu.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,635 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 17:58:27,637 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 17:59:21,107 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 17:59:21,145 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 17:59:22,188 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:59:22,195 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:59:35,135 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 17:59:35,164 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 17:59:36,359 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:59:36,402 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:59:48,250 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 17:59:48,347 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 17:59:49,432 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 17:59:49,443 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:00:19,937 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 18:00:20,020 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 18:00:21,191 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:00:21,228 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:00:38,538 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-03-18 18:00:38,561 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-03-18 18:00:39,754 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:00:39,758 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:01:11,212 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-03-18 18:01:11,263 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-03-18 18:01:12,417 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:01:12,444 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:01:33,291 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:02:20,818 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:02:23,315 basehttp 212 "GET / HTTP/1.1" 302 0
+INFO 2024-03-18 18:02:23,333 basehttp 212 "GET /echart/index/ HTTP/1.1" 200 14164
+INFO 2024-03-18 18:02:23,440 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,454 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,454 basehttp 212 "GET /static/smartui/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,454 basehttp 212 "GET /static/smartui/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,456 basehttp 212 "GET /static/smartui/theme/dark.green.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,457 basehttp 212 "GET /static/smartui/img/smartviplogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,472 basehttp 212 "GET /static/smartui/img/smartlogo.png HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,636 basehttp 212 "GET /static/smartui/js/axios.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,647 basehttp 212 "GET /static/smartui/js/vue.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,653 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,654 basehttp 212 "GET /static/smartui/elementui/index.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,655 basehttp 212 "GET /static/smartui/js/cookie.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,656 basehttp 212 "GET /static/smartui/locale/en-us.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,662 basehttp 212 "GET /static/smartui/theme/theme.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,664 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,682 basehttp 212 "GET /static/smartui/js/menu.js?_=4.0 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,685 basehttp 212 "GET /static/smartui/js/smtindex.js?_=4.3.3 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:23,975 basehttp 212 "GET /static/smartui/theme/purple.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:24,051 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:24,052 basehttp 212 "GET /static/smartui/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:24,071 basehttp 212 "POST /echart/index_api2022/ HTTP/1.1" 200 1932
+INFO 2024-03-18 18:02:24,438 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-brands-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:24,593 basehttp 212 "GET /static/smartui/img/favicon.ico HTTP/1.1" 200 4286
+INFO 2024-03-18 18:02:26,347 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:28,373 basehttp 212 "GET /echart/init_db HTTP/1.1" 301 0
+INFO 2024-03-18 18:02:29,489 basehttp 212 "GET /echart/init_db/ HTTP/1.1" 200 115
+INFO 2024-03-18 18:02:32,039 basehttp 212 "GET / HTTP/1.1" 302 0
+INFO 2024-03-18 18:02:32,056 basehttp 212 "GET /echart/index/ HTTP/1.1" 200 14164
+INFO 2024-03-18 18:02:32,346 basehttp 212 "GET /echart/index/ HTTP/1.1" 200 14164
+INFO 2024-03-18 18:02:32,696 basehttp 212 "POST /echart/index_api2022/ HTTP/1.1" 200 1930
+INFO 2024-03-18 18:02:44,564 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 41854
+INFO 2024-03-18 18:02:44,650 basehttp 212 "GET /static/smartui/css/base.css?_=2.7 HTTP/1.1" 200 4149
+INFO 2024-03-18 18:02:44,652 basehttp 212 "GET /static/smartui/js/vue.min.js?_=6.7.2 HTTP/1.1" 200 93675
+INFO 2024-03-18 18:02:44,652 basehttp 212 "GET /static/smartui/theme/simpleui.css HTTP/1.1" 200 4230
+INFO 2024-03-18 18:02:44,659 basehttp 212 "GET /static/smartui/locale/en-us.js?_=2.1.2 HTTP/1.1" 200 811
+INFO 2024-03-18 18:02:44,660 basehttp 212 "GET /static/smartui/js/language.js?_=2.1.2 HTTP/1.1" 200 189
+INFO 2024-03-18 18:02:44,668 basehttp 212 "GET /static/smartui/elementui/index.js?_=6.7.2 HTTP/1.1" 200 664111
+INFO 2024-03-18 18:02:44,681 basehttp 212 "GET /static/smartui/js/cookie.js HTTP/1.1" 200 524
+INFO 2024-03-18 18:02:44,684 basehttp 212 "GET /static/smartui/locale/zh-hans.js HTTP/1.1" 200 1254
+INFO 2024-03-18 18:02:44,695 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:02:44,696 basehttp 212 "GET /static/smartui/automatic/dicts.js HTTP/1.1" 200 6018
+INFO 2024-03-18 18:02:44,699 basehttp 212 "GET /static/smartui/js/axios.min.js HTTP/1.1" 200 14202
+INFO 2024-03-18 18:02:44,699 basehttp 212 "GET /static/smartui/automatic/segment.js HTTP/1.1" 200 1182
+INFO 2024-03-18 18:02:47,590 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 2846
+INFO 2024-03-18 18:02:47,743 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:47,760 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:47,762 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:47,764 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:47,765 basehttp 212 "GET /static/smartchart/js/dev.css?_=4.7 HTTP/1.1" 200 3056
+INFO 2024-03-18 18:02:47,767 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=2 HTTP/1.1" 200 3793
+INFO 2024-03-18 18:02:47,767 basehttp 212 "GET /static/smartchart/editor/modal.css?_=1.1 HTTP/1.1" 200 2345
+INFO 2024-03-18 18:02:47,768 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:47,772 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:47,773 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 304 0
+INFO 2024-03-18 18:02:47,775 basehttp 212 "GET /static/smartchart/js/dev.js?_=8.1 HTTP/1.1" 200 47373
+INFO 2024-03-18 18:02:49,336 basehttp 212 "GET /static/smartchart/icon/iconfont.woff2?t=1696733967990 HTTP/1.1" 200 17556
+INFO 2024-03-18 18:03:15,971 basehttp 212 "GET /echart/create_div/?dashid=2&m=5 HTTP/1.1" 302 0
+INFO 2024-03-18 18:03:15,996 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 3299
+INFO 2024-03-18 18:03:16,232 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2MzM5NS45OTUwNTY0OjY5ODJiNmNhOTZiMzZjZWFhZTExYTVlY2RmYTlkMTA5M2UzNzg0NWE=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:03:24,428 basehttp 212 "GET /echart/create_div/?dashid=2&m=0 HTTP/1.1" 302 0
+INFO 2024-03-18 18:03:24,453 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 4569
+INFO 2024-03-18 18:03:24,629 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2MzQwNC40NTE1OTE3OmZlMDIyOTE0MWU4MjA1NGVhNWQyNzk4MTM1NWZiYmM0NmJkMzM1M2M=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:03:24,646 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2MzQwNC40NTI2NDcyOjQwYzViZGJjNjU4N2ZiYjg2YzU4MzMxZjNkZWNjZmYwMmJmYmVlN2Y=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:03:33,476 basehttp 212 "GET /echart/ds_editor/?dsid=1&divid=4&seq=1&a=1&r=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:03:33,533 basehttp 212 "GET /static/smartchart/editor/modal.css HTTP/1.1" 200 2345
+INFO 2024-03-18 18:03:33,541 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=1 HTTP/1.1" 200 3793
+INFO 2024-03-18 18:03:33,548 basehttp 212 "GET /static/smartchart/editor/editor.css?_=1.5 HTTP/1.1" 200 3297
+INFO 2024-03-18 18:03:33,551 basehttp 212 "GET /static/smartchart/editor/common.js?_=2.2.4 HTTP/1.1" 200 16408
+INFO 2024-03-18 18:03:33,552 basehttp 212 "GET /static/smartchart/editor/ds_editor.js?_=6.4.8 HTTP/1.1" 200 46208
+INFO 2024-03-18 18:03:33,557 basehttp 212 "GET /static/ace/ext-language_tools.js HTTP/1.1" 200 70034
+INFO 2024-03-18 18:03:33,582 basehttp 212 "GET /static/ace/ace.js HTTP/1.1" 200 724406
+INFO 2024-03-18 18:03:33,702 basehttp 212 "GET /static/ace/theme-chrome.js HTTP/1.1" 200 3363
+INFO 2024-03-18 18:03:33,703 basehttp 212 "GET /static/ace/mode-sql.js HTTP/1.1" 200 8913
+INFO 2024-03-18 18:03:33,808 basehttp 212 "GET /static/ace/snippets/text.js HTTP/1.1" 200 498
+INFO 2024-03-18 18:03:33,828 basehttp 212 "GET /echart/get_sqlstr/?dsid=1&divid=4 HTTP/1.1" 200 389
+INFO 2024-03-18 18:03:33,931 basehttp 212 "GET /static/ace/snippets/sql.js HTTP/1.1" 200 1367
+INFO 2024-03-18 18:03:37,995 basehttp 212 "GET /echart/get_connlist/?dsid=1&divid=4 HTTP/1.1" 200 76
+INFO 2024-03-18 18:04:03,164 basehttp 212 "GET /static/ace/ext-settings_menu.js HTTP/1.1" 200 18451
+INFO 2024-03-18 18:04:23,850 basehttp 212 "GET /admin/echart/dbsetup/2/change/?_popup=1 HTTP/1.1" 200 20962
+INFO 2024-03-18 18:04:23,968 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:04:23,980 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:04:23,980 basehttp 212 "GET /static/smartui/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 18:04:23,989 basehttp 212 "GET /static/smartui/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:04:23,993 basehttp 212 "GET /static/smartui/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:04:23,994 basehttp 212 "GET /static/smartui/js/vue.min.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:04:23,997 basehttp 212 "GET /static/smartui/elementui/index.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:04:24,000 basehttp 212 "GET /static/smartui/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:04:24,001 basehttp 212 "GET /static/smartui/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:04:24,002 basehttp 212 "GET /static/smartui/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:04:24,011 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:04:24,189 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:04:37,698 basehttp 212 "POST /admin/echart/dbsetup/2/change/?_popup=1 HTTP/1.1" 200 398
+INFO 2024-03-18 18:04:37,798 basehttp 212 "GET /static/smartui/js/popup_response.js HTTP/1.1" 200 670
+INFO 2024-03-18 18:04:47,123 basehttp 212 "GET /admin/echart/dbsetup/2/change/?_popup=1 HTTP/1.1" 200 20962
+INFO 2024-03-18 18:04:47,269 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:05:01,559 basehttp 212 "GET /admin/echart/dbsetup/ HTTP/1.1" 200 28565
+INFO 2024-03-18 18:05:01,630 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:05:01,635 basehttp 212 "GET /static/smartui/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:01,636 basehttp 212 "GET /static/smartui/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:01,637 basehttp 212 "GET /static/smartui/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:01,831 basehttp 212 "GET /static/smartui/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:06,852 basehttp 212 "GET /admin/echart/dbsetup/1/change/ HTTP/1.1" 200 22186
+INFO 2024-03-18 18:05:06,909 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:05:11,808 basehttp 212 "GET /admin/echart/dbsetup/ HTTP/1.1" 200 28565
+INFO 2024-03-18 18:05:12,914 basehttp 212 "GET /admin/echart/dbsetup/2/change/ HTTP/1.1" 200 22234
+INFO 2024-03-18 18:05:12,969 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:05:40,849 basehttp 212 "POST /admin/echart/dbsetup/2/change/ HTTP/1.1" 302 0
+INFO 2024-03-18 18:05:40,875 basehttp 212 "GET /admin/echart/dbsetup/ HTTP/1.1" 200 28715
+INFO 2024-03-18 18:05:40,937 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:40,946 basehttp 212 "GET /static/smartui/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:40,946 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:40,949 basehttp 212 "GET /static/smartui/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:40,951 basehttp 212 "GET /static/smartui/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:40,952 basehttp 212 "GET /static/smartui/js/vue.min.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:40,953 basehttp 212 "GET /static/smartui/elementui/index.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:40,959 basehttp 212 "GET /static/smartui/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:40,961 basehttp 212 "GET /static/smartui/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:40,962 basehttp 212 "GET /static/smartui/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:05:40,968 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:05:44,580 basehttp 212 "GET /admin/echart/echartdataset/ HTTP/1.1" 200 36727
+INFO 2024-03-18 18:05:44,619 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:05:47,290 basehttp 212 "GET /admin/echart/echartdataset/add/ HTTP/1.1" 200 39728
+INFO 2024-03-18 18:05:47,348 basehttp 212 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-03-18 18:05:47,349 basehttp 212 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2024-03-18 18:05:47,355 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:05:50,377 basehttp 212 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-03-18 18:05:50,377 basehttp 212 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-03-18 18:06:20,415 basehttp 212 "POST /admin/echart/echartdataset/add/ HTTP/1.1" 302 0
+INFO 2024-03-18 18:06:20,473 basehttp 212 "GET /admin/echart/echartdataset/ HTTP/1.1" 200 38399
+INFO 2024-03-18 18:06:20,553 basehttp 212 "GET /static/smartui/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:20,554 basehttp 212 "GET /static/smartui/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:20,554 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:06:20,555 basehttp 212 "GET /static/smartui/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,238 basehttp 212 "GET /echart/ds_editor/?dsid=2&seq=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:06:26,332 basehttp 212 "GET /static/smartchart/editor/modal.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,333 basehttp 212 "GET /static/smartchart/editor/editor.css?_=1.5 HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,333 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,352 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,368 basehttp 212 "GET /static/smartchart/editor/ds_editor.js?_=6.4.8 HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,368 basehttp 212 "GET /static/ace/ext-language_tools.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,369 basehttp 212 "GET /static/smartchart/editor/common.js?_=2.2.4 HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,371 basehttp 212 "GET /static/ace/ace.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,453 basehttp 212 "GET /static/smartchart/icon/iconfont.woff2?t=1696733967990 HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,475 basehttp 212 "GET /static/ace/theme-chrome.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,476 basehttp 212 "GET /static/ace/mode-sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,489 basehttp 212 "GET /static/ace/snippets/text.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:06:26,499 basehttp 212 "GET /echart/get_sqlstr/?dsid=2&divid= HTTP/1.1" 200 363
+INFO 2024-03-18 18:06:26,719 basehttp 212 "GET /static/ace/snippets/sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:07:02,441 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 4569
+INFO 2024-03-18 18:07:02,563 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:07:02,575 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:07:02,577 basehttp 212 "GET /static/smartchart/js/dev.css?_=4.7 HTTP/1.1" 304 0
+INFO 2024-03-18 18:07:02,582 basehttp 212 "GET /static/smartchart/editor/modal.css?_=1.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:07:02,583 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:07:02,590 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 304 0
+INFO 2024-03-18 18:07:02,592 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:07:02,603 basehttp 212 "GET /static/smartchart/js/dev.js?_=8.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:07:02,603 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:07:02,610 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:07:02,783 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2MzYyMi40MzY4NTI3OjY0YTYyNDMzMjFkNjlmOGYyMjdjM2JmZjYwMjkzNmY1ZDdlOTU2OGQ=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:07:02,806 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2MzYyMi40MzkxMDM2OmJiNWU5ZTFkMjI2ODUxMmFmNTU2ZDgyYTliOGIyZjFkNmQwMjY1ZmM=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:07:09,949 basehttp 212 "GET /echart/ds_editor/?dsid=1&divid=3&seq=0&a=1&r=1&c=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:07:10,188 basehttp 212 "GET /echart/get_sqlstr/?dsid=1&divid=3 HTTP/1.1" 200 389
+INFO 2024-03-18 18:07:27,166 basehttp 212 "GET /echart/?type=2&theme=macarons&dev=1 HTTP/1.1" 200 4655
+INFO 2024-03-18 18:07:27,260 basehttp 212 "GET /static/echart/theme/macarons.js HTTP/1.1" 200 7633
+INFO 2024-03-18 18:07:27,421 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2MzY0Ny4xNjI4NzY2OmZkNDllMTZmZTBmNzg2ZmIwZjNmMTBlNzUwZDUyNWViMDNkMjkwMDQ=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:07:27,434 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2MzY0Ny4xNjUwNjI6MjAyYjVhNTA5YzdiMDgzZmFmMDVlZTk2MDYyY2IwM2VjNTIwZTI1Nw==&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:07:39,073 basehttp 212 "GET /echart/ds_editor/?dsid=1&divid=3&seq=0&a=1&r=1&c=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:07:39,280 basehttp 212 "GET /echart/get_sqlstr/?dsid=1&divid=3 HTTP/1.1" 200 389
+INFO 2024-03-18 18:07:43,970 basehttp 212 "GET /echart/editor_min/?chartid=1&dataid=1&divid=3&ext=&param={}&cache=&r=1 HTTP/1.1" 200 4875
+INFO 2024-03-18 18:07:44,057 basehttp 212 "GET /static/smartchart/js/fun.css HTTP/1.1" 200 1602
+INFO 2024-03-18 18:07:44,058 basehttp 212 "GET /static/smartchart/editor/echart/main.css?_=2.3 HTTP/1.1" 200 24488
+INFO 2024-03-18 18:07:44,063 basehttp 212 "GET /static/ace/snippets/javascript.js HTTP/1.1" 200 4612
+INFO 2024-03-18 18:07:44,070 basehttp 212 "GET /static/ace/mode-javascript.js HTTP/1.1" 200 32221
+INFO 2024-03-18 18:07:44,074 basehttp 212 "GET /static/smartchart/js/fun.js?_=1.2 HTTP/1.1" 200 36112
+INFO 2024-03-18 18:07:44,075 basehttp 212 "GET /static/smartchart/opt/smt_lodash.js HTTP/1.1" 200 52662
+INFO 2024-03-18 18:07:44,075 basehttp 212 "GET /static/smartchart/editor/colorpicker.js HTTP/1.1" 200 13474
+INFO 2024-03-18 18:07:44,082 basehttp 212 "GET /static/smartchart/editor/echart/editor_min.js?_=2.7 HTTP/1.1" 200 82616
+INFO 2024-03-18 18:07:44,221 basehttp 212 "GET /echart/loadchart/?chartid=1&dataid=1&param={}&cache= HTTP/1.1" 200 639
+INFO 2024-03-18 18:07:44,250 basehttp 212 "GET /static/echart/theme/macarons.js?_=1710756464146 HTTP/1.1" 200 7633
+INFO 2024-03-18 18:07:44,287 basehttp 212 "GET /static/ace/worker-javascript.js HTTP/1.1" 200 344794
+INFO 2024-03-18 18:12:22,303 basehttp 212 "GET /admin/ HTTP/1.1" 200 25856
+INFO 2024-03-18 18:12:22,415 basehttp 212 "GET /static/smartui/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:22,417 basehttp 212 "GET /static/smartui/fontawesome/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:22,418 basehttp 212 "GET /static/smartui/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:22,419 basehttp 212 "GET /static/smartui/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:22,421 basehttp 212 "GET /static/smartui/img/magiccube.png HTTP/1.1" 200 1517
+INFO 2024-03-18 18:12:22,421 basehttp 212 "GET /static/smartui/js/vue.min.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:22,571 basehttp 212 "GET /static/smartui/elementui/index.js?_=6.7.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:22,578 basehttp 212 "GET /static/smartui/automatic/dicts.js?_=6.7.2 HTTP/1.1" 200 6018
+INFO 2024-03-18 18:12:22,580 basehttp 212 "GET /static/smartui/automatic/segment.js?_=6.7.2 HTTP/1.1" 200 1182
+INFO 2024-03-18 18:12:22,581 basehttp 212 "GET /static/smartui/locale/en-us.js?_=6.7.2 HTTP/1.1" 200 811
+INFO 2024-03-18 18:12:22,581 basehttp 212 "GET /static/smartui/locale/zh-hans.js?_=6.7.2 HTTP/1.1" 200 1254
+INFO 2024-03-18 18:12:22,581 basehttp 212 "GET /static/smartui/js/cookie.js?_=6.7.2 HTTP/1.1" 200 524
+INFO 2024-03-18 18:12:22,594 basehttp 212 "GET /static/smartui/theme/theme.js?_=6.7.2 HTTP/1.1" 200 4274
+INFO 2024-03-18 18:12:22,597 basehttp 212 "GET /static/smartui/waves/waves.min.js?_=6.7.2 HTTP/1.1" 200 6291
+INFO 2024-03-18 18:12:22,614 basehttp 212 "GET /static/smartui/js/menu.js?_=6.7.2 HTTP/1.1" 200 1189
+INFO 2024-03-18 18:12:22,618 basehttp 212 "GET /static/smartui/js/index.js?_=6.7.2 HTTP/1.1" 200 20820
+INFO 2024-03-18 18:12:22,886 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:22,886 basehttp 212 "GET /static/smartui/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:22,886 basehttp 212 "GET /static/smartui/fontawesome/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:23,164 basehttp 212 "GET /static/smartui/img/favicon.ico HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:27,682 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 200 41854
+INFO 2024-03-18 18:12:27,746 basehttp 212 "GET /static/smartui/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:27,756 basehttp 212 "GET /static/smartui/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:27,757 basehttp 212 "GET /static/smartui/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:27,757 basehttp 212 "GET /static/smartui/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:27,757 basehttp 212 "GET /static/smartui/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:27,759 basehttp 212 "GET /static/smartui/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:27,765 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:12:27,767 basehttp 212 "GET /static/smartui/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:27,767 basehttp 212 "GET /static/smartui/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:27,768 basehttp 212 "GET /static/smartui/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:35,408 basehttp 212 "GET /echart/?type=2 HTTP/1.1" 200 2162
+INFO 2024-03-18 18:12:35,513 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:35,530 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:35,530 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:35,531 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:35,532 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:35,532 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:35,532 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:35,648 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2Mzk1NS40MDQxMjE0OjMyMzJiZmFlYWVlYjY5YjJkMGRmYjEwNGJiMjA4ZWI5NDI4NTJiNzE=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:12:35,667 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2Mzk1NS40MDc0MzQyOmFmZDU4ZmM0ZWY0ZGE1MDhlZWJhODc0NDkwZmUyNTk2ZGU0Zjg0N2Y=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:12:55,711 basehttp 212 "GET /echart/?type=2&dev=1&list=1 HTTP/1.1" 200 3932
+INFO 2024-03-18 18:12:55,810 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:55,812 basehttp 212 "GET /static/smartchart/js/dev.css?_=4.7 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:55,813 basehttp 212 "GET /static/smartchart/editor/modal.css?_=1.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:12:55,815 basehttp 212 "GET /static/smartchart/js/dev.js?_=8.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:13:04,190 basehttp 212 "GET /static/smartchart/icon/iconfont.woff2?t=1696733967990 HTTP/1.1" 304 0
+INFO 2024-03-18 18:13:16,311 basehttp 212 "GET /echart/dslist_editor/?dashid=2 HTTP/1.1" 200 2438
+INFO 2024-03-18 18:13:16,351 basehttp 212 "GET /static/smartchart/editor/ds_add.js HTTP/1.1" 200 3244
+INFO 2024-03-18 18:13:16,352 basehttp 212 "GET /static/smartui/js/vue.min.js HTTP/1.1" 200 93675
+INFO 2024-03-18 18:13:16,360 basehttp 212 "GET /static/smartui/elementui/index.js HTTP/1.1" 200 664111
+INFO 2024-03-18 18:13:16,530 basehttp 212 "POST /echart/get_dslist/ HTTP/1.1" 200 62
+INFO 2024-03-18 18:13:20,495 basehttp 212 "GET /echart/create_div/?dashid=2&m=7&r=1&dsid=2 HTTP/1.1" 200 51
+INFO 2024-03-18 18:13:20,542 basehttp 212 "GET /echart/?type=2&dev=1&list=1 HTTP/1.1" 200 4443
+INFO 2024-03-18 18:13:37,672 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/2/change/?_to_field=id&_popup=1 HTTP/1.1" 200 34499
+INFO 2024-03-18 18:13:37,799 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 18:13:49,048 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 5841
+INFO 2024-03-18 18:13:49,273 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDAyOS4wMzc5MDM6NWU1NjYzYWE1MWVlOTQxNDllOTdiM2VjNDgzYjg2ZmY2Y2Y0NzczNA==&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:13:49,298 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDAyOS4wNDIyMDUzOjAzNGMyMzAxY2UyOWRmMmYwZGI4NzIzNDEzMGEwYmUwZTA4ZjllMDI=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:13:49,308 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDAyOS4wNDU5NDU2OjY5ZWNhNTQ4NWU4MWM3YTJiODMwMTY3NzIwN2QxNTAwZDM1YWQyNjU=&type=2 HTTP/1.1" 200 256
+INFO 2024-03-18 18:14:10,251 basehttp 212 "GET /echart/ds_editor/?dsid=2&divid=5&seq=2&a=1&r=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:14:10,293 basehttp 212 "GET /static/smartchart/editor/modal.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:14:10,295 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:14:10,299 basehttp 212 "GET /static/smartchart/editor/editor.css?_=1.5 HTTP/1.1" 304 0
+INFO 2024-03-18 18:14:10,299 basehttp 212 "GET /static/ace/ace.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:14:10,301 basehttp 212 "GET /static/smartchart/editor/common.js?_=2.2.4 HTTP/1.1" 304 0
+INFO 2024-03-18 18:14:10,301 basehttp 212 "GET /static/ace/ext-language_tools.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:14:10,302 basehttp 212 "GET /static/smartchart/editor/ds_editor.js?_=6.4.8 HTTP/1.1" 304 0
+INFO 2024-03-18 18:14:10,502 basehttp 212 "GET /static/ace/theme-chrome.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:14:10,503 basehttp 212 "GET /static/ace/mode-sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:14:10,550 basehttp 212 "GET /static/ace/snippets/text.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:14:10,557 basehttp 212 "GET /echart/get_sqlstr/?dsid=2&divid=5 HTTP/1.1" 200 363
+INFO 2024-03-18 18:14:10,708 basehttp 212 "GET /static/ace/snippets/sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,027 basehttp 212 "GET /echart/ds_editor/?dsid=2&seq=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:17:16,147 basehttp 212 "GET /static/smartchart/editor/modal.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,148 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,153 basehttp 212 "GET /static/smartchart/editor/editor.css?_=1.5 HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,160 basehttp 212 "GET /static/smartchart/editor/common.js?_=2.2.4 HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,162 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,163 basehttp 212 "GET /static/smartchart/editor/ds_editor.js?_=6.4.8 HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,164 basehttp 212 "GET /static/ace/ace.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,168 basehttp 212 "GET /static/ace/ext-language_tools.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,392 basehttp 212 "GET /static/ace/mode-sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,392 basehttp 212 "GET /static/ace/theme-chrome.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,402 basehttp 212 "GET /static/ace/snippets/text.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,418 basehttp 212 "GET /echart/get_sqlstr/?dsid=2&divid= HTTP/1.1" 200 363
+INFO 2024-03-18 18:17:16,460 basehttp 212 "GET /static/smartchart/icon/iconfont.woff2?t=1696733967990 HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:16,737 basehttp 212 "GET /static/ace/snippets/sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:47,492 basehttp 212 "GET /echart/editor_min/?dataid=2 HTTP/1.1" 200 4875
+INFO 2024-03-18 18:17:47,609 basehttp 212 "GET /static/smartchart/editor/echart/main.css?_=2.3 HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:47,609 basehttp 212 "GET /static/smartchart/js/fun.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:47,610 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:47,612 basehttp 212 "GET /static/ace/snippets/javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:47,613 basehttp 212 "GET /static/ace/mode-javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:47,613 basehttp 212 "GET /static/smartchart/js/fun.js?_=1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:47,617 basehttp 212 "GET /static/smartchart/opt/smt_lodash.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:47,619 basehttp 212 "GET /static/smartchart/editor/colorpicker.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:47,620 basehttp 212 "GET /static/smartchart/editor/echart/editor_min.js?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 18:17:47,785 basehttp 212 "GET /echart/loadchart/?chartid=3&dataid=2&param={}&cache= HTTP/1.1" 200 824
+INFO 2024-03-18 18:17:47,818 basehttp 212 "GET /static/echart/theme/tech-blue.js?_=1710757067685 HTTP/1.1" 200 4013
+INFO 2024-03-18 18:17:47,904 basehttp 212 "GET /static/ace/worker-javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:18:14,055 basehttp 212 "GET /static/smartchart/opt/smt_chartsetting.js HTTP/1.1" 200 21630
+INFO 2024-03-18 18:18:23,152 basehttp 212 "POST /echart/get_gpt/ HTTP/1.1" 200 50
+INFO 2024-03-18 18:18:33,793 basehttp 212 "GET /echart/editor_min/?dataid=2 HTTP/1.1" 200 4875
+INFO 2024-03-18 18:18:34,226 basehttp 212 "GET /echart/loadchart/?chartid=3&dataid=2&param={}&cache= HTTP/1.1" 200 824
+INFO 2024-03-18 18:18:34,270 basehttp 212 "GET /static/echart/theme/tech-blue.js?_=1710757114124 HTTP/1.1" 200 4013
+INFO 2024-03-18 18:18:44,208 basehttp 212 "GET /echart/ds_editor/?dsid=2&seq=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:18:44,421 basehttp 212 "GET /echart/get_sqlstr/?dsid=2&divid= HTTP/1.1" 200 363
+INFO 2024-03-18 18:19:04,057 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 253
+INFO 2024-03-18 18:19:17,657 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 126
+INFO 2024-03-18 18:19:26,930 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 126
+INFO 2024-03-18 18:20:54,226 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 1236
+INFO 2024-03-18 18:21:12,478 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 134
+INFO 2024-03-18 18:21:33,840 basehttp 212 "POST /echart/save_ds/ HTTP/1.1" 200 117
+INFO 2024-03-18 18:21:52,074 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 5841
+INFO 2024-03-18 18:21:52,182 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:21:52,193 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:21:52,193 basehttp 212 "GET /static/smartchart/js/dev.css?_=4.7 HTTP/1.1" 304 0
+INFO 2024-03-18 18:21:52,197 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:21:52,198 basehttp 212 "GET /static/smartchart/editor/modal.css?_=1.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:21:52,207 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:21:52,207 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:21:52,209 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:21:52,212 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 304 0
+INFO 2024-03-18 18:21:52,213 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:21:52,213 basehttp 212 "GET /static/smartchart/js/dev.js?_=8.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:21:52,448 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDUxMi4wNzAyMzQzOjJlM2YwOGQ1YjQwZGY2MTMzNGRhZTJiMTE5MGE5MTIyMzU2ODcxMGM=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:21:52,464 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDUxMi4wNzEzMDc0OjFhNTNmMmM1ZjE2MTdlYzljMWY2Y2EzYzFmYjJjOThmYjkzMmZhYTY=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:21:52,472 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDUxMi4wNzM0MjkzOjIxN2E2MjBiOGZmZjFhODA3N2E4YzI2MjNiYTg1YzY1Y2ZjOGFjODE=&type=2 HTTP/1.1" 200 43
+INFO 2024-03-18 18:21:56,090 basehttp 212 "GET /static/smartchart/icon/iconfont.woff2?t=1696733967990 HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:20,110 basehttp 212 "GET /echart/ds_editor/?dsid=2&seq=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:22:20,214 basehttp 212 "GET /static/smartchart/editor/modal.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:20,225 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:20,226 basehttp 212 "GET /static/smartchart/editor/editor.css?_=1.5 HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:20,227 basehttp 212 "GET /static/ace/ace.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:20,227 basehttp 212 "GET /static/smartchart/editor/ds_editor.js?_=6.4.8 HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:20,230 basehttp 212 "GET /static/ace/ext-language_tools.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:20,231 basehttp 212 "GET /static/smartchart/editor/common.js?_=2.2.4 HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:20,338 basehttp 212 "GET /static/ace/mode-sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:20,338 basehttp 212 "GET /static/ace/theme-chrome.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:20,345 basehttp 212 "GET /static/ace/snippets/text.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:20,356 basehttp 212 "GET /echart/get_sqlstr/?dsid=2&divid= HTTP/1.1" 200 106
+INFO 2024-03-18 18:22:20,506 basehttp 212 "GET /static/ace/snippets/sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:29,807 basehttp 212 "GET /echart/editor_min/?dataid=2 HTTP/1.1" 200 4875
+INFO 2024-03-18 18:22:29,954 basehttp 212 "GET /static/smartchart/js/fun.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:29,954 basehttp 212 "GET /static/smartchart/editor/echart/main.css?_=2.3 HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:29,959 basehttp 212 "GET /static/smartchart/js/fun.js?_=1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:29,960 basehttp 212 "GET /static/ace/mode-javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:29,962 basehttp 212 "GET /static/ace/snippets/javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:29,963 basehttp 212 "GET /static/smartchart/opt/smt_lodash.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:29,963 basehttp 212 "GET /static/smartchart/editor/colorpicker.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:29,964 basehttp 212 "GET /static/smartchart/editor/echart/editor_min.js?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 18:22:30,145 basehttp 212 "GET /echart/loadchart/?chartid=3&dataid=2&param={}&cache= HTTP/1.1" 200 611
+INFO 2024-03-18 18:22:30,181 basehttp 212 "GET /static/echart/theme/tech-blue.js?_=1710757350006 HTTP/1.1" 200 4013
+INFO 2024-03-18 18:22:30,316 basehttp 212 "GET /static/ace/worker-javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:24:10,235 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 5841
+INFO 2024-03-18 18:24:10,539 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDY1MC4yMzE5NzAzOjQ0YTRhNjlhZjU0NmU4OWIzYTA5MWQyZDk1MzVmNGU2MDJhZDQyMTI=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:24:10,556 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDY1MC4yMzMwMTM5OjVlMDNhYjA5MDE0NTRmMDU3ODA2ZTdjYzM2MGUxOThmMWJmYjVkMzI=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:24:10,557 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDY1MC4yMzQwNDkzOjk3ZmZjYmM5NzRlM2IyMzA2YWQwODlhODdkYmMxODg1OWE0OWE5NDI=&type=2 HTTP/1.1" 200 43
+INFO 2024-03-18 18:24:19,609 basehttp 212 "POST /echart/save_smartcss/ HTTP/1.1" 200 59
+INFO 2024-03-18 18:24:19,658 basehttp 212 "GET /echart/create_div/?dashid=2&m=0 HTTP/1.1" 302 0
+INFO 2024-03-18 18:24:19,695 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 7856
+INFO 2024-03-18 18:24:19,887 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDY1OS42ODYxNzgyOjkwNjg1YzViN2RmYTZjNzUxMDk0MWUzZGYzMzUyODMxNGExZmRhYjI=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:24:19,914 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDY1OS42ODk5NTI6NTE2MWE3MzM2YjBlZjE2NzI3NTY2MzE1ZDI4ZGFhZmU4MzQxYzEzZA==&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:24:19,918 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDY1OS42OTIwMTE6YmU2ZDNmYjg5Nzg3NjMxYTMyM2Q4NWVjOTQ5ODQ2YmZmMWZlYWMxOA==&type=2 HTTP/1.1" 200 43
+INFO 2024-03-18 18:24:19,927 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDY1OS42OTMyMTM1OjUzN2Y5NzlhM2U5YmVhMDQxYjc3OGJjMjQ4MTQzYzkwOTE4MjIwNGQ=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:24:32,541 basehttp 212 "GET /echart/editor_min/?chartid=1&dataid=1&divid=6&ext=&param={}&cache=&r=1 HTTP/1.1" 200 4875
+INFO 2024-03-18 18:24:32,749 basehttp 212 "GET /echart/loadchart/?chartid=1&dataid=1&param={}&cache= HTTP/1.1" 200 639
+INFO 2024-03-18 18:24:32,838 basehttp 212 "GET /static/echart/theme/tech-blue.js?_=1710757472655 HTTP/1.1" 200 4013
+INFO 2024-03-18 18:25:12,313 basehttp 212 "GET /echart/ds_editor/?dsid=1&divid=3&seq=0&a=1&r=1&c=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:25:12,430 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:12,539 basehttp 212 "GET /static/smartchart/icon/iconfont.woff2?t=1696733967990 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:12,587 basehttp 212 "GET /echart/get_sqlstr/?dsid=1&divid=3 HTTP/1.1" 200 389
+INFO 2024-03-18 18:25:17,044 basehttp 212 "GET /echart/editor_min/?chartid=1&dataid=1&divid=3&ext=&param={}&cache=&r=1 HTTP/1.1" 200 4875
+INFO 2024-03-18 18:25:17,148 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:17,311 basehttp 212 "GET /echart/loadchart/?chartid=1&dataid=1&param={}&cache= HTTP/1.1" 200 639
+INFO 2024-03-18 18:25:17,338 basehttp 212 "GET /static/echart/theme/tech-blue.js?_=1710757517234 HTTP/1.1" 200 4013
+INFO 2024-03-18 18:25:20,306 basehttp 212 "GET /echart/ds_editor/?dsid=1&divid=3&seq=0&a=1&r=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:25:20,370 basehttp 212 "GET /static/smartchart/editor/modal.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:20,372 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:20,378 basehttp 212 "GET /static/smartchart/editor/editor.css?_=1.5 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:20,378 basehttp 212 "GET /static/ace/ace.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:20,379 basehttp 212 "GET /static/smartchart/editor/ds_editor.js?_=6.4.8 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:20,380 basehttp 212 "GET /static/ace/ext-language_tools.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:20,381 basehttp 212 "GET /static/smartchart/editor/common.js?_=2.2.4 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:20,465 basehttp 212 "GET /static/ace/mode-sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:20,466 basehttp 212 "GET /static/ace/theme-chrome.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:20,472 basehttp 212 "GET /static/ace/snippets/text.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:20,482 basehttp 212 "GET /echart/get_sqlstr/?dsid=1&divid=3 HTTP/1.1" 200 389
+INFO 2024-03-18 18:25:20,558 basehttp 212 "GET /static/ace/snippets/sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:24,532 basehttp 212 "GET /echart/editor_min/?chartid=1&dataid=1&divid=3&ext=&param={}&cache=&r=1 HTTP/1.1" 200 4875
+INFO 2024-03-18 18:25:24,747 basehttp 212 "GET /echart/loadchart/?chartid=1&dataid=1&param={}&cache= HTTP/1.1" 200 639
+INFO 2024-03-18 18:25:24,821 basehttp 212 "GET /static/echart/theme/tech-blue.js?_=1710757524655 HTTP/1.1" 200 4013
+INFO 2024-03-18 18:25:31,827 basehttp 212 "GET /echart/ds_editor/?dsid=1&divid=3&seq=0&a=1&r=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:25:32,045 basehttp 212 "GET /echart/get_sqlstr/?dsid=1&divid=3 HTTP/1.1" 200 389
+INFO 2024-03-18 18:25:33,792 basehttp 212 "GET /echart/editor_min/?chartid=1&dataid=1&divid=3&ext=&param={}&cache=&r=1 HTTP/1.1" 200 4875
+INFO 2024-03-18 18:25:33,877 basehttp 212 "GET /static/smartchart/editor/echart/main.css?_=2.3 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:33,884 basehttp 212 "GET /static/ace/snippets/javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:33,885 basehttp 212 "GET /static/smartchart/js/fun.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:33,887 basehttp 212 "GET /static/smartchart/js/fun.js?_=1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:33,896 basehttp 212 "GET /static/ace/mode-javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:33,898 basehttp 212 "GET /static/smartchart/editor/colorpicker.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:33,899 basehttp 212 "GET /static/smartchart/opt/smt_lodash.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:33,899 basehttp 212 "GET /static/smartchart/editor/echart/editor_min.js?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:34,029 basehttp 212 "GET /echart/loadchart/?chartid=1&dataid=1&param={}&cache= HTTP/1.1" 200 639
+INFO 2024-03-18 18:25:34,091 basehttp 212 "GET /static/echart/theme/tech-blue.js?_=1710757533963 HTTP/1.1" 200 4013
+INFO 2024-03-18 18:25:34,098 basehttp 212 "GET /static/ace/worker-javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:34,284 basehttp 212 "GET /echart/div_editor/?divid=3&r=1 HTTP/1.1" 200 3490
+INFO 2024-03-18 18:25:34,337 basehttp 212 "GET /static/smartchart/icon/iconfont.css HTTP/1.1" 200 3793
+INFO 2024-03-18 18:25:34,340 basehttp 212 "GET /static/smartchart/editor/editor.css?_=1 HTTP/1.1" 200 3297
+INFO 2024-03-18 18:25:34,342 basehttp 212 "GET /static/smartchart/editor/common.js?_=2.1 HTTP/1.1" 200 16408
+INFO 2024-03-18 18:25:34,343 basehttp 212 "GET /static/smartchart/editor/div_editor.js?_=1 HTTP/1.1" 200 19529
+INFO 2024-03-18 18:25:34,439 basehttp 212 "GET /static/ace/mode-html.js HTTP/1.1" 200 102176
+INFO 2024-03-18 18:25:34,511 basehttp 212 "GET /static/ace/snippets/html.js HTTP/1.1" 200 21924
+INFO 2024-03-18 18:25:34,540 basehttp 212 "GET /static/ace/worker-html.js HTTP/1.1" 200 337936
+INFO 2024-03-18 18:25:49,946 basehttp 212 "GET /echart/set_dsonoff/?divid=6 HTTP/1.1" 200 49
+INFO 2024-03-18 18:25:50,035 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 6760
+INFO 2024-03-18 18:25:50,121 basehttp 212 "GET /static/smartchart/js/fun.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:50,130 basehttp 212 "GET /static/smartchart/js/smartgrid.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:50,130 basehttp 212 "GET /static/smartchart/js/dev.css?_=4.7 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:50,131 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:50,132 basehttp 212 "GET /static/smartchart/editor/modal.css?_=1.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:50,142 basehttp 212 "GET /static/smartchart/js/dev.js?_=8.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:50,142 basehttp 212 "GET /static/smartchart/js/flexible.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:50,142 basehttp 212 "GET /static/smartchart/js/fun.js?_=6 HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:50,143 basehttp 212 "GET /static/echart/theme/tech-blue.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:50,279 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDc1MC4wMjkxOTAzOjUwZmEzNzhjMTA0MmU1ODQ0MzlhNzBkNGU5ZGViZjI5MzlkNzFjNGQ=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:25:50,307 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDc1MC4wMzAyMDA1OjFkNzRkZGUzMjVlZTJiY2EyZTkxYTg4ZWNjZDg0NmRhNjBiNmEyZmY=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:25:50,310 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDc1MC4wMzEyNTY6ZmEzODBmNzhhMDg4MTc3MzU0OWIwYTU2OGJiNTdkMzNmN2QzOWNjMw==&type=2 HTTP/1.1" 200 43
+INFO 2024-03-18 18:25:50,621 basehttp 212 "GET /static/smartui/img/favicon.ico HTTP/1.1" 304 0
+INFO 2024-03-18 18:25:58,082 basehttp 212 "GET /echart/div_editor/?divid=5&r=1 HTTP/1.1" 200 3490
+INFO 2024-03-18 18:26:13,996 basehttp 212 "POST /echart/save_div/ HTTP/1.1" 200 35
+INFO 2024-03-18 18:26:14,090 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 6756
+INFO 2024-03-18 18:26:14,345 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDc3NC4wODExNjkxOjgwYmM2NWY3MTk0NzI3NGM0MWI0ZDQ1NTgyNDU1NzE1MWNjMWUyZjM=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:26:14,366 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDc3NC4wODQzNDU2OjA2ZjljZTliODhiZmYyMjU3YTM3NDZkNWYwMWE1ZGNjODJlOGM2ZmY=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:26:14,368 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDc3NC4wODY2NDpjZDA4NWIyYTJiMDUyODZhODVkZDhlM2UxNjExNWE5Yjg1YmI0Zjhh&type=2 HTTP/1.1" 200 43
+INFO 2024-03-18 18:26:22,319 basehttp 212 "GET /echart/div_editor/?divid=5&r=1 HTTP/1.1" 200 3490
+INFO 2024-03-18 18:27:26,758 basehttp 212 "GET /echart/ds_editor/?dsid=2&divid=5&seq=2&a=1&r=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:27:27,156 basehttp 212 "GET /echart/get_sqlstr/?dsid=2&divid=5 HTTP/1.1" 200 106
+INFO 2024-03-18 18:27:29,209 basehttp 212 "GET /echart/editor_min/?chartid=3&dataid=2&divid=5&ext=1&param={}&cache=&r=1 HTTP/1.1" 200 4875
+INFO 2024-03-18 18:27:29,473 basehttp 212 "GET /echart/loadchart/?chartid=3&dataid=2&param={}&cache= HTTP/1.1" 200 611
+INFO 2024-03-18 18:27:29,506 basehttp 212 "GET /static/echart/theme/tech-blue.js?_=1710757649382 HTTP/1.1" 200 4013
+INFO 2024-03-18 18:27:34,372 basehttp 212 "GET /echart/div_editor/?divid=5&r=1 HTTP/1.1" 200 3490
+WARNING 2024-03-18 18:27:40,959 log 241 Not Found: /echart/div_editor/smartchart.cn
+WARNING 2024-03-18 18:27:40,961 basehttp 212 "GET /echart/div_editor/smartchart.cn HTTP/1.1" 404 21893
+WARNING 2024-03-18 18:27:46,235 log 241 Not Found: /echart/div_editor/smartchart.cn
+WARNING 2024-03-18 18:27:46,237 basehttp 212 "GET /echart/div_editor/smartchart.cn HTTP/1.1" 404 21893
+WARNING 2024-03-18 18:27:50,038 log 241 Not Found: /echart/div_editor/smartchart.cn
+WARNING 2024-03-18 18:27:50,039 basehttp 212 "GET /echart/div_editor/smartchart.cn HTTP/1.1" 404 21893
+INFO 2024-03-18 18:28:00,376 basehttp 212 "GET /echart/set_dsonoff/?divid=5 HTTP/1.1" 200 49
+INFO 2024-03-18 18:28:00,441 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 5662
+INFO 2024-03-18 18:28:00,732 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDg4MC40MzYyNTkzOmY1M2I5ODNmYzA3NDU4MTJjZDJkNTU2NGNmZjIzZDhlOGExNTgxMDU=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:28:00,747 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDg4MC40MzgzNTY5OmJlOTRiOWY4YjY5YjFlNGFmOWE0MDAzZTQ3YzUwMzM3MWQyOWIzYTM=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:28:10,548 basehttp 212 "GET /echart/ds_editor/?dsid=1&divid=6&seq=3&r=1&on=2 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:28:10,736 basehttp 212 "GET /echart/get_sqlstr/?dsid=1&divid=6 HTTP/1.1" 200 389
+INFO 2024-03-18 18:28:20,210 basehttp 212 "GET /echart/create_div/?dashid=2&m=0 HTTP/1.1" 302 0
+INFO 2024-03-18 18:28:20,241 basehttp 212 "GET /echart/?type=index&dev=1 HTTP/1.1" 200 6932
+INFO 2024-03-18 18:28:20,484 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDkwMC4yMzI1MzM6MzMwMzg4MGRjZmFlZGRjODQzNzE2ZDA3ODdiZTA5OTM3ZmM1ZTAzMg==&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:28:20,508 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDkwMC4yMzM1ODQ2OjgzYjI4NGYyYTMyNDYxNDBhYTQ2ZDRmYWFhZDRhZjEwZWE4NGZkMWQ=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:28:20,513 basehttp 212 "GET /echart/get_dataset_api/?EmbedToken=MTcxMDc2NDkwMC4yMzg5NjIyOjE1ODIyYzhmNWQ0MmFlNDNmNDAzODI3MjY0Y2ZiZDc0MmUxYjc2MzY=&type=1 HTTP/1.1" 200 256
+INFO 2024-03-18 18:28:25,354 basehttp 212 "GET /echart/ds_editor/?dsid=1&divid=7&seq=4&a=1&r=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:28:25,537 basehttp 212 "GET /echart/get_sqlstr/?dsid=1&divid=7 HTTP/1.1" 200 389
+INFO 2024-03-18 18:30:45,053 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 123
+INFO 2024-03-18 18:31:02,241 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 120
+INFO 2024-03-18 18:31:32,197 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 120
+INFO 2024-03-18 18:31:43,374 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 120
+INFO 2024-03-18 18:31:53,739 basehttp 212 "GET /echart/div_editor/?divid=7&r=1 HTTP/1.1" 200 3531
+INFO 2024-03-18 18:31:53,850 basehttp 212 "GET /static/smartchart/icon/iconfont.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:53,850 basehttp 212 "GET /static/smartchart/editor/modal.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:53,851 basehttp 212 "GET /static/smartchart/editor/editor.css?_=1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:53,926 basehttp 212 "GET /static/smartchart/js/jquery-2.2.3.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:53,935 basehttp 212 "GET /static/ace/ext-language_tools.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:53,937 basehttp 212 "GET /static/ace/ace.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:53,937 basehttp 212 "GET /static/smartchart/editor/common.js?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:53,938 basehttp 212 "GET /static/smartchart/editor/colorpicker.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:53,939 basehttp 212 "GET /static/smartchart/editor/div_editor.js?_=1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:54,031 basehttp 212 "GET /static/smartchart/icon/iconfont.woff2?t=1696733967990 HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:54,092 basehttp 212 "GET /static/ace/mode-html.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:54,093 basehttp 212 "GET /static/ace/theme-chrome.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:54,093 basehttp 212 "GET /static/ace/snippets/text.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:54,239 basehttp 212 "GET /static/ace/snippets/html.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:54,293 basehttp 212 "GET /static/ace/worker-html.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:55,145 basehttp 212 "GET /echart/editor_min/?chartid=1&dataid=1&divid=7&ext=&param={}&cache=&r=1 HTTP/1.1" 200 4875
+INFO 2024-03-18 18:31:55,240 basehttp 212 "GET /static/smartchart/js/fun.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:55,242 basehttp 212 "GET /static/smartchart/icon/iconfont.css?_=1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:55,242 basehttp 212 "GET /static/smartchart/editor/echart/main.css?_=2.3 HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:55,243 basehttp 212 "GET /static/echart/dist/echarts.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:55,243 basehttp 212 "GET /static/ace/mode-javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:55,245 basehttp 212 "GET /static/smartchart/js/fun.js?_=1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:55,249 basehttp 212 "GET /static/ace/snippets/javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:55,252 basehttp 212 "GET /static/smartchart/opt/smt_lodash.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:55,254 basehttp 212 "GET /static/smartchart/editor/echart/editor_min.js?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 18:31:55,410 basehttp 212 "GET /echart/loadchart/?chartid=1&dataid=1&param={}&cache= HTTP/1.1" 200 639
+INFO 2024-03-18 18:31:55,472 basehttp 212 "GET /static/echart/theme/tech-blue.js?_=1710757915318 HTTP/1.1" 200 4013
+INFO 2024-03-18 18:31:55,472 basehttp 212 "GET /static/ace/worker-javascript.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:32:01,180 basehttp 212 "GET /echart/ds_editor/?dsid=1&divid=7&seq=4&a=1&r=1 HTTP/1.1" 200 7515
+INFO 2024-03-18 18:32:01,255 basehttp 212 "GET /static/smartchart/editor/editor.css?_=1.5 HTTP/1.1" 304 0
+INFO 2024-03-18 18:32:01,255 basehttp 212 "GET /static/smartchart/editor/common.js?_=2.2.4 HTTP/1.1" 304 0
+INFO 2024-03-18 18:32:01,255 basehttp 212 "GET /static/smartchart/editor/ds_editor.js?_=6.4.8 HTTP/1.1" 304 0
+INFO 2024-03-18 18:32:01,391 basehttp 212 "GET /static/ace/mode-sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:32:01,420 basehttp 212 "GET /echart/get_sqlstr/?dsid=1&divid=7 HTTP/1.1" 200 389
+INFO 2024-03-18 18:32:01,535 basehttp 212 "GET /static/ace/snippets/sql.js HTTP/1.1" 304 0
+INFO 2024-03-18 18:32:09,747 basehttp 212 "POST /echart/get_conn_table/ HTTP/1.1" 200 1164
+INFO 2024-03-18 18:32:21,771 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 287
+INFO 2024-03-18 18:32:25,028 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 118
+INFO 2024-03-18 18:32:37,694 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 1236
+INFO 2024-03-18 18:32:57,943 basehttp 212 "POST /echart/run_ds/ HTTP/1.1" 200 121
+INFO 2024-03-18 18:33:05,094 basehttp 212 "GET /echart/editor_min/?chartid=1&dataid=1&divid=7&ext=&param={}&cache=&r=1 HTTP/1.1" 200 4875
+INFO 2024-03-18 18:33:05,402 basehttp 212 "GET /echart/loadchart/?chartid=1&dataid=1&param={}&cache= HTTP/1.1" 200 639
+INFO 2024-03-18 18:33:05,453 basehttp 212 "GET /static/echart/theme/tech-blue.js?_=1710757985284 HTTP/1.1" 200 4013
+INFO 2024-03-18 18:33:21,733 basehttp 212 "GET /static/smartchart/opt/smt_syscharts.js HTTP/1.1" 200 20888
+INFO 2024-03-18 18:33:21,779 basehttp 212 "GET /static/smartchart/editor/echart/img/bar.webp HTTP/1.1" 200 3126
+INFO 2024-03-18 18:33:21,782 basehttp 212 "GET /static/smartchart/editor/echart/img/line.webp HTTP/1.1" 200 3284
+INFO 2024-03-18 18:33:21,784 basehttp 212 "GET /static/smartchart/editor/echart/img/pie.webp HTTP/1.1" 200 7154
+INFO 2024-03-18 18:33:21,785 basehttp 212 "GET /static/smartchart/editor/echart/img/gauge.webp HTTP/1.1" 200 3846
+INFO 2024-03-18 18:34:34,831 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\urls.py changed, reloading.
+INFO 2024-03-18 18:34:36,223 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:34:55,652 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 18:34:56,742 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:34:57,358 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:35:03,265 basehttp 212 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-18 18:35:03,404 basehttp 212 "GET /admin/ HTTP/1.1" 200 24191
+INFO 2024-03-18 18:35:03,508 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,511 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,515 basehttp 212 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,516 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,519 basehttp 212 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,520 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,868 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,878 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,878 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,878 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,878 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,881 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,896 basehttp 212 "GET /static/admin/simpleui-x/theme/theme.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,906 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,907 basehttp 212 "GET /static/admin/simpleui-x/js/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:03,907 basehttp 212 "GET /static/admin/simpleui-x/js/menu.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:04,164 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:04,164 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:35:04,166 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+WARNING 2024-03-18 18:35:09,956 log 241 Not Found: /admin/echart/echartdashboardsetup_v2/
+WARNING 2024-03-18 18:35:09,958 basehttp 212 "GET /admin/echart/echartdashboardsetup_v2/ HTTP/1.1" 404 6646
+WARNING 2024-03-18 18:35:11,013 log 241 Not Found: /echart/
+WARNING 2024-03-18 18:35:11,015 basehttp 212 "GET /echart/?type=2 HTTP/1.1" 404 7846
+INFO 2024-03-18 18:35:11,024 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-brands-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 18:36:03,530 basehttp 212 "GET /static/admin/simpleui-x/theme/element.css HTTP/1.1" 200 4239
+INFO 2024-03-18 18:36:11,917 basehttp 212 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-18 18:36:16,074 basehttp 212 "GET /static/admin/simpleui-x/theme/e-red-pro.css HTTP/1.1" 200 4393
+INFO 2024-03-18 18:36:19,441 basehttp 212 "GET /static/admin/simpleui-x/theme/x-green.css HTTP/1.1" 200 4399
+INFO 2024-03-18 18:36:24,589 basehttp 212 "GET /static/admin/simpleui-x/theme/highdmin.css HTTP/1.1" 200 4375
+INFO 2024-03-18 18:36:25,967 basehttp 212 "GET /static/admin/simpleui-x/theme/admin.lte.css HTTP/1.1" 200 4374
+INFO 2024-03-18 18:39:38,138 basehttp 212 "GET /admin/ HTTP/1.1" 200 24191
+INFO 2024-03-18 18:39:43,911 basehttp 212 "GET /admin/ HTTP/1.1" 200 24191
+INFO 2024-03-18 18:39:45,974 basehttp 212 "GET /admin/ HTTP/1.1" 200 24191
+INFO 2024-03-18 18:40:36,837 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 18:40:36,847 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 18:40:38,364 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:40:38,364 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 18:40:41,139 basehttp 212 "GET /admin/ HTTP/1.1" 200 24528
+INFO 2024-03-18 18:47:55,308 basehttp 212 "GET /admin/logout/ HTTP/1.1" 200 161
+INFO 2024-03-18 18:47:55,982 basehttp 212 "GET /admin/login/ HTTP/1.1" 200 4027
+INFO 2024-03-18 18:47:56,289 basehttp 212 "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 200 500
+INFO 2024-03-18 18:47:56,376 basehttp 212 "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 200 51264
+INFO 2024-03-18 18:47:56,380 basehttp 212 "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 200 669
+INFO 2024-03-18 18:47:56,381 basehttp 212 "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 200 3728
+INFO 2024-03-18 18:47:56,383 basehttp 212 "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 200 9547
+INFO 2024-03-18 20:23:21,434 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:23:24,546 basehttp 212 "GET /admin/login/ HTTP/1.1" 200 4027
+INFO 2024-03-18 20:23:24,690 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 20:23:24,697 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 20:23:24,698 basehttp 212 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO 2024-03-18 20:23:24,700 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 20:23:24,879 basehttp 212 "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 200 500
+INFO 2024-03-18 20:23:24,929 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 20:23:24,929 basehttp 212 "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 200 669
+INFO 2024-03-18 20:23:24,930 basehttp 212 "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 200 3728
+INFO 2024-03-18 20:23:24,931 basehttp 212 "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 200 51264
+INFO 2024-03-18 20:23:24,966 basehttp 212 "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 200 9547
+INFO 2024-03-18 20:23:25,108 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:08,583 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,262 basehttp 212 "POST /admin/login/ HTTP/1.1" 302 0
+INFO 2024-03-18 20:24:09,332 basehttp 212 "GET /admin/ HTTP/1.1" 200 24528
+INFO 2024-03-18 20:24:09,477 basehttp 212 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,478 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,512 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,516 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,517 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,523 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,529 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,536 basehttp 212 "GET /static/admin/simpleui-x/theme/theme.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,549 basehttp 212 "GET /static/admin/simpleui-x/js/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,551 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,554 basehttp 212 "GET /static/admin/simpleui-x/js/menu.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:09,846 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:30,509 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 25940
+INFO 2024-03-18 20:24:30,562 basehttp 212 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:30,563 basehttp 212 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:30,568 basehttp 212 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:30,570 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:30,571 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:30,572 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:30,579 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:30,579 basehttp 212 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:30,581 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-03-18 20:24:30,588 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:26:11,408 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-18 20:26:12,840 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:26:14,723 basehttp 212 "GET /admin/ HTTP/1.1" 200 24530
+INFO 2024-03-18 20:26:15,110 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 25942
+INFO 2024-03-18 20:26:15,281 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:26:23,376 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 46780
+INFO 2024-03-18 20:26:23,416 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:27:42,900 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-03-18 20:27:44,199 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:29:26,735 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 20:29:27,787 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:29:30,062 basehttp 212 "GET /admin/ HTTP/1.1" 200 24521
+INFO 2024-03-18 20:29:30,564 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 25942
+INFO 2024-03-18 20:29:30,776 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+WARNING 2024-03-18 20:29:33,336 log 241 Not Found: /admin/vision/data/
+WARNING 2024-03-18 20:29:33,337 basehttp 212 "GET /admin/vision/data/ HTTP/1.1" 404 6589
+INFO 2024-03-18 20:30:03,833 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 35377
+INFO 2024-03-18 20:30:03,889 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:30:59,488 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 20:31:00,555 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:31:18,024 basehttp 212 "GET /admin/ HTTP/1.1" 200 24527
+WARNING 2024-03-18 20:31:20,969 log 241 Not Found: /admin/vision/data/
+WARNING 2024-03-18 20:31:20,970 basehttp 212 "GET /admin/vision/data/ HTTP/1.1" 404 6589
+INFO 2024-03-18 20:32:48,472 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 20:32:49,385 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:32:50,318 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 25942
+INFO 2024-03-18 20:32:50,393 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:32:51,825 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 25599
+INFO 2024-03-18 20:32:51,869 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:35:55,134 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:35:55,566 basehttp 212 "GET /admin/ HTTP/1.1" 200 18683
+WARNING 2024-03-18 20:35:56,171 log 241 Not Found: /vision/data/
+WARNING 2024-03-18 20:35:56,172 basehttp 212 "GET /vision/data/ HTTP/1.1" 404 8037
+INFO 2024-03-18 20:35:58,180 basehttp 212 "GET /admin/ HTTP/1.1" 200 18683
+WARNING 2024-03-18 20:35:58,511 log 241 Not Found: /vision/data/
+WARNING 2024-03-18 20:35:58,512 basehttp 212 "GET /vision/data/ HTTP/1.1" 404 8037
+INFO 2024-03-18 20:36:36,649 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-03-18 20:36:37,596 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:36:38,223 basehttp 212 "GET /admin/ HTTP/1.1" 200 18683
+ERROR 2024-03-18 20:36:38,577 log 241 Internal Server Error: /vision/data/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\views.py", line 226, in vision
+    return render(request, '../templates/vision.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: ../templates/vision.html
+ERROR 2024-03-18 20:36:38,579 basehttp 212 "GET /vision/data/ HTTP/1.1" 500 88422
+INFO 2024-03-18 20:37:19,055 basehttp 212 "GET /admin/ HTTP/1.1" 200 18683
+ERROR 2024-03-18 20:37:19,448 log 241 Internal Server Error: /vision/data/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\views.py", line 226, in vision
+    return render(request, '../templates/vision.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: ../templates/vision.html
+ERROR 2024-03-18 20:37:19,450 basehttp 212 "GET /vision/data/ HTTP/1.1" 500 88422
+INFO 2024-03-18 20:37:23,997 basehttp 212 "GET /admin/ HTTP/1.1" 200 18683
+ERROR 2024-03-18 20:37:24,315 log 241 Internal Server Error: /vision/data/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\views.py", line 226, in vision
+    return render(request, '../templates/vision.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: ../templates/vision.html
+ERROR 2024-03-18 20:37:24,317 basehttp 212 "GET /vision/data/ HTTP/1.1" 500 88422
+INFO 2024-03-18 20:37:29,035 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:37:45,707 basehttp 212 "GET /admin/ HTTP/1.1" 200 18683
+INFO 2024-03-18 20:37:46,032 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2517
+WARNING 2024-03-18 20:37:58,840 log 241 Not Found: /admin/vision/data/
+WARNING 2024-03-18 20:37:58,842 basehttp 212 "GET /admin/vision/data/ HTTP/1.1" 404 6589
+INFO 2024-03-18 20:37:59,867 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 35377
+INFO 2024-03-18 20:37:59,960 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:38:02,684 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 25599
+INFO 2024-03-18 20:38:02,715 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:41:27,622 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-18 20:41:28,810 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:41:29,189 basehttp 212 "GET /admin/ HTTP/1.1" 200 18683
+INFO 2024-03-18 20:41:29,684 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 20:42:10,134 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 28741
+INFO 2024-03-18 20:42:10,208 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:42:21,922 basehttp 212 "GET /admin/ HTTP/1.1" 200 18683
+INFO 2024-03-18 20:42:22,374 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 20:42:52,035 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-18 20:42:53,189 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:42:53,693 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 20:42:54,050 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 20:48:24,559 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-03-18 20:48:25,725 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:48:36,354 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-03-18 20:48:37,292 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:49:15,912 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-03-18 20:49:16,925 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:50:40,338 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-03-18 20:50:41,491 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:50:43,659 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 20:50:44,173 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 20:55:31,234 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 28741
+INFO 2024-03-18 20:55:31,298 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560

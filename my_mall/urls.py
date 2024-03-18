@@ -15,17 +15,24 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path,include
+from django.urls import path, include
 
-from utils.converters import UsernameConverter,MobileConverter
+from django.views.generic import RedirectView
+
+from utils.converters import UsernameConverter, MobileConverter
 from django.urls import register_converter
 
-register_converter(UsernameConverter,'username')
+register_converter(UsernameConverter, 'username')
 register_converter(MobileConverter, 'mobile')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('ckeditor/',include('ckeditor_uploader.urls')),
+
+    # path('echart/', include('smart_chart.echart.urls')),
+    # path('', RedirectView.as_view(url='/echart/index/')),  # 首页,可自定义路由
+    path('ckeditor/', include('ckeditor_uploader.urls')),
+
+
     path('', include('apps.users.urls')),
     path('', include('apps.verifications.urls')),
     path('', include('apps.areas.urls')),
