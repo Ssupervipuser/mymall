@@ -1,6 +1,8 @@
 from django.db import models
 
 # Create your models here.
+from django.utils.html import format_html
+
 from utils.models import BaseModel
 
 
@@ -31,6 +33,12 @@ class Content(BaseModel):
     text = models.TextField(null=True, blank=True, verbose_name='内容')
     sequence = models.IntegerField(verbose_name='排序')
     status = models.BooleanField(default=True, verbose_name='是否展示')
+
+    # def image_data(self):
+    #     return format_html(
+    #         '<img src="{}" width="100px"/>',
+    #         self.image.url,
+    #     )
 
     class Meta:
         db_table = 'tb_content'

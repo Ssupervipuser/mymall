@@ -5,20 +5,31 @@ from . import models
 from .crons import generate_static_index_html
 
 
-class Admin(admin.ModelAdmin):
+@admin.register(models.ContentCategory)
+class ContentCategoryAdmin(admin.ModelAdmin):
+    list_display = ['name', 'key']
+    list_editable = []
+    list_per_page = 20
+
     def save_model(self, request, obj, form, change):
         obj.save()
         generate_static_index_html()
-
-
 
     def delete_model(self, request, obj):
         obj.delete()
         generate_static_index_html()
 
 
+@admin.register(models.Content)
+class ContentCategoryAdmin(admin.ModelAdmin):
+    list_display = ['category', 'title', 'url', 'image', 'status', 'text', 'sequence']
+    list_editable = ['title', 'url', 'image', 'status', 'text', 'sequence']
+    list_per_page = 10
 
-admin.site.register(models.ContentCategory,Admin)
-admin.site.register(models.Content,Admin)
+    def save_model(self, request, obj, form, change):
+        obj.save()
+        generate_static_index_html()
 
-
+    def delete_model(self, request, obj):
+        obj.delete()
+        generate_static_index_html()
