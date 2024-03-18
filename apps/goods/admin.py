@@ -47,11 +47,11 @@ class SKUImageAdmin(admin.ModelAdmin):
 
 
 admin.site.register(GoodsCategory,GoodsCategoryAdmin)
-admin.site.register(GoodsChannel,GoodsCategoryAdmin)
-admin.site.register(Goods,GoodsCategoryAdmin)
-admin.site.register(Brand,GoodsCategoryAdmin)
-admin.site.register(GoodsSpecification,GoodsCategoryAdmin)
-admin.site.register(SpecificationOption,GoodsCategoryAdmin)
+admin.site.register(GoodsChannel)
+admin.site.register(Goods)
+admin.site.register(Brand)
+admin.site.register(GoodsSpecification)
+admin.site.register(SpecificationOption)
 admin.site.register(SKU,SKUAdmin)
 admin.site.register(SKUSpecification)
 admin.site.register(SKUImage,SKUImageAdmin)
