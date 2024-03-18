@@ -10565,3 +10565,1046 @@ INFO 2024-03-18 20:50:43,659 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
 INFO 2024-03-18 20:50:44,173 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
 INFO 2024-03-18 20:55:31,234 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 28741
 INFO 2024-03-18 20:55:31,298 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:56:22,353 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 20:56:23,798 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 20:56:24,455 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 20:56:24,845 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32848
+INFO 2024-03-18 20:56:25,028 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:56:32,175 basehttp 212 "GET /admin/users/user/?q=test1 HTTP/1.1" 200 31353
+INFO 2024-03-18 20:56:32,252 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:56:49,863 basehttp 212 "GET /admin/users/user/add/?_changelist_filters=q%3Dtest1 HTTP/1.1" 200 26812
+INFO 2024-03-18 20:56:50,027 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:56:50,400 basehttp 212 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-03-18 20:56:50,400 basehttp 212 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-03-18 20:57:22,594 basehttp 212 "GET /admin/auth/group/add/?_to_field=id&_popup=1 HTTP/1.1" 200 18462
+INFO 2024-03-18 20:57:22,733 basehttp 212 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-03-18 20:57:22,737 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:57:22,740 basehttp 212 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2024-03-18 20:57:23,139 basehttp 212 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-03-18 20:57:28,258 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 20:58:10,479 basehttp 212 "POST /admin/users/user/add/?_changelist_filters=q%3Dtest1 HTTP/1.1" 302 0
+INFO 2024-03-18 20:58:10,501 basehttp 212 "GET /admin/users/user/?q=test1 HTTP/1.1" 200 31494
+INFO 2024-03-18 20:58:10,659 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:58:20,236 basehttp 212 "GET /admin/users/user/?q=test1 HTTP/1.1" 200 31353
+INFO 2024-03-18 20:58:20,329 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 20:58:29,024 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 33363
+INFO 2024-03-18 20:58:29,087 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:02:50,107 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:02:51,519 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:06:02,824 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:06:03,743 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:06:51,708 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:06:52,407 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:07:18,281 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:07:19,112 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:07:33,480 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:07:34,435 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:10:13,343 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:10:14,532 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:10:19,019 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:10:19,167 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,169 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,171 basehttp 212 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,172 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,173 basehttp 212 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,173 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,352 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,352 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,353 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,353 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,353 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,354 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,369 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,369 basehttp 212 "GET /static/admin/simpleui-x/theme/theme.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,370 basehttp 212 "GET /static/admin/simpleui-x/js/menu.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,370 basehttp 212 "GET /static/admin/simpleui-x/js/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,605 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,647 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,648 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,670 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 38005
+INFO 2024-03-18 21:10:19,966 basehttp 212 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,967 basehttp 212 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,999 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:19,999 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:20,000 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:20,002 basehttp 212 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:20,002 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:20,006 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:20,007 basehttp 212 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 21:10:20,012 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:10:32,474 basehttp 212 "GET /admin/users/user/6/change/ HTTP/1.1" 200 26627
+INFO 2024-03-18 21:10:32,556 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:10:32,969 basehttp 212 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-03-18 21:10:32,998 basehttp 212 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-03-18 21:11:01,020 basehttp 212 "GET /admin/users/user/6/password/ HTTP/1.1" 200 6299
+INFO 2024-03-18 21:11:27,567 basehttp 212 "POST /admin/users/user/6/password/ HTTP/1.1" 200 6460
+INFO 2024-03-18 21:11:50,020 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 21:11:51,093 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 38005
+INFO 2024-03-18 21:11:51,135 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:11:57,126 basehttp 212 "POST /admin/users/user/ HTTP/1.1" 200 6332
+INFO 2024-03-18 21:11:57,176 basehttp 212 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2024-03-18 21:12:01,004 basehttp 212 "POST /admin/users/user/ HTTP/1.1" 302 0
+INFO 2024-03-18 21:12:01,041 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 37571
+INFO 2024-03-18 21:12:01,097 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:12:04,310 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11141
+INFO 2024-03-18 21:12:04,376 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:12:21,804 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 200 11500
+INFO 2024-03-18 21:12:21,856 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-18 21:12:46,924 log 241 Internal Server Error: /admin/users/user/add/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1062, "Duplicate entry '' for key 'tb_users.mobile'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\admin.py", line 119, in add_view
+    return self._add_view(request, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\admin.py", line 147, in _add_view
+    return super().add_view(request, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1227, in save_model
+    obj.save()
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "D:\python_worksation\venv\Lib\site-packages\MySQLdb\connections.py", line 257, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'tb_users.mobile'")
+ERROR 2024-03-18 21:12:46,935 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 500 265140
+INFO 2024-03-18 21:14:16,685 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:14:17,721 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:14:39,228 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32848
+INFO 2024-03-18 21:14:39,261 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:14:44,816 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:14:45,165 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32848
+INFO 2024-03-18 21:14:45,326 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:14:47,105 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 21:14:52,315 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 26766
+INFO 2024-03-18 21:14:52,371 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:17:40,174 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:17:41,257 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-18 21:18:14,540 log 241 Internal Server Error: /admin/users/user/add/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\users\admin.py", line 18, in save_model
+    obj.make_password()
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'User' object has no attribute 'make_password'
+ERROR 2024-03-18 21:18:14,544 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 500 119894
+INFO 2024-03-18 21:19:33,618 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 26766
+INFO 2024-03-18 21:20:17,794 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:20:18,407 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32848
+INFO 2024-03-18 21:20:18,693 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:20:29,982 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 26766
+INFO 2024-03-18 21:20:30,043 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:23:45,814 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:23:47,176 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:23:47,704 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:23:48,166 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32848
+INFO 2024-03-18 21:23:48,356 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:23:51,964 basehttp 212 "GET /admin/users/user/4/change/ HTTP/1.1" 200 12391
+INFO 2024-03-18 21:23:52,012 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:23:56,315 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32848
+INFO 2024-03-18 21:23:56,361 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:23:57,723 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11594
+INFO 2024-03-18 21:23:57,792 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:25:04,511 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:25:05,509 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:25:06,155 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:25:06,523 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32848
+INFO 2024-03-18 21:25:06,603 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:25:09,154 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 12079
+INFO 2024-03-18 21:25:09,205 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-18 21:25:18,746 log 241 Internal Server Error: /admin/users/user/add/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\users\admin.py", line 22, in save_model
+    obj.make_password()
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'User' object has no attribute 'make_password'
+ERROR 2024-03-18 21:25:18,748 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 500 118228
+INFO 2024-03-18 21:25:58,410 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:25:59,213 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:26:59,900 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:27:04,838 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 12079
+INFO 2024-03-18 21:27:50,613 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 302 0
+INFO 2024-03-18 21:27:50,740 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 33504
+INFO 2024-03-18 21:27:50,825 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:28:10,242 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 21:28:16,975 basehttp 212 "POST /admin/users/user/ HTTP/1.1" 200 6227
+INFO 2024-03-18 21:28:18,306 basehttp 212 "POST /admin/users/user/ HTTP/1.1" 302 0
+INFO 2024-03-18 21:28:18,349 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32929
+INFO 2024-03-18 21:28:18,414 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:28:19,730 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 12079
+INFO 2024-03-18 21:28:19,791 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:29:38,426 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 302 0
+INFO 2024-03-18 21:29:38,481 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 33504
+INFO 2024-03-18 21:29:38,533 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:31:56,644 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:31:58,581 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:31:59,736 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11588
+INFO 2024-03-18 21:31:59,830 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:32:59,655 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:33:01,510 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:33:32,273 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:33:32,823 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 33363
+INFO 2024-03-18 21:33:32,977 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:33:36,626 basehttp 212 "GET /admin/users/user/9/change/ HTTP/1.1" 200 12820
+INFO 2024-03-18 21:33:36,699 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:35:44,578 basehttp 212 "GET /admin/auth/group/ HTTP/1.1" 200 29585
+INFO 2024-03-18 21:35:44,626 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:37:26,393 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-18 21:39:19,896 log 241 Internal Server Error: /admin/users/user/9/change/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\users\admin.py", line 22, in save_model
+    make_password(password=request.passsword)
+                           ^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'passsword'
+ERROR 2024-03-18 21:39:19,905 basehttp 212 "POST /admin/users/user/9/change/ HTTP/1.1" 500 127498
+INFO 2024-03-18 21:39:21,786 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:39:23,647 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:39:39,598 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:39:40,053 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 33363
+INFO 2024-03-18 21:39:40,173 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:39:45,425 basehttp 212 "POST /admin/users/user/ HTTP/1.1" 200 6227
+INFO 2024-03-18 21:39:46,513 basehttp 212 "POST /admin/users/user/ HTTP/1.1" 302 0
+INFO 2024-03-18 21:39:46,560 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32929
+INFO 2024-03-18 21:39:46,622 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:39:48,014 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 12079
+INFO 2024-03-18 21:39:48,072 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-18 21:41:11,246 log 241 Internal Server Error: /admin/users/user/add/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\users\admin.py", line 22, in save_model
+    make_password(password=obj.passsword)
+                           ^^^^^^^^^^^^^
+AttributeError: 'User' object has no attribute 'passsword'
+ERROR 2024-03-18 21:41:11,252 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 500 126876
+INFO 2024-03-18 21:44:08,835 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:44:10,343 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:46:47,125 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:46:50,348 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:46:51,136 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32848
+INFO 2024-03-18 21:46:51,471 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:46:53,166 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 12079
+INFO 2024-03-18 21:46:53,236 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-18 21:47:19,638 log 241 Internal Server Error: /admin/users/user/add/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\users\admin.py", line 22, in save_model
+    UserManager.create_user()
+TypeError: UserManager.create_user() missing 2 required positional arguments: 'self' and 'username'
+ERROR 2024-03-18 21:47:19,644 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 500 127262
+INFO 2024-03-18 21:47:55,269 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:47:57,374 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:47:58,576 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:47:59,025 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32848
+INFO 2024-03-18 21:47:59,116 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:48:00,638 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 12079
+INFO 2024-03-18 21:48:00,709 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-18 21:48:17,191 log 241 Internal Server Error: /admin/users/user/add/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\users\admin.py", line 22, in save_model
+    UserManager.create_user(request.username,obj.password)
+                            ^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'username'
+ERROR 2024-03-18 21:48:17,198 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 500 126942
+INFO 2024-03-18 21:48:38,621 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:48:42,316 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:48:42,775 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32848
+INFO 2024-03-18 21:48:42,879 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:48:44,355 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 12079
+INFO 2024-03-18 21:48:44,428 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-18 21:48:51,601 log 241 Internal Server Error: /admin/users/user/add/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\users\admin.py", line 22, in save_model
+    UserManager.create_user(obj.username,obj.password)
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\models.py", line 161, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute '_create_user'
+ERROR 2024-03-18 21:48:51,607 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 500 131470
+INFO 2024-03-18 21:49:43,806 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:49:48,452 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:49:48,850 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 32848
+INFO 2024-03-18 21:49:49,046 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:49:51,137 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 12079
+INFO 2024-03-18 21:49:51,186 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-18 21:49:53,084 log 241 Internal Server Error: /admin/users/user/add/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1886, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\users\admin.py", line 21, in save_model
+    obj.password.set_password()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'set_password'
+ERROR 2024-03-18 21:49:53,086 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 500 118156
+INFO 2024-03-18 21:52:36,469 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:52:42,993 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:52:43,492 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 37490
+INFO 2024-03-18 21:52:43,726 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:52:45,319 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11141
+INFO 2024-03-18 21:52:45,382 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:55:14,297 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:55:15,668 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:55:17,105 basehttp 212 "GET /admin/ HTTP/1.1" 200 18048
+INFO 2024-03-18 21:55:17,203 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,212 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,214 basehttp 212 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,215 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,216 basehttp 212 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,218 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,280 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,281 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,283 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,285 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,285 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,287 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,302 basehttp 212 "GET /static/admin/simpleui-x/theme/theme.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,305 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,307 basehttp 212 "GET /static/admin/simpleui-x/js/menu.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,313 basehttp 212 "GET /static/admin/simpleui-x/js/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-18 21:55:17,474 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 21:56:03,755 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:56:04,710 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:56:05,241 basehttp 212 "GET /admin/ HTTP/1.1" 200 18048
+INFO 2024-03-18 21:56:05,579 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 21:56:24,144 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:56:25,105 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:56:25,681 basehttp 212 "GET /admin/ HTTP/1.1" 200 18048
+INFO 2024-03-18 21:56:25,972 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 21:56:32,333 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:56:47,272 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:56:48,150 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:56:48,543 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:56:48,954 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 37490
+INFO 2024-03-18 21:56:49,046 basehttp 212 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-18 21:56:49,046 basehttp 212 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-18 21:56:49,047 basehttp 212 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 21:56:49,050 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-18 21:56:49,052 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-03-18 21:56:49,052 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-03-18 21:56:49,056 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-03-18 21:56:49,058 basehttp 212 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-03-18 21:56:49,058 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-03-18 21:56:49,062 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:56:51,162 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11141
+INFO 2024-03-18 21:56:51,234 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:57:26,145 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:57:27,175 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:57:27,652 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:57:28,046 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 37490
+INFO 2024-03-18 21:57:28,165 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:57:29,613 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11141
+INFO 2024-03-18 21:57:29,667 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:58:18,784 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:58:19,911 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:58:22,040 basehttp 212 "GET /admin/ HTTP/1.1" 200 18048
+INFO 2024-03-18 21:58:22,366 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 21:58:24,857 basehttp 212 "GET /admin/ HTTP/1.1" 200 18048
+INFO 2024-03-18 21:58:25,128 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-18 21:58:49,522 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:58:50,562 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 21:58:51,197 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 21:58:51,525 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 38650
+INFO 2024-03-18 21:58:51,648 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:59:02,747 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11141
+INFO 2024-03-18 21:59:02,799 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 21:59:44,236 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 21:59:45,370 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 22:00:18,853 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 22:00:22,231 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 22:00:22,804 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-18 22:00:22,806 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 22:00:22,807 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-18 22:00:22,816 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 38650
+INFO 2024-03-18 22:00:22,999 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:00:24,606 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11141
+INFO 2024-03-18 22:00:24,661 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:01:00,301 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 22:01:05,690 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 22:01:06,068 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 38650
+INFO 2024-03-18 22:01:06,174 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:01:07,267 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11141
+INFO 2024-03-18 22:01:07,312 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:01:49,661 autoreload 266 D:\python_worksation\venv\Lib\site-packages\django\contrib\auth\admin.py changed, reloading.
+INFO 2024-03-18 22:01:50,592 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 22:01:51,445 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 22:01:51,810 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 38650
+INFO 2024-03-18 22:01:51,910 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:01:53,040 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11626
+INFO 2024-03-18 22:01:53,088 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:02:20,884 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 22:02:22,167 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 22:02:23,045 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 22:02:23,410 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 38650
+INFO 2024-03-18 22:02:23,509 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:02:25,803 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11626
+INFO 2024-03-18 22:02:25,857 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:03:02,355 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 200 11972
+INFO 2024-03-18 22:03:02,445 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:03:13,553 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 200 11972
+INFO 2024-03-18 22:03:13,606 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:03:46,606 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 200 11978
+INFO 2024-03-18 22:03:46,664 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:05:29,175 basehttp 212 "POST /admin/users/user/add/ HTTP/1.1" 302 0
+INFO 2024-03-18 22:05:29,230 basehttp 212 "GET /admin/users/user/10/change/ HTTP/1.1" 200 27005
+INFO 2024-03-18 22:05:29,299 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:10:15,523 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11636
+INFO 2024-03-18 22:10:15,623 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:10:17,387 basehttp 212 "GET /admin/users/user/10/change/ HTTP/1.1" 200 26795
+INFO 2024-03-18 22:10:17,451 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:10:18,657 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11636
+INFO 2024-03-18 22:10:18,705 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:10:19,715 basehttp 212 "GET /admin/users/user/10/change/ HTTP/1.1" 200 26795
+INFO 2024-03-18 22:10:19,764 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:10:22,088 basehttp 212 "GET /admin/auth/group/ HTTP/1.1" 200 29585
+INFO 2024-03-18 22:10:22,130 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:10:23,717 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 39341
+INFO 2024-03-18 22:10:23,771 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:11:24,542 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 22:11:25,868 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 22:11:26,602 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 22:11:27,066 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 38085
+INFO 2024-03-18 22:11:27,320 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:11:56,435 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\admin.py changed, reloading.
+INFO 2024-03-18 22:11:57,452 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 22:11:58,025 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 22:11:58,417 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 39162
+INFO 2024-03-18 22:11:58,515 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:12:14,598 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 35377
+INFO 2024-03-18 22:12:14,649 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:13:33,174 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 33596
+INFO 2024-03-18 22:13:33,215 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:14:37,692 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-18 22:14:38,598 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 22:15:20,657 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\models.py changed, reloading.
+INFO 2024-03-18 22:15:21,845 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 22:15:22,253 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+ERROR 2024-03-18 22:15:22,753 log 241 Internal Server Error: /admin/contents/content/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\options.py", line 681, in get_field
+    return self.fields_map[field_name]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'image_data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\utils.py", line 272, in lookup_field
+    f = _get_non_gfk_field(opts, name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\utils.py", line 303, in _get_non_gfk_field
+    field = opts.get_field(name)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\options.py", line 683, in get_field
+    raise FieldDoesNotExist(
+django.core.exceptions.FieldDoesNotExist: Content has no field named 'image_data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\templatetags\base.py", line 45, in render
+    return super().render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\library.py", line 258, in render
+    _dict = self.func(*resolved_args, **resolved_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 336, in result_list
+    "results": list(results(cl)),
+               ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 309, in results
+    yield ResultList(form, items_for_result(cl, res, form))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 303, in __init__
+    super().__init__(*items)
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 213, in items_for_result
+    f, attr, value = lookup_field(field_name, result, cl.model_admin)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\utils.py", line 285, in lookup_field
+    value = attr()
+            ^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\contents\models.py", line 40, in image_data
+    self.image.url,
+    ^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\fields\files.py", line 66, in url
+    self._require_file()
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+ERROR 2024-03-18 22:15:22,774 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 500 464868
+INFO 2024-03-18 22:16:59,178 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\models.py changed, reloading.
+INFO 2024-03-18 22:17:00,214 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 22:17:01,467 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+ERROR 2024-03-18 22:17:01,939 log 241 Internal Server Error: /admin/contents/content/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\options.py", line 681, in get_field
+    return self.fields_map[field_name]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'image_data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\utils.py", line 272, in lookup_field
+    f = _get_non_gfk_field(opts, name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\utils.py", line 303, in _get_non_gfk_field
+    field = opts.get_field(name)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\options.py", line 683, in get_field
+    raise FieldDoesNotExist(
+django.core.exceptions.FieldDoesNotExist: Content has no field named 'image_data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\templatetags\base.py", line 45, in render
+    return super().render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\library.py", line 258, in render
+    _dict = self.func(*resolved_args, **resolved_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 336, in result_list
+    "results": list(results(cl)),
+               ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 309, in results
+    yield ResultList(form, items_for_result(cl, res, form))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 303, in __init__
+    super().__init__(*items)
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py", line 213, in items_for_result
+    f, attr, value = lookup_field(field_name, result, cl.model_admin)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\utils.py", line 285, in lookup_field
+    value = attr()
+            ^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\contents\models.py", line 38, in image_data
+    if self.img and hasattr(self.img, 'url'):
+       ^^^^^^^^
+AttributeError: 'Content' object has no attribute 'img'
+ERROR 2024-03-18 22:17:01,970 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 500 458054
+INFO 2024-03-18 22:17:19,650 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 22:17:22,734 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-18 22:17:23,079 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 35315
+INFO 2024-03-18 22:17:23,175 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 22:17:27,334 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 35723
+INFO 2024-03-18 22:17:27,533 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560

@@ -34,11 +34,12 @@ class Content(BaseModel):
     sequence = models.IntegerField(verbose_name='排序')
     status = models.BooleanField(default=True, verbose_name='是否展示')
 
-    # def image_data(self):
-    #     return format_html(
-    #         '<img src="{}" width="100px"/>',
-    #         self.image.url,
-    #     )
+    def image_data(self):
+        if self.image and hasattr(self.image, 'url'):
+            return format_html(
+                '<img src="{}" width="100px"/>',
+                self.image.url,
+            )
 
     class Meta:
         db_table = 'tb_content'

@@ -21,8 +21,8 @@ class ContentCategoryAdmin(admin.ModelAdmin):
 
 
 @admin.register(models.Content)
-class ContentCategoryAdmin(admin.ModelAdmin):
-    list_display = ['category', 'title', 'url', 'image', 'status', 'text', 'sequence']
+class ContentAdmin(admin.ModelAdmin):
+    list_display = ['category', 'title', 'url', 'image_data', 'status', 'text', 'sequence']
     list_editable = ['title', 'url',  'status', 'text', 'sequence']
     list_per_page = 5
 
