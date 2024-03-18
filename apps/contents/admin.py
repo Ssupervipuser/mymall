@@ -23,8 +23,8 @@ class ContentCategoryAdmin(admin.ModelAdmin):
 @admin.register(models.Content)
 class ContentCategoryAdmin(admin.ModelAdmin):
     list_display = ['category', 'title', 'url', 'image', 'status', 'text', 'sequence']
-    list_editable = ['title', 'url', 'image', 'status', 'text', 'sequence']
-    list_per_page = 10
+    list_editable = ['title', 'url',  'status', 'text', 'sequence']
+    list_per_page = 5
 
     def save_model(self, request, obj, form, change):
         obj.save()
