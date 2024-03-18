@@ -1,8 +1,11 @@
 from ckeditor.fields import RichTextField
 from ckeditor_uploader.fields import RichTextUploadingField
+from django.core.validators import MinValueValidator
 from django.db import models
 
 # Create your models here.
+from django.utils.html import format_html
+
 from utils.models import BaseModel
 
 
@@ -48,6 +51,14 @@ class Brand(BaseModel):
     logo = models.ImageField(verbose_name='Logo图片')
     first_letter = models.CharField(max_length=1, verbose_name='品牌首字母')
 
+    def image_data(self):
+        return format_html(
+            '<img src="{}" width="100px"/>',
+            self.logo.url,
+        )
+
+    image_data.short_description = u'logo'
+
     class Meta:
         db_table = 'tb_brand'
         verbose_name = '品牌'
@@ -63,9 +74,12 @@ class Goods(BaseModel):
     """
     name = models.CharField(max_length=50, verbose_name='名称')
     brand = models.ForeignKey(Brand, on_delete=models.PROTECT, verbose_name='品牌')
-    category1 = models.ForeignKey(GoodsCategory, on_delete=models.PROTECT, related_name='cat1_goods', verbose_name='一级类别')
-    category2 = models.ForeignKey(GoodsCategory, on_delete=models.PROTECT, related_name='cat2_goods', verbose_name='二级类别')
-    category3 = models.ForeignKey(GoodsCategory, on_delete=models.PROTECT, related_name='cat3_goods', verbose_name='三级类别')
+    category1 = models.ForeignKey(GoodsCategory, on_delete=models.PROTECT, related_name='cat1_goods',
+                                  verbose_name='一级类别')
+    category2 = models.ForeignKey(GoodsCategory, on_delete=models.PROTECT, related_name='cat2_goods',
+                                  verbose_name='二级类别')
+    category3 = models.ForeignKey(GoodsCategory, on_delete=models.PROTECT, related_name='cat3_goods',
+                                  verbose_name='三级类别')
     sales = models.IntegerField(default=0, verbose_name='销量')
     comments = models.IntegerField(default=0, verbose_name='评价数')
 
@@ -114,6 +128,7 @@ class SpecificationOption(BaseModel):
         return '%s - %s' % (self.spec, self.value)
 
 
+# ----------------------------------
 class SKU(BaseModel):
     """
     商品SKU
@@ -122,15 +137,30 @@ class SKU(BaseModel):
     caption = models.CharField(max_length=100, verbose_name='副标题')
     goods = models.ForeignKey(Goods, on_delete=models.CASCADE, verbose_name='商品')
     category = models.ForeignKey(GoodsCategory, on_delete=models.PROTECT, verbose_name='从属类别')
-    price = models.DecimalField(max_digits=10, decimal_places=2, verbose_name='单价')
-    cost_price = models.DecimalField(max_digits=10, decimal_places=2, verbose_name='进价')
-    market_price = models.DecimalField(max_digits=10, decimal_places=2, verbose_name='市场价')
+    price = models.DecimalField(max_digits=10, decimal_places=2, verbose_name='单价', validators=[MinValueValidator(0)])
+    cost_price = models.DecimalField(max_digits=10, decimal_places=2, verbose_name='进价',
+                                     validators=[MinValueValidator(0)])
+    market_price = models.DecimalField(max_digits=10, decimal_places=2, verbose_name='市场价',
+                                       validators=[MinValueValidator(0)])
     stock = models.IntegerField(default=0, verbose_name='库存')
     sales = models.IntegerField(default=0, verbose_name='销量')
     comments = models.IntegerField(default=0, verbose_name='评价数')
     is_launched = models.BooleanField(default=True, verbose_name='是否上架销售')
     # default_image_url = models.CharField(max_length=200, default='', null=True, blank=True, verbose_name='默认图片')
     default_image_url = models.ImageField(max_length=200, default='', null=True, blank=True, verbose_name='默认图片')
+
+    def image_data(self):
+        return format_html(
+            '<img src="{}" width="100px"/>',
+            self.default_image_url.url,
+        )
+
+    image_data.short_description = u'图片'
+
+    def brand(self):
+        return self.Brand.name
+
+    brand.short_description = '品牌'
 
     class Meta:
         db_table = 'tb_sku'
@@ -147,6 +177,14 @@ class SKUImage(BaseModel):
     """
     sku = models.ForeignKey(SKU, on_delete=models.CASCADE, verbose_name='sku')
     image = models.ImageField(verbose_name='图片')
+
+    def image_data(self):
+        return format_html(
+            '<img src="{}" width="100px"/>',
+            self.image.url,
+        )
+
+    image_data.short_description = u'图片'
 
     class Meta:
         db_table = 'tb_sku_image'

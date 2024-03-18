@@ -49,7 +49,7 @@ class FastDFSStorage(Storage):
         # ret=client.upload_by_filename('要写上传文件的绝对路径') 只能通过文件绝对路径进行上传  此方式上传的文件会有后缀
         # upload_by_buffer 可以通过文件二进制数据进行上传  上传后的文件没有后缀
 
-        ret = client.upload_by_buffer(content.read())
+        ret = client.upload_by_buffer(content.read(), file_ext_name='jpg')
         # 3.判断文件是否上传成功
         if ret.get('Status') != 'Upload successed.':
             raise Exception('Upload file failed')
