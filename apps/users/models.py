@@ -45,3 +45,6 @@ class Address(BaseModel):
         verbose_name = '用户地址'
         verbose_name_plural = verbose_name
         ordering = ['-update_time']
+
+    def __str__(self):
+        return '{}-{}-{}-{}'.format(self.receiver,self.province,self.city,self.district)

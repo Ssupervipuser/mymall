@@ -8665,3 +8665,256 @@ INFO 2024-03-18 13:33:08,816 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
 INFO 2024-03-18 13:33:25,669 basehttp 212 "GET /admin/contents/content/44/change/?_changelist_filters=p%3D3 HTTP/1.1" 200 17810
 INFO 2024-03-18 13:33:25,782 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
 INFO 2024-03-18 13:33:42,354 basehttp 212 "GET /admin/contents/content/?p=3 HTTP/1.1" 200 28064
+INFO 2024-03-18 13:36:23,560 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\orders\admin.py changed, reloading.
+INFO 2024-03-18 13:36:24,548 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:36:25,080 basehttp 212 "GET /admin/contents/content/?p=3 HTTP/1.1" 200 28608
+INFO 2024-03-18 13:36:25,173 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:36:28,502 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 12390
+INFO 2024-03-18 13:36:28,623 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:37:16,852 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\orders\admin.py changed, reloading.
+INFO 2024-03-18 13:37:17,821 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:37:18,249 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 12700
+INFO 2024-03-18 13:37:18,354 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:37:19,630 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 12700
+INFO 2024-03-18 13:37:19,733 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:37:21,005 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 12821
+INFO 2024-03-18 13:37:21,118 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:37:54,696 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\orders\models.py changed, reloading.
+INFO 2024-03-18 13:37:55,572 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:38:03,100 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 12700
+INFO 2024-03-18 13:38:03,248 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:38:39,092 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\orders\models.py changed, reloading.
+INFO 2024-03-18 13:38:40,065 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:38:40,500 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 12659
+INFO 2024-03-18 13:38:40,609 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:40:08,701 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\orders\models.py changed, reloading.
+INFO 2024-03-18 13:40:09,562 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:40:10,059 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 12681
+INFO 2024-03-18 13:40:10,167 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:40:24,855 basehttp 212 "GET /admin/orders/orderinfo/20240306094046000000003/change/ HTTP/1.1" 200 17768
+INFO 2024-03-18 13:40:24,991 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:41:44,072 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\models.py changed, reloading.
+INFO 2024-03-18 13:41:44,941 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:41:45,459 basehttp 212 "GET /admin/orders/orderinfo/20240306094046000000003/change/ HTTP/1.1" 200 17753
+INFO 2024-03-18 13:41:45,625 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:42:04,566 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\models.py changed, reloading.
+INFO 2024-03-18 13:42:05,512 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-18 13:42:06,159 log 241 Internal Server Error: /admin/orders/orderinfo/20240306094046000000003/change/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1070, in render
+    return render_value_in_context(output, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1047, in render_value_in_context
+    value = str(value)
+            ^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\html.py", line 420, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+                                           ^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\forms\boundfield.py", line 34, in __str__
+    return self.as_widget()
+           ^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\forms\boundfield.py", line 107, in as_widget
+    return widget.render(
+           ^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\forms\widgets.py", line 280, in render
+    context = self.get_context(name, value, attrs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\widgets.py", line 320, in get_context
+    "rendered_widget": self.widget.render(name, value, attrs),
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\forms\widgets.py", line 280, in render
+    context = self.get_context(name, value, attrs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\forms\widgets.py", line 758, in get_context
+    context = super().get_context(name, value, attrs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\forms\widgets.py", line 717, in get_context
+    context["widget"]["optgroups"] = self.optgroups(
+                                     ^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\forms\widgets.py", line 657, in optgroups
+    for index, (option_value, option_label) in enumerate(self.choices):
+  File "D:\python_worksation\venv\Lib\site-packages\django\forms\models.py", line 1404, in __iter__
+    yield self.choice(obj)
+          ^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\forms\models.py", line 1418, in choice
+    self.field.label_from_instance(obj),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\forms\models.py", line 1504, in label_from_instance
+    return str(obj)
+           ^^^^^^^^
+TypeError: __str__ returned non-string (type User)
+ERROR 2024-03-18 13:42:06,171 basehttp 212 "GET /admin/orders/orderinfo/20240306094046000000003/change/ HTTP/1.1" 500 693754
+INFO 2024-03-18 13:42:13,777 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 12681
+INFO 2024-03-18 13:44:40,627 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:44:44,978 basehttp 212 "GET /admin/orders/orderinfo/20240306094046000000003/change/ HTTP/1.1" 200 17793
+INFO 2024-03-18 13:44:45,111 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:45:24,847 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\models.py changed, reloading.
+INFO 2024-03-18 13:45:25,709 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:46:27,663 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\models.py changed, reloading.
+INFO 2024-03-18 13:46:28,587 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:46:29,071 basehttp 212 "GET /admin/orders/orderinfo/20240306094046000000003/change/ HTTP/1.1" 200 17804
+INFO 2024-03-18 13:46:29,220 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:46:42,995 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 12821
+INFO 2024-03-18 13:46:43,091 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:47:37,760 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\orders\models.py changed, reloading.
+INFO 2024-03-18 13:47:38,710 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:47:39,246 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 12801
+INFO 2024-03-18 13:47:39,354 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:48:23,882 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\orders\models.py changed, reloading.
+INFO 2024-03-18 13:48:24,843 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-18 13:48:25,376 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 12849
+INFO 2024-03-18 13:48:25,510 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:48:30,794 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 12681
+INFO 2024-03-18 13:48:30,897 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:48:36,192 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 12849
+INFO 2024-03-18 13:48:36,285 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:48:37,571 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 12681
+INFO 2024-03-18 13:48:37,705 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:48:39,109 basehttp 212 "GET /admin/orders/orderinfo/20240306094046000000003/change/ HTTP/1.1" 200 17804
+INFO 2024-03-18 13:48:39,208 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-18 13:48:40,774 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 12849
+INFO 2024-03-18 13:48:40,871 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560

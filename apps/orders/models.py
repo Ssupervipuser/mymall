@@ -51,6 +51,9 @@ class OrderInfo(BaseModel):
         verbose_name = '订单基本信息'
         verbose_name_plural = verbose_name
 
+    def __str__(self):
+        return '{}'.format(self.order_id)
+
 
 class OrderGoods(BaseModel):
     """
@@ -77,3 +80,6 @@ class OrderGoods(BaseModel):
         db_table = "tb_order_goods"
         verbose_name = '订单商品'
         verbose_name_plural = verbose_name
+
+    def __str__(self):
+        return '{}-{}'.format(self.order_id, self.sku)
