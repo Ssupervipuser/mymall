@@ -213,7 +213,7 @@ SESSION_CACHE_ALIAS = "session"
 # 在settings中指定本项目用户模型类
 AUTH_USER_MODEL = 'users.User'
 
-# CORS
+# CORS跨域
 CORS_ORIGIN_WHITELIST = (
     'http://127.0.0.1:8090',
     'http://localhost:8090',

@@ -11,7 +11,7 @@ from rest_framework_jwt.views import ObtainJSONWebToken
 from datetime import datetime
 from rest_framework_jwt.settings import api_settings
 
-from ..orders.models import OrderInfo
+from apps.orders.models import OrderInfo
 
 jwt_response_payload_handler = api_settings.JWT_RESPONSE_PAYLOAD_HANDLER
 
@@ -26,13 +26,6 @@ from ..carts.utils import merge_cart_cookie_to_redis
 
 class CreateUser(CreateAPIView):
     serializer_class = CreateUserSerializer
-
-
-
-
-
-
-
 
 
 # url(r'^mobiles/(?P<mobile>1[3-9]\d{9})/count/$', views.MobileCountView.as_view()),
@@ -90,7 +83,6 @@ class UserDetailView(RetrieveAPIView):
 class AddressViewSet(UpdateModelMixin, GenericViewSet):
     """用户收货地址添加\修改UpdateModelMixin"""
 
-
     permission_classes = [IsAuthenticated]
     serializer_class = UserAddressSerializer
 
@@ -145,7 +137,6 @@ class AddressViewSet(UpdateModelMixin, GenericViewSet):
 
         return Response(status=status.HTTP_204_NO_CONTENT)
 
-
     # put /addresses/pk/status/
     @action(methods=['put'], detail=True)
     def status(self, request, pk=None):
@@ -174,28 +165,27 @@ class UserBrowserHistoryView(CreateAPIView):
     serializer_class = UserBrowserHistorySerializer
     permission_classes = [IsAuthenticated]
 
-    def get(self,request):
+    def get(self, request):
         """查询浏览记录"""
-        #创建redis连接对象
-        redis_conn=get_redis_connection('history')
-        #获取当前用户
-        user=request.user
-        #获取reids中当前用户的浏览记录
-        sku_ids=redis_conn.lrange('history_%id'%user.id,0,-1)
-        #把sku_id的sku模型查询出来
+        # 创建redis连接对象
+        redis_conn = get_redis_connection('history')
+        # 获取当前用户
+        user = request.user
+        # 获取reids中当前用户的浏览记录
+        sku_ids = redis_conn.lrange('history_%id' % user.id, 0, -1)
+        # 把sku_id的sku模型查询出来
         # SKU.objects.filter(id_in=sku_ids)
-        sku_list=[]
+        sku_list = []
         for sku_id in sku_ids:
-            sku=SKU.objects.get(id=sku_id)
+            sku = SKU.objects.get(id=sku_id)
             sku_list.append(sku)
-        #创建序列化器，序列化
-        serializer=SKUSerializer(sku_list,many=True)
+        # 创建序列化器，序列化
+        serializer = SKUSerializer(sku_list, many=True)
 
         return Response(serializer.data)
 
 
-
-#继承drf。obt重写登录方法实现购物车合并
+# 继承drf。obt重写登录方法实现购物车合并
 class UserAuthorizeView(ObtainJSONWebToken):
 
     def post(self, request, *args, **kwargs):
@@ -214,19 +204,24 @@ class UserAuthorizeView(ObtainJSONWebToken):
                                     expires=expiration,
                                     httponly=True)
 
-            #登陆时合并购物车
+            # 登陆时合并购物车
             merge_cart_cookie_to_redis(request, user, response)
             return response
 
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 
-
 def vision(request):
     user_count = User.objects.count()
-    order_count=OrderInfo.objects.count()
+    order_count = OrderInfo.objects.count()
+    money = 0
+    order_money = OrderInfo.objects.all()
+    for item in order_money:
+        money+=item.total_amount
+
     context = {
         'user_count': user_count,
         'order_count': order_count,
+        'money': money,
     }
     return render(request, '../templates/vision.html', context)
