@@ -26,8 +26,8 @@ class ContentCategoryAdmin(admin.ModelAdmin):
 
 @admin.register(models.Content)
 class ContentAdmin(admin.ModelAdmin):
-    list_display = ['category', 'title', 'url', 'image_data', 'status', 'sequence']
-    list_editable = ['title', 'url',  'status', 'sequence']
+    list_display = ['category', 'title', 'url','image', 'image_data', 'status', 'sequence']
+    list_editable = ['title', 'url','image',  'status', 'sequence']
     search_fields = ['title']
     list_filter = ['category','title','status']
     readonly_fields = ('image_data',)

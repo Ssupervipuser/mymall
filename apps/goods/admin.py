@@ -3,6 +3,7 @@ from .models import *
 # Register your models here.
 from .static_detail import generate_static_sku_detail_html
 from .utils import generate_static_list_search_html
+from ..contents.crons import generate_static_index_html
 
 generate_static_list_search_html()
 admin.site.site_header = '优选生活管理后台'
@@ -45,9 +46,10 @@ class BrandAdmin(admin.ModelAdmin):
 
 @admin.register(Goods)
 class GoodsAdmin(admin.ModelAdmin):
-    list_display = ['brand', 'category1', 'category2', 'category3']
+    list_display = ['brand','name', 'category1', 'category2', 'category3']
     list_editable = [ 'category1', 'category2', 'category3']
     list_per_page = 10
+    generate_static_index_html()
 
 
 @admin.register(GoodsSpecification)
@@ -66,13 +68,12 @@ class SpecificationOptionAdmin(admin.ModelAdmin):
 @admin.register(SKU)
 class SKUAdmin(admin.ModelAdmin):
     """商品模型站点管理类"""
-    # def get_list_display(self, request):
-    # list_select_related = ['goods']
+
     list_display = ['id', 'name', 'goods', 'market_price', 'cost_price', 'price', 'stock', 'sales','is_launched', 'comments',
                     'image_data']
     search_fields = ['id', 'name']
     list_filter = ['category']
-    list_editable = ['market_price', 'cost_price', 'price', 'stock','is_launched']
+    list_editable = ['market_price','goods', 'cost_price', 'price', 'stock','is_launched','stock']
     readonly_fields = ('image_data',)
     list_per_page = 5
 
@@ -93,8 +94,8 @@ class SKUImageAdmin(admin.ModelAdmin):
         obj.save()
         sku = obj.sku  # 通过外键获取图片模型对象所关联的sku模型的id
         # 如果当前sku商品还没有默认图片，就给他设置一张默认图片
-        if not sku.default_image_url:
-            sku.default_image_url = obj
+        # if not sku.default_image_url:
+        #     sku.default_image_url = obj
         generate_static_sku_detail_html(sku.id)
 
     def delete_model(self, request, obj):
@@ -107,4 +108,5 @@ class SKUImageAdmin(admin.ModelAdmin):
 class SKUSpecificationAdmin(admin.ModelAdmin):
     list_display = ['sku', 'spec', 'option', ]
     list_editable = ['spec', 'option', ]
+    list_filter = ['sku']
     list_per_page = 10

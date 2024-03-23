@@ -150,10 +150,13 @@ class SKU(BaseModel):
     default_image_url = models.ImageField(max_length=200, default='', null=True, blank=True, verbose_name='默认图片')
 
     def image_data(self):
-        return format_html(
-            '<img src="{}" width="100px"/>',
-            self.default_image_url.url,
-        )
+        if self.default_image_url and hasattr(self.default_image_url, 'url'):
+            return format_html(
+                '<img src="{}" width="100px"/>',
+                self.default_image_url.url,
+            )
+
+
 
     image_data.short_description = u'图片'
 

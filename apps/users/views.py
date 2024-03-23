@@ -222,7 +222,8 @@ def get_orders(request):
             'total_count': order.total_count,
             'total_amount': order.total_amount,
             'username': order.user.username,
-            # 'quantity': order.quantity,
+            # 'status':order.ORDER_STATUS_CHOICES[order.status-1]
+            'status':order.get_status_display()
             # 'total_price': order.total_price,
         })
     return JsonResponse({'orders': orders_data})
