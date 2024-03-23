@@ -44,26 +44,21 @@
 				<input type="text" class="input_text fl" name="q" placeholder="搜索商品">
 				<input type="submit" class="input_btn fr" name="" value="搜索">
 			</form>
-{#			<ul class="search_suggest fl">#}
-{#				<li><a href="#">索尼微单</a></li>#}
-{#				<li><a href="#">优惠15元</a></li>#}
-{#				<li><a href="#">美妆个护</a></li>#}
-{#				<li><a href="#">买2免1</a></li>#}
+
+		</div>
+
+{#		<div @mouseenter="get_cart()" class="guest_cart fr">#}
+{#			<a href="#" class="cart_name fl">我的购物车</a>#}
+{#			<div class="goods_count fl" id="show_count">[[cart_total_count]]</div>#}
+{##}
+{#			<ul class="cart_goods_show">#}
+{#				<li v-for="sku in cart">#}
+{#					<img :src="sku.default_image_url" alt="商品图片">#}
+{#					<h4>[[sku.name]]</h4>#}
+{#					<div>[[sku.count]]</div>#}
+{#				</li>#}
 {#			</ul>#}
-		</div>
-
-		<div @mouseenter="get_cart()" class="guest_cart fr">
-			<a href="#" class="cart_name fl">我的购物车</a>
-			<div class="goods_count fl" id="show_count">[[cart_total_count]]</div>
-
-			<ul class="cart_goods_show">
-				<li v-for="sku in cart">
-					<img :src="sku.default_image_url" alt="商品图片">
-					<h4>[[sku.name]]</h4>
-					<div>[[sku.count]]</div>
-				</li>
-			</ul>
-		</div>
+{#		</div>#}
 
 	</div>
 
@@ -105,32 +100,16 @@
 		</div>
 	</div>
 
-	<div class="breadcrumb">
-		<a :href="cat1.url">[[cat1.category.name]]</a>
-		<span>></span>
-		<span>[[cat2.name]]</span>
-		<span>></span>
-		<a href="#">[[cat3.name]]</a>
-	</div>
+{#	<div class="breadcrumb">#}
+{#		<a :href="cat1.url">[[cat1.category.name]]</a>#}
+{#		<span>></span>#}
+{#		<span>[[cat2.name]]</span>#}
+{#		<span>></span>#}
+{#		<a href="#">[[cat3.name]]</a>#}
+{#	</div>#}
 
 	<div class="main_wrap clearfix">
-{#		<div class="l_wrap fl clearfix">#}
-{#			<div class="new_goods">#}
-{#				<h3>热销排行</h3>#}
-{#				<ul>#}
-{#					<li>#}
-{#						<a href="#"><img src="/images/goods/goods001.jpg"></a>#}
-{#						<h4><a href="#">360手机 N6 Pro 全网通 6GB+128GB 极夜黑</a></h4>#}
-{#						<div class="prize">￥3.90</div>#}
-{#					</li>#}
-{#					<li>#}
-{#						<a href="#"><img src="/images/goods/goods002.jpg"></a>#}
-{#						<h4><a href="#">360手机 N6 Pro 全网通 6GB+128GB 极夜黑</a></h4>#}
-{#						<div class="prize">￥16.80</div>#}
-{#					</li>#}
-{#				</ul>#}
-{#			</div>#}
-{#		</div>#}
+
 
 		<div class="r_wrap fr clearfix">
 			<div class="sort_bar">

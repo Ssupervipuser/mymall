@@ -3,7 +3,6 @@ from rest_framework import routers
 from rest_framework_jwt.views import obtain_jwt_token
 from rest_framework.routers import DefaultRouter
 from apps.users.views import *
-
 urlpatterns = [
     path('users/', CreateUser.as_view()),
     path('usernames/<username:username>/count/', UsernameCountView.as_view()),
@@ -17,11 +16,13 @@ urlpatterns = [
     #history
     path('browse_histories/', UserBrowserHistoryView.as_view()),        # keys * lrange history_3 0 -1
 
+    path('get_orders/', get_orders, ),
     path('vision/data/', vision, name='vision'),
 
 
 
 ]
+
 
 router = routers.DefaultRouter()
 router.register('addresses', AddressViewSet, basename='addresses')

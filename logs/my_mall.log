@@ -11608,3 +11608,1050 @@ INFO 2024-03-18 22:17:23,079 basehttp 212 "GET /admin/contents/content/ HTTP/1.1
 INFO 2024-03-18 22:17:23,175 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
 INFO 2024-03-18 22:17:27,334 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 35723
 INFO 2024-03-18 22:17:27,533 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-19 20:00:48,190 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-19 20:01:27,900 basehttp 212 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-19 20:01:28,026 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-19 20:01:28,173 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,175 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,179 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,186 basehttp 212 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,195 basehttp 212 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,199 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,416 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,416 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,417 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,418 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,418 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,418 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,433 basehttp 212 "GET /static/admin/simpleui-x/theme/theme.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,435 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,436 basehttp 212 "GET /static/admin/simpleui-x/js/menu.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,438 basehttp 212 "GET /static/admin/simpleui-x/js/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,731 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-19 20:01:28,780 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-19 20:01:28,780 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+WARNING 2024-03-19 20:01:29,292 log 241 Not Found: /favicon.ico
+WARNING 2024-03-19 20:01:29,293 basehttp 212 "GET /favicon.ico HTTP/1.1" 404 8025
+INFO 2024-03-19 20:05:51,220 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-19 20:05:52,619 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-19 20:11:13,888 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-19 20:11:15,061 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-19 20:12:44,062 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-19 20:12:44,942 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-19 20:14:14,897 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-19 20:14:15,789 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-19 20:15:24,272 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-19 20:15:25,384 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-19 20:16:13,043 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-19 20:16:14,224 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-19 20:16:17,690 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-19 20:16:18,219 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-19 20:16:28,354 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-19 20:16:28,762 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-19 20:16:46,021 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-19 20:16:46,371 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-19 20:17:09,365 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-19 20:17:12,913 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-19 20:18:21,637 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2518
+INFO 2024-03-19 20:18:24,891 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-19 20:18:26,868 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-19 20:18:28,138 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-19 20:18:30,259 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2523
+INFO 2024-03-19 20:25:54,096 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 53536
+INFO 2024-03-19 20:25:54,176 basehttp 212 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-19 20:25:54,186 basehttp 212 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-19 20:25:54,196 basehttp 212 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-19 20:25:54,198 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-19 20:25:54,199 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-03-19 20:25:54,209 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-03-19 20:25:54,212 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-03-19 20:25:54,218 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-03-19 20:25:54,220 basehttp 212 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-03-19 20:25:54,246 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-19 20:30:30,543 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 46780
+INFO 2024-03-19 20:30:30,600 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-19 20:37:03,186 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-19 20:37:04,704 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 78448
+INFO 2024-03-19 20:37:04,752 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-19 20:37:06,414 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 27548
+INFO 2024-03-19 20:37:06,463 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-19 20:37:08,391 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 75625
+INFO 2024-03-19 20:37:08,432 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-19 20:37:12,151 basehttp 212 "GET /admin/goods/goods/6/change/ HTTP/1.1" 200 26910
+INFO 2024-03-19 20:37:12,252 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-19 20:37:12,437 basehttp 212 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 1526
+INFO 2024-03-19 20:37:12,439 basehttp 212 "GET /static/ckeditor/ckeditor.css HTTP/1.1" 200 672
+INFO 2024-03-19 20:37:12,452 basehttp 212 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 759716
+INFO 2024-03-19 20:37:12,559 basehttp 212 "GET /static/ckeditor/ckeditor/config.js?t=N5UC HTTP/1.1" 200 336
+INFO 2024-03-19 20:37:12,616 basehttp 212 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=N5UC HTTP/1.1" 200 17901
+INFO 2024-03-19 20:37:12,617 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=N5UC HTTP/1.1" 200 48309
+INFO 2024-03-19 20:37:12,644 basehttp 212 "GET /static/ckeditor/ckeditor/styles.js?t=N5UC HTTP/1.1" 200 5577
+INFO 2024-03-19 20:37:12,662 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=N5UC HTTP/1.1" 200 419
+INFO 2024-03-19 20:37:12,663 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=N5UC HTTP/1.1" 200 381
+INFO 2024-03-19 20:37:12,664 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/dialog/styles/dialog.css?t=N5UC HTTP/1.1" 200 249
+INFO 2024-03-19 20:37:12,706 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=4a1fb11f44 HTTP/1.1" 200 12237
+INFO 2024-03-19 20:37:12,745 basehttp 212 "GET /static/ckeditor/ckeditor/contents.css?t=N5UC HTTP/1.1" 200 3092
+INFO 2024-03-19 20:51:07,773 basehttp 212 "GET /admin/auth/group/ HTTP/1.1" 200 29585
+INFO 2024-03-19 20:51:07,874 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-19 20:51:09,551 basehttp 212 "GET /admin/auth/group/add/ HTTP/1.1" 200 18814
+INFO 2024-03-19 20:51:09,633 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-19 20:51:09,633 basehttp 212 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-03-19 20:51:09,634 basehttp 212 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2024-03-19 20:51:09,890 basehttp 212 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-03-19 20:51:09,891 basehttp 212 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-03-19 20:51:09,891 basehttp 212 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-03-19 20:51:13,542 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 39162
+INFO 2024-03-19 20:51:13,591 basehttp 212 "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2024-03-19 20:51:13,606 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-19 20:51:14,737 basehttp 212 "GET /admin/users/user/add/ HTTP/1.1" 200 11626
+INFO 2024-03-19 20:51:14,807 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-19 22:01:17,496 basehttp 212 "GET /admin/logout/ HTTP/1.1" 200 161
+INFO 2024-03-19 22:01:18,173 basehttp 212 "GET /admin/login/ HTTP/1.1" 200 4029
+INFO 2024-03-19 22:01:18,272 basehttp 212 "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 200 500
+INFO 2024-03-19 22:01:18,343 basehttp 212 "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 200 669
+INFO 2024-03-19 22:01:18,344 basehttp 212 "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 200 3728
+INFO 2024-03-19 22:01:18,349 basehttp 212 "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 200 9547
+INFO 2024-03-19 22:01:18,353 basehttp 212 "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 200 51264
+INFO 2024-03-19 22:01:31,975 basehttp 212 "POST /admin/login/ HTTP/1.1" 200 4272
+INFO 2024-03-19 22:07:07,434 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-19 22:07:10,026 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-19 22:07:47,227 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+WARNING 2024-03-19 22:08:11,789 log 241 Bad Request: /authorizations/
+WARNING 2024-03-19 22:08:11,790 basehttp 212 "POST /authorizations/ HTTP/1.1" 400 67
+INFO 2024-03-22 21:34:07,268 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 21:34:34,936 basehttp 212 "GET / HTTP/1.1" 200 5271
+INFO 2024-03-22 21:34:34,944 basehttp 212 "GET / HTTP/1.1" 200 5271
+INFO 2024-03-22 21:34:36,013 basehttp 212 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-03-22 21:34:36,020 basehttp 212 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-03-22 21:34:36,028 basehttp 212 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-03-22 21:34:36,035 basehttp 212 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-03-22 21:34:36,041 basehttp 212 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-03-22 21:34:36,049 basehttp 212 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-03-22 21:34:36,053 basehttp 212 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-03-22 21:34:36,183 basehttp 212 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-03-22 21:34:36,213 basehttp 212 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-03-22 21:34:36,219 basehttp 212 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-03-22 21:34:36,270 basehttp 212 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-03-22 21:34:37,188 log 241 Not Found: /favicon.ico
+WARNING 2024-03-22 21:34:37,189 basehttp 212 "GET /favicon.ico HTTP/1.1" 404 8025
+INFO 2024-03-22 21:40:09,625 basehttp 212 "GET /admin HTTP/1.1" 301 0
+INFO 2024-03-22 21:40:09,719 basehttp 212 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-03-22 21:40:09,772 basehttp 212 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4042
+INFO 2024-03-22 21:40:09,953 basehttp 212 "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 200 500
+INFO 2024-03-22 21:40:09,957 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:09,958 basehttp 212 "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:09,956 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:09,962 basehttp 212 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:10,094 basehttp 212 "GET /static/admin/simpleui-x/elementui/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:10,095 basehttp 212 "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 200 669
+INFO 2024-03-22 21:40:10,098 basehttp 212 "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 200 51264
+INFO 2024-03-22 21:40:10,098 basehttp 212 "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 200 3728
+INFO 2024-03-22 21:40:10,124 basehttp 212 "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 200 9547
+INFO 2024-03-22 21:40:10,262 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:11,546 basehttp 212 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:12,640 basehttp 212 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-03-22 21:40:12,694 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 21:40:12,799 basehttp 212 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:12,800 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:12,805 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:12,807 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:12,865 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:12,876 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:12,879 basehttp 212 "GET /static/admin/simpleui-x/js/menu.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:12,880 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:12,883 basehttp 212 "GET /static/admin/simpleui-x/theme/theme.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:12,889 basehttp 212 "GET /static/admin/simpleui-x/js/index.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:12,889 basehttp 212 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.12.12 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:13,125 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2523
+INFO 2024-03-22 21:40:18,469 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 25942
+INFO 2024-03-22 21:40:18,520 basehttp 212 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:18,525 basehttp 212 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:18,529 basehttp 212 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:18,532 basehttp 212 "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:18,534 basehttp 212 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:18,537 basehttp 212 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:18,539 basehttp 212 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:18,540 basehttp 212 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:18,540 basehttp 212 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 304 0
+INFO 2024-03-22 21:40:18,555 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:40:19,564 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 25599
+INFO 2024-03-22 21:40:19,618 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:40:23,256 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 35315
+INFO 2024-03-22 21:40:23,297 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:40:28,529 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 33596
+INFO 2024-03-22 21:40:28,571 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:40:33,757 basehttp 212 "GET /admin/contents/contentcategory/1/change/ HTTP/1.1" 200 10683
+INFO 2024-03-22 21:40:33,851 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:40:39,707 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 33596
+INFO 2024-03-22 21:40:39,758 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:40:41,502 basehttp 212 "GET /admin/contents/contentcategory/2/change/ HTTP/1.1" 200 10679
+INFO 2024-03-22 21:40:41,580 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:40:43,775 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 33596
+INFO 2024-03-22 21:40:43,842 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:40:48,919 basehttp 212 "GET /admin/contents/content/?o=1 HTTP/1.1" 200 36217
+INFO 2024-03-22 21:40:49,002 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:41:16,130 basehttp 212 "GET /admin/contents/content/4/change/?_changelist_filters=o%3D1 HTTP/1.1" 200 15520
+INFO 2024-03-22 21:41:16,258 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+ERROR 2024-03-22 21:41:26,617 log 241 Internal Server Error: /admin/contents/content/4/change/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\senior_homework\graduation project\my_mall\apps\contents\admin.py", line 31, in save_model
+    generate_static_index_html()
+  File "D:\senior_homework\graduation project\my_mall\apps\contents\crons.py", line 69, in generate_static_index_html
+    html_text = template.render(context)
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\fields\files.py", line 66, in url
+    self._require_file()
+  File "D:\python_worksation\venv\Lib\site-packages\django\db\models\fields\files.py", line 41, in _require_file
+    raise ValueError(
+ValueError: The 'image' attribute has no file associated with it.
+ERROR 2024-03-22 21:41:26,631 basehttp 212 "POST /admin/contents/content/4/change/?_changelist_filters=o%3D1 HTTP/1.1" 500 277735
+INFO 2024-03-22 21:41:35,069 basehttp 212 "GET /admin/contents/content/4/change/?_changelist_filters=o%3D1 HTTP/1.1" 200 15520
+INFO 2024-03-22 21:42:15,466 basehttp 212 "POST /admin/contents/content/4/change/?_changelist_filters=o%3D1 HTTP/1.1" 200 15866
+INFO 2024-03-22 21:42:15,589 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:45:02,668 basehttp 212 "POST /admin/contents/content/4/change/?_changelist_filters=o%3D1 HTTP/1.1" 302 0
+INFO 2024-03-22 21:45:02,704 basehttp 212 "GET /admin/contents/content/?o=1 HTTP/1.1" 200 36391
+INFO 2024-03-22 21:45:02,767 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:48:04,313 basehttp 212 "GET /admin/contents/contentcategory/1/change/ HTTP/1.1" 200 10683
+INFO 2024-03-22 21:48:04,372 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:48:10,868 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 33596
+INFO 2024-03-22 21:48:10,932 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:48:15,020 basehttp 212 "GET /admin/contents/contentcategory/6/change/ HTTP/1.1" 200 10686
+INFO 2024-03-22 21:48:15,069 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:48:43,818 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1028
+INFO 2024-03-22 21:48:54,615 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1028
+INFO 2024-03-22 21:51:54,304 basehttp 212 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2024-03-22 21:51:54,354 log 241 Not Found: /cart/
+WARNING 2024-03-22 21:51:54,356 basehttp 212 "GET /cart/ HTTP/1.1" 404 8007
+INFO 2024-03-22 21:51:59,528 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1028
+INFO 2024-03-22 21:54:50,698 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 35723
+INFO 2024-03-22 21:54:50,895 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:55:27,826 basehttp 212 "GET /admin/contents/content/?p=15 HTTP/1.1" 200 29910
+INFO 2024-03-22 21:55:27,903 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:55:30,490 basehttp 212 "GET /admin/contents/content/?p=14 HTTP/1.1" 200 35660
+INFO 2024-03-22 21:55:30,551 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:55:46,368 basehttp 212 "GET /admin/contents/content/?p=10 HTTP/1.1" 200 35486
+INFO 2024-03-22 21:55:46,570 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:56:40,025 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 21:56:42,175 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 21:56:42,842 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 21:56:43,679 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 39419
+INFO 2024-03-22 21:56:44,058 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:56:49,203 basehttp 81 - Broken pipe from ('127.0.0.1', 13011)
+INFO 2024-03-22 21:56:49,249 basehttp 212 "GET /admin/contents/content/?q=%E5%A5%BD%E5%90%83 HTTP/1.1" 200 40551
+INFO 2024-03-22 21:56:49,301 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:56:56,314 basehttp 212 "GET /admin/contents/content/?p=8&q=%E5%A5%BD%E5%90%83 HTTP/1.1" 200 39012
+INFO 2024-03-22 21:56:56,399 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:57:23,361 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 21:57:24,698 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 21:57:25,447 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 21:57:25,976 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 39419
+INFO 2024-03-22 21:57:26,008 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:57:46,470 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 33596
+INFO 2024-03-22 21:57:46,516 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:58:24,217 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 39419
+INFO 2024-03-22 21:58:24,372 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 21:58:41,596 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 39419
+INFO 2024-03-22 21:58:41,786 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:00:59,949 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 22:01:01,647 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:01:02,325 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:01:03,008 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 42901
+INFO 2024-03-22 22:01:03,275 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:04:38,804 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 22:04:40,056 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:04:40,481 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:04:41,118 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 41753
+INFO 2024-03-22 22:04:41,364 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:04:56,552 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 42120
+INFO 2024-03-22 22:04:56,777 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:04:59,395 basehttp 212 "GET /admin/contents/content/?p=3 HTTP/1.1" 200 42341
+INFO 2024-03-22 22:04:59,487 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:05:01,951 basehttp 212 "GET /admin/contents/content/?p=4 HTTP/1.1" 200 42327
+INFO 2024-03-22 22:05:02,003 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:05:06,734 basehttp 212 "GET /admin/contents/content/?p=5 HTTP/1.1" 200 42316
+INFO 2024-03-22 22:05:06,783 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:05:13,849 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 33596
+INFO 2024-03-22 22:05:13,897 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:05:31,806 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:05:34,682 basehttp 212 "GET /admin/ HTTP/1.1" 200 14986
+INFO 2024-03-22 22:05:34,926 basehttp 212 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-03-22 22:05:42,174 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 20931
+INFO 2024-03-22 22:05:42,289 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:07:12,202 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-22 22:07:13,561 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:07:37,352 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-22 22:07:38,413 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:07:40,594 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 41753
+INFO 2024-03-22 22:07:40,810 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:07:54,725 basehttp 212 "GET /admin/ HTTP/1.1" 200 18683
+INFO 2024-03-22 22:07:55,069 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2523
+INFO 2024-03-22 22:08:00,606 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 41753
+INFO 2024-03-22 22:08:00,679 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:08:33,800 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:08:37,339 basehttp 212 "GET /admin/ HTTP/1.1" 200 13804
+INFO 2024-03-22 22:08:37,793 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2523
+INFO 2024-03-22 22:08:40,050 basehttp 212 "GET /admin/ HTTP/1.1" 200 13804
+INFO 2024-03-22 22:08:40,349 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2523
+INFO 2024-03-22 22:08:58,137 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-22 22:08:59,213 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:08:59,769 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:09:00,184 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 41753
+INFO 2024-03-22 22:09:00,302 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:13:16,727 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 33596
+INFO 2024-03-22 22:13:16,813 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:13:33,546 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:13:33,570 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 22:13:35,303 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:13:36,185 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 40914
+INFO 2024-03-22 22:13:36,226 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 41753
+INFO 2024-03-22 22:13:36,310 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:13:36,439 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:14:13,541 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-22 22:14:15,016 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:14:15,992 basehttp 212 "GET /admin/ HTTP/1.1" 200 13804
+INFO 2024-03-22 22:14:16,356 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2523
+INFO 2024-03-22 22:14:45,661 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-22 22:14:46,787 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:17:50,821 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:17:51,403 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 40914
+INFO 2024-03-22 22:17:51,671 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:18:49,675 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:19:05,249 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:19:10,784 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:19:11,331 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 40496
+INFO 2024-03-22 22:19:11,552 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:19:13,044 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 41753
+INFO 2024-03-22 22:19:13,081 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:19:29,099 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 41753
+INFO 2024-03-22 22:19:29,173 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:19:34,414 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 41753
+INFO 2024-03-22 22:19:34,481 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:19:39,956 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 40496
+INFO 2024-03-22 22:19:40,072 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:19:46,102 basehttp 212 "GET / HTTP/1.1" 200 5308
+INFO 2024-03-22 22:21:32,426 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 22:21:33,633 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:27:03,818 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:27:08,953 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:27:09,704 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 47240
+INFO 2024-03-22 22:27:09,971 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:27:20,033 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 22:27:21,097 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:27:35,652 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:27:37,883 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:27:38,439 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 40859
+INFO 2024-03-22 22:27:38,542 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:29:53,838 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-22 22:29:55,238 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:30:01,403 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:30:02,003 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 40859
+INFO 2024-03-22 22:30:02,293 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:30:05,381 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:30:05,698 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 40859
+INFO 2024-03-22 22:30:05,777 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:30:20,555 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-22 22:30:22,086 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:32:57,550 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-22 22:32:58,577 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:33:00,121 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:33:00,779 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 40859
+INFO 2024-03-22 22:33:00,985 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:33:03,352 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2523
+INFO 2024-03-22 22:33:09,350 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 40914
+INFO 2024-03-22 22:33:09,383 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:33:28,264 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 40859
+INFO 2024-03-22 22:33:28,434 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:33:36,299 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-22 22:33:37,496 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:41:04,645 basehttp 212 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2024-03-22 22:41:04,800 basehttp 212 "POST /carts/ HTTP/1.1" 201 39
+INFO 2024-03-22 22:41:08,114 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-22 22:41:12,607 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-22 22:41:13,246 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-22 22:41:13,650 basehttp 212 "GET /carts/ HTTP/1.1" 200 171
+INFO 2024-03-22 22:41:15,426 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2024-03-22 22:41:15,427 basehttp 212 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2024-03-22 22:41:15,477 basehttp 212 "GET /orders/settlement/ HTTP/1.1" 200 182
+INFO 2024-03-22 22:41:15,565 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+INFO 2024-03-22 22:41:19,429 basehttp 212 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2024-03-22 22:41:19,516 basehttp 212 "POST /orders/ HTTP/1.1" 201 38
+INFO 2024-03-22 22:41:24,275 basehttp 212 "OPTIONS /orders/20240322224119000000003/payment/ HTTP/1.1" 200 0
+WARNING 2024-03-22 22:41:24,308 log 241 Not Found: /orders/20240322224119000000003/payment/
+WARNING 2024-03-22 22:41:24,309 basehttp 212 "GET /orders/20240322224119000000003/payment/ HTTP/1.1" 404 8109
+WARNING 2024-03-22 22:41:33,985 log 241 Not Found: /orders/20240322224119000000003/payment/
+WARNING 2024-03-22 22:41:33,986 basehttp 212 "GET /orders/20240322224119000000003/payment/ HTTP/1.1" 404 8109
+INFO 2024-03-22 22:41:44,358 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:41:45,041 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 40859
+INFO 2024-03-22 22:41:45,286 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:41:47,058 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2523
+INFO 2024-03-22 22:45:59,108 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 22:46:01,845 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:46:02,436 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:46:03,270 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 47240
+INFO 2024-03-22 22:46:03,508 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:47:40,904 basehttp 212 "GET /admin/auth/group/ HTTP/1.1" 200 29585
+INFO 2024-03-22 22:47:41,056 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:47:43,414 basehttp 212 "GET /admin/auth/group/1/change/ HTTP/1.1" 200 19529
+INFO 2024-03-22 22:47:43,556 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:47:43,742 basehttp 212 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2024-03-22 22:47:43,742 basehttp 212 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-03-22 22:47:44,085 basehttp 212 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-03-22 22:47:44,085 basehttp 212 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-03-22 22:47:44,085 basehttp 212 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-03-22 22:48:04,452 basehttp 212 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-22 22:48:04,485 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 39162
+INFO 2024-03-22 22:48:04,568 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:48:04,597 basehttp 212 "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2024-03-22 22:48:13,505 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 40914
+INFO 2024-03-22 22:48:13,556 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:48:16,277 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 32570
+INFO 2024-03-22 22:48:16,328 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:48:18,299 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 78448
+INFO 2024-03-22 22:48:18,334 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:48:28,981 basehttp 212 "GET /admin/goods/skuspecification/34/change/ HTTP/1.1" 200 17051
+INFO 2024-03-22 22:48:29,068 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:49:26,785 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 47240
+INFO 2024-03-22 22:49:26,842 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:51:06,427 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 22:51:08,188 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:51:08,905 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:51:09,404 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 47240
+INFO 2024-03-22 22:51:09,690 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:51:29,388 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 22:51:30,607 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:51:31,055 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:51:31,588 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 40859
+INFO 2024-03-22 22:51:31,750 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:52:11,971 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 22:52:13,370 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:52:13,955 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:52:14,411 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 42107
+INFO 2024-03-22 22:52:14,513 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 22:52:23,472 basehttp 212 "POST /admin/contents/content/ HTTP/1.1" 200 72
+INFO 2024-03-22 22:52:25,555 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 42107
+INFO 2024-03-22 22:52:55,724 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 22:52:56,880 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:52:57,525 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+ERROR 2024-03-22 22:52:58,048 log 241 Internal Server Error: /admin/contents/content/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\contrib\admin\templatetags\base.py", line 45, in render
+    return super().render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\library.py", line 278, in render
+    return t.render(new_context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\defaulttags.py", line 52, in render
+    output = self.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\template\library.py", line 237, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\simpleui\templatetags\simpletags.py", line 439, in custom_button
+    for key, v in fun.__dict__.items():
+                  ^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute '__dict__'
+ERROR 2024-03-22 22:52:58,061 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 500 560611
+INFO 2024-03-22 22:53:17,869 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 22:53:18,953 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:55:01,913 autoreload 266 D:\senior_homework\graduation project\my_mall\my_mall\settings.py changed, reloading.
+INFO 2024-03-22 22:55:03,219 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 22:55:06,084 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 22:55:06,568 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 40859
+INFO 2024-03-22 22:55:06,739 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:00:00,400 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 23:00:01,976 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:00:02,525 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 23:00:03,195 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 47240
+INFO 2024-03-22 23:00:03,428 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:00:16,920 basehttp 212 "GET /admin/contents/content/?q=%E5%A5%BD%E5%90%83 HTTP/1.1" 200 48278
+INFO 2024-03-22 23:00:17,122 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:00:24,447 basehttp 212 "GET /admin/contents/content/?q=%E5%A5%BD%E5%90%83&category__id__exact=6 HTTP/1.1" 200 40901
+INFO 2024-03-22 23:00:24,545 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:00:37,867 basehttp 212 "GET /admin/contents/content/?q=%E5%A5%BD%E5%90%83 HTTP/1.1" 200 48278
+INFO 2024-03-22 23:00:37,998 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:01:00,352 basehttp 212 "GET /admin/contents/content/?o=1&q=%E5%A5%BD%E5%90%83 HTTP/1.1" 200 49001
+INFO 2024-03-22 23:01:00,483 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:01:12,952 basehttp 212 "GET /admin/contents/content/?q=%E5%A5%BD%E5%90%83&category__id__exact=8&o=1 HTTP/1.1" 200 49561
+INFO 2024-03-22 23:01:13,052 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:02:08,850 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 40914
+INFO 2024-03-22 23:02:08,920 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:02:22,823 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 32570
+INFO 2024-03-22 23:02:22,904 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:04:35,516 basehttp 212 "GET /admin/contents/contentcategory/10/change/ HTTP/1.1" 200 10691
+INFO 2024-03-22 23:04:35,650 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:04:39,340 basehttp 212 "POST /admin/contents/contentcategory/10/change/ HTTP/1.1" 302 0
+INFO 2024-03-22 23:04:39,392 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 41105
+INFO 2024-03-22 23:04:39,483 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:04:47,936 basehttp 212 "GET /admin/contents/contentcategory/11/change/ HTTP/1.1" 200 10691
+INFO 2024-03-22 23:04:48,008 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:04:51,742 basehttp 212 "POST /admin/contents/contentcategory/11/change/ HTTP/1.1" 302 0
+INFO 2024-03-22 23:04:51,770 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 41106
+INFO 2024-03-22 23:04:51,820 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:05:17,737 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 23:05:19,421 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:08:51,909 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 78448
+INFO 2024-03-22 23:08:51,967 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:09:23,810 basehttp 212 "GET /admin/contents/content/37/change/?_changelist_filters=q%3D%25E5%25A5%25BD%25E5%2590%2583%26category__id__exact%3D8%26o%3D1 HTTP/1.1" 200 15825
+INFO 2024-03-22 23:09:23,877 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:10:07,349 basehttp 212 "GET /admin/goods/skuimage/44/change/ HTTP/1.1" 200 12438
+INFO 2024-03-22 23:10:07,440 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:10:11,843 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 75625
+INFO 2024-03-22 23:10:11,884 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:10:14,521 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 46780
+INFO 2024-03-22 23:10:14,564 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:10:18,194 basehttp 212 "GET /admin/goods/sku/17/change/ HTTP/1.1" 200 19871
+INFO 2024-03-22 23:10:18,247 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:11:36,201 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-22 23:11:37,816 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:11:38,496 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 23:11:39,201 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 46780
+INFO 2024-03-22 23:11:39,346 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:11:41,511 basehttp 212 "GET /admin/goods/sku/17/change/ HTTP/1.1" 200 19871
+INFO 2024-03-22 23:11:41,564 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:11:48,202 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-22 23:11:49,513 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:12:40,771 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 23:12:42,036 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:12:44,419 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 40913
+INFO 2024-03-22 23:12:44,460 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:12:47,825 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 32570
+INFO 2024-03-22 23:12:47,866 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:12:48,526 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 47239
+INFO 2024-03-22 23:12:48,569 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:12:50,724 basehttp 212 "GET /admin/contents/content/91/change/ HTTP/1.1" 200 15941
+INFO 2024-03-22 23:12:50,785 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:13:07,906 basehttp 212 "GET /admin/contents/contentcategory/ HTTP/1.1" 200 40913
+INFO 2024-03-22 23:13:07,943 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:13:10,655 basehttp 212 "GET /admin/contents/contentcategory/24/change/ HTTP/1.1" 200 10696
+INFO 2024-03-22 23:13:10,811 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:13:14,452 basehttp 212 "GET /admin/goods/skuimage/44/change/ HTTP/1.1" 200 12438
+INFO 2024-03-22 23:13:14,523 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:13:46,731 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-22 23:13:47,897 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:13:52,488 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 27548
+INFO 2024-03-22 23:13:52,522 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:13:54,701 basehttp 212 "GET /admin/goods/brand/3/change/ HTTP/1.1" 200 11274
+INFO 2024-03-22 23:13:54,756 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:10,162 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\goods\admin.py changed, reloading.
+INFO 2024-03-22 23:14:11,408 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:14:12,027 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 23:14:12,503 basehttp 212 "GET /admin/goods/brand/ HTTP/1.1" 200 27548
+INFO 2024-03-22 23:14:12,693 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:14,781 basehttp 212 "GET /admin/goods/brand/3/change/ HTTP/1.1" 200 11767
+INFO 2024-03-22 23:14:14,870 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:24,180 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 78448
+INFO 2024-03-22 23:14:24,216 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:28,097 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 75625
+INFO 2024-03-22 23:14:28,136 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:29,399 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 46780
+INFO 2024-03-22 23:14:29,430 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:35,594 basehttp 212 "GET /vision/data/ HTTP/1.1" 200 2523
+INFO 2024-03-22 23:14:37,674 basehttp 212 "GET /admin/goods/goods/ HTTP/1.1" 200 75625
+INFO 2024-03-22 23:14:37,703 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:39,334 basehttp 212 "GET /admin/goods/goods/6/change/ HTTP/1.1" 200 26910
+INFO 2024-03-22 23:14:39,420 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:39,663 basehttp 212 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 1526
+INFO 2024-03-22 23:14:39,668 basehttp 212 "GET /static/ckeditor/ckeditor.css HTTP/1.1" 200 672
+INFO 2024-03-22 23:14:39,679 basehttp 212 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 759716
+INFO 2024-03-22 23:14:39,846 basehttp 212 "GET /static/ckeditor/ckeditor/config.js?t=N5UC HTTP/1.1" 200 336
+INFO 2024-03-22 23:14:39,899 basehttp 212 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=N5UC HTTP/1.1" 200 17901
+INFO 2024-03-22 23:14:39,901 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=N5UC HTTP/1.1" 200 48309
+INFO 2024-03-22 23:14:39,916 basehttp 212 "GET /static/ckeditor/ckeditor/styles.js?t=N5UC HTTP/1.1" 200 5577
+INFO 2024-03-22 23:14:39,943 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=N5UC HTTP/1.1" 200 381
+INFO 2024-03-22 23:14:39,944 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=N5UC HTTP/1.1" 200 419
+INFO 2024-03-22 23:14:39,945 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-22 23:14:39,950 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/dialog/styles/dialog.css?t=N5UC HTTP/1.1" 200 249
+INFO 2024-03-22 23:14:39,957 basehttp 212 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css?t=N5UC HTTP/1.1" 304 0
+INFO 2024-03-22 23:14:40,002 basehttp 212 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=4a1fb11f44 HTTP/1.1" 200 12237
+INFO 2024-03-22 23:14:40,038 basehttp 212 "GET /static/ckeditor/ckeditor/contents.css?t=N5UC HTTP/1.1" 200 3092
+INFO 2024-03-22 23:14:47,510 basehttp 212 "GET /admin/goods/sku/ HTTP/1.1" 200 46780
+INFO 2024-03-22 23:14:47,543 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:50,115 basehttp 212 "GET /admin/goods/sku/17/change/ HTTP/1.1" 200 19871
+INFO 2024-03-22 23:14:50,176 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:53,575 basehttp 212 "GET /admin/goods/goodscategory/ HTTP/1.1" 200 53536
+INFO 2024-03-22 23:14:53,610 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:56,429 basehttp 212 "GET /admin/goods/goodscategory/159/change/ HTTP/1.1" 200 12636
+INFO 2024-03-22 23:14:56,485 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:14:58,412 basehttp 212 "GET /admin/goods/goodsspecification/ HTTP/1.1" 200 31185
+INFO 2024-03-22 23:14:58,447 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:00,416 basehttp 212 "GET /admin/goods/goodsspecification/8/change/ HTTP/1.1" 200 11871
+INFO 2024-03-22 23:15:00,492 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:02,751 basehttp 212 "GET /admin/goods/goodschannel/ HTTP/1.1" 200 47964
+INFO 2024-03-22 23:15:02,799 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:06,670 basehttp 212 "GET /admin/goods/specificationoption/ HTTP/1.1" 200 38305
+INFO 2024-03-22 23:15:06,702 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:09,536 basehttp 212 "GET /admin/goods/specificationoption/21/change/ HTTP/1.1" 200 12072
+INFO 2024-03-22 23:15:09,615 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:14,935 basehttp 212 "GET /admin/goods/skuimage/ HTTP/1.1" 200 32570
+INFO 2024-03-22 23:15:14,973 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:16,719 basehttp 212 "GET /admin/goods/skuimage/44/change/ HTTP/1.1" 200 12933
+INFO 2024-03-22 23:15:16,798 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:19,534 basehttp 212 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 78448
+INFO 2024-03-22 23:15:19,574 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:21,595 basehttp 212 "GET /admin/goods/skuspecification/34/change/ HTTP/1.1" 200 17051
+INFO 2024-03-22 23:15:21,679 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:28,505 basehttp 212 "GET /admin/users/user/ HTTP/1.1" 200 39162
+INFO 2024-03-22 23:15:28,544 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:31,332 basehttp 212 "GET /admin/orders/ordergoods/ HTTP/1.1" 200 26332
+INFO 2024-03-22 23:15:31,375 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:34,983 basehttp 212 "GET /admin/orders/orderinfo/ HTTP/1.1" 200 26020
+INFO 2024-03-22 23:15:35,022 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:15:51,457 basehttp 212 "GET /admin/orders/orderinfo/20240322224119000000003/change/ HTTP/1.1" 200 15691
+INFO 2024-03-22 23:15:51,509 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:16:09,164 basehttp 212 "GET /admin/orders/ordergoods/3/change/ HTTP/1.1" 200 16746
+INFO 2024-03-22 23:16:09,247 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:16:19,643 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 47239
+INFO 2024-03-22 23:16:19,677 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:16:25,439 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 47606
+INFO 2024-03-22 23:16:25,496 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:16:36,504 basehttp 212 "GET /admin/contents/content/66/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 16032
+INFO 2024-03-22 23:16:36,622 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:18:16,941 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\models.py changed, reloading.
+INFO 2024-03-22 23:18:18,240 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:19:40,945 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\models.py changed, reloading.
+INFO 2024-03-22 23:19:42,235 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:19:42,784 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 23:19:43,571 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 47239
+INFO 2024-03-22 23:19:44,021 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:19:46,957 basehttp 212 "GET /admin/contents/content/91/change/ HTTP/1.1" 200 15480
+INFO 2024-03-22 23:19:47,016 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:21:45,262 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\models.py changed, reloading.
+INFO 2024-03-22 23:21:46,659 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:21:48,987 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 23:21:49,657 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 47239
+INFO 2024-03-22 23:21:49,842 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:21:52,161 basehttp 212 "GET /admin/contents/content/91/change/ HTTP/1.1" 200 15941
+INFO 2024-03-22 23:21:52,223 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:23:57,354 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 23:23:58,583 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:26:35,142 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\contents\admin.py changed, reloading.
+INFO 2024-03-22 23:26:36,361 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-22 23:26:37,656 basehttp 212 "GET /admin/ HTTP/1.1" 200 18354
+INFO 2024-03-22 23:26:38,299 basehttp 212 "GET /admin/contents/content/ HTTP/1.1" 200 47239
+INFO 2024-03-22 23:26:38,539 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:26:41,175 basehttp 212 "GET /admin/contents/content/?p=2 HTTP/1.1" 200 47606
+INFO 2024-03-22 23:26:41,235 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-22 23:26:47,718 basehttp 212 "GET /admin/contents/content/66/change/?_changelist_filters=p%3D2 HTTP/1.1" 200 16032
+INFO 2024-03-22 23:26:47,778 basehttp 212 "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+INFO 2024-03-23 10:23:03,714 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1028
+INFO 2024-03-23 10:25:31,219 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=price HTTP/1.1" 200 1048
+INFO 2024-03-23 10:25:32,477 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-sales HTTP/1.1" 200 1018
+INFO 2024-03-23 10:25:33,970 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1028
+INFO 2024-03-23 10:25:38,214 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=price HTTP/1.1" 200 1048
+INFO 2024-03-23 10:25:39,672 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1028
+INFO 2024-03-23 10:25:40,461 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=price HTTP/1.1" 200 1048
+INFO 2024-03-23 10:25:42,206 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-sales HTTP/1.1" 200 1018
+INFO 2024-03-23 10:26:05,606 basehttp 212 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2024-03-23 10:26:05,688 log 241 Not Found: /cart/
+WARNING 2024-03-23 10:26:05,689 basehttp 212 "GET /cart/ HTTP/1.1" 404 8007
+WARNING 2024-03-23 10:26:07,581 log 241 Not Found: /cart/
+WARNING 2024-03-23 10:26:07,581 basehttp 212 "GET /cart/ HTTP/1.1" 404 8007
+INFO 2024-03-23 10:26:09,757 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2024-03-23 10:26:10,043 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-23 10:26:11,488 basehttp 212 "OPTIONS /carts/ HTTP/1.1" 200 0
+INFO 2024-03-23 10:26:11,514 basehttp 212 "POST /carts/ HTTP/1.1" 201 39
+INFO 2024-03-23 10:26:15,072 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-23 10:26:17,919 basehttp 212 "POST /carts/ HTTP/1.1" 201 39
+INFO 2024-03-23 10:26:22,681 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+WARNING 2024-03-23 10:26:24,955 log 241 Not Found: /cart/
+WARNING 2024-03-23 10:26:24,956 basehttp 212 "GET /cart/ HTTP/1.1" 404 8007
+INFO 2024-03-23 10:27:02,897 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-23 10:27:57,673 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-23 10:30:19,289 basehttp 212 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2024-03-23 10:30:32,954 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-23 10:30:33,040 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-23 10:30:33,415 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 656
+INFO 2024-03-23 10:30:58,593 basehttp 212 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1028
+WARNING 2024-03-23 10:32:11,403 log 241 Not Found: /oauth/qq/user/
+WARNING 2024-03-23 10:32:11,404 basehttp 212 "GET /oauth/qq/user/?code=null HTTP/1.1" 404 8044
+INFO 2024-03-23 10:32:25,112 basehttp 212 "OPTIONS /payment/status/ HTTP/1.1" 200 0
+INFO 2024-03-23 10:34:01,837 basehttp 212 "OPTIONS /payment/status/ HTTP/1.1" 200 0
+INFO 2024-03-23 10:36:28,009 basehttp 212 "GET /carts/ HTTP/1.1" 200 368
+INFO 2024-03-23 10:37:13,063 basehttp 212 "GET /carts/ HTTP/1.1" 200 368
+INFO 2024-03-23 10:37:18,252 basehttp 212 "GET /carts/ HTTP/1.1" 200 368
+INFO 2024-03-23 10:38:45,996 basehttp 212 "GET /carts/ HTTP/1.1" 200 368
+INFO 2024-03-23 10:39:56,497 basehttp 212 "GET /carts/ HTTP/1.1" 200 368
+INFO 2024-03-23 10:40:03,260 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2024-03-23 10:40:03,306 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-03-23 10:40:03,323 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+INFO 2024-03-23 10:47:10,149 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-23 10:47:12,162 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 10:53:45,777 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-23 10:53:47,910 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 10:54:21,911 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-23 10:54:22,930 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 10:54:52,525 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-23 10:54:53,493 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 10:58:05,755 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-03-23 10:58:07,424 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 10:58:39,504 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\urls.py changed, reloading.
+INFO 2024-03-23 10:58:40,549 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-23 11:05:42,279 log 241 Internal Server Error: /get_orders/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\views.py", line 219, in get_orders
+    'id': order.id,
+          ^^^^^^^^
+AttributeError: 'OrderInfo' object has no attribute 'id'
+ERROR 2024-03-23 11:05:42,283 basehttp 212 "GET /get_orders/ HTTP/1.1" 500 72279
+INFO 2024-03-23 11:06:22,503 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 11:06:32,098 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:08:20,568 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:08:34,040 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:08:55,090 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 11:12:24,809 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:14:01,594 basehttp 212 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2024-03-23 11:14:02,315 basehttp 212 "POST /authorizations/ HTTP/1.1" 200 204
+INFO 2024-03-23 11:14:02,725 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-23 11:14:03,262 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 656
+INFO 2024-03-23 11:15:02,337 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:17:09,451 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:17:31,176 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:25:36,932 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:26:35,176 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:28:07,008 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:29:40,209 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:30:30,807 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:31:48,587 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:32:05,821 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 11:32:09,353 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 169
+INFO 2024-03-23 11:34:11,243 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-23 11:34:12,281 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-23 13:15:15,416 log 241 Internal Server Error: /get_orders/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\views.py", line 227, in get_orders
+    return JsonResponse({'orders': orders_data})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\http\response.py", line 731, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type User is not JSON serializable
+ERROR 2024-03-23 13:15:15,425 basehttp 212 "GET /get_orders/ HTTP/1.1" 500 103246
+INFO 2024-03-23 13:17:09,528 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-23 13:17:11,263 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-23 13:17:50,049 log 241 Internal Server Error: /get_orders/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\views.py", line 227, in get_orders
+    return JsonResponse({'orders': orders_data})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\http\response.py", line 731, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type User is not JSON serializable
+ERROR 2024-03-23 13:17:50,057 basehttp 212 "GET /get_orders/ HTTP/1.1" 500 103156
+INFO 2024-03-23 13:19:03,319 autoreload 668 Watching for file changes with StatReloader
+ERROR 2024-03-23 13:19:07,561 log 241 Internal Server Error: /get_orders/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\views.py", line 228, in get_orders
+    return JsonResponse({'orders': orders_data})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\http\response.py", line 731, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type User is not JSON serializable
+ERROR 2024-03-23 13:19:07,579 basehttp 212 "GET /get_orders/ HTTP/1.1" 500 111956
+INFO 2024-03-23 13:22:26,574 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 13:23:06,126 basehttp 212 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2024-03-23 13:23:06,165 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-23 13:23:06,433 basehttp 212 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2024-03-23 13:23:15,473 basehttp 81 - Broken pipe from ('127.0.0.1', 12576)
+ERROR 2024-03-23 13:24:13,264 log 241 Internal Server Error: /get_orders/
+Traceback (most recent call last):
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\senior_homework\graduation project\my_mall\apps\users\views.py", line 228, in get_orders
+    return JsonResponse({'orders': orders_data})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\http\response.py", line 731, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "D:\python_worksation\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\31952\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type User is not JSON serializable
+ERROR 2024-03-23 13:24:13,275 basehttp 212 "GET /get_orders/ HTTP/1.1" 500 111956
+INFO 2024-03-23 13:24:48,304 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 13:26:28,195 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 255
+INFO 2024-03-23 13:27:42,348 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-23 13:27:44,899 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 13:29:29,393 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 285
+INFO 2024-03-23 13:31:48,695 autoreload 266 D:\senior_homework\graduation project\my_mall\apps\users\views.py changed, reloading.
+INFO 2024-03-23 13:31:51,098 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 13:33:52,192 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 297
+INFO 2024-03-23 13:35:03,066 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-23 13:35:07,013 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-23 13:35:13,579 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-03-23 13:35:17,954 basehttp 212 "GET /user/ HTTP/1.1" 200 82
+INFO 2024-03-23 13:35:18,308 basehttp 212 "GET /browse_histories/ HTTP/1.1" 200 656
+INFO 2024-03-23 13:35:51,991 basehttp 212 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2024-03-23 13:35:52,051 basehttp 212 "GET /addresses/ HTTP/1.1" 200 527
+INFO 2024-03-23 13:35:52,072 basehttp 212 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2024-03-23 13:35:54,400 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 297
+INFO 2024-03-23 13:36:29,206 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 297
+INFO 2024-03-23 13:37:35,240 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 297
+INFO 2024-03-23 13:37:37,860 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 297
+INFO 2024-03-23 13:37:58,810 basehttp 212 "GET /get_orders/ HTTP/1.1" 200 297

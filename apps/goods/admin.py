@@ -39,6 +39,7 @@ class GoodsChannelAdmin(admin.ModelAdmin):
 @admin.register(Brand)
 class BrandAdmin(admin.ModelAdmin):
     list_display = ['name', 'image_data', 'first_letter', ]
+    readonly_fields = ('image_data',)
     # list_editable = ['value']
 
 
@@ -86,6 +87,7 @@ class SKUImageAdmin(admin.ModelAdmin):
     """商品图片模型站点管理"""
     list_display = ['id', 'sku', 'image_data']
     list_per_page = 10
+    readonly_fields = ('image_data',)
 
     def save_model(self, request, obj, form, change):
         obj.save()

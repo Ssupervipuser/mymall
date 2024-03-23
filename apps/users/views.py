@@ -1,3 +1,4 @@
+from django.http import JsonResponse
 from django.shortcuts import render
 from rest_framework import status
 from rest_framework.decorators import action
@@ -211,13 +212,29 @@ class UserAuthorizeView(ObtainJSONWebToken):
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 
+def get_orders(request):
+    orders = OrderInfo.objects.all()
+    orders_data = []
+    for order in orders:
+        orders_data.append({
+            'create_time': order.create_time,
+            'id': order.order_id,
+            'total_count': order.total_count,
+            'total_amount': order.total_amount,
+            'username': order.user.username,
+            # 'quantity': order.quantity,
+            # 'total_price': order.total_price,
+        })
+    return JsonResponse({'orders': orders_data})
+
+
 def vision(request):
     user_count = User.objects.count()
     order_count = OrderInfo.objects.count()
     money = 0
     order_money = OrderInfo.objects.all()
     for item in order_money:
-        money+=item.total_amount
+        money += item.total_amount
 
     context = {
         'user_count': user_count,

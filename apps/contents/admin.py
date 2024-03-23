@@ -1,4 +1,5 @@
 from django.contrib import admin
+
 from . import models
 
 # Register your models here.
@@ -10,6 +11,9 @@ class ContentCategoryAdmin(admin.ModelAdmin):
     list_display = ['name', 'key']
     list_editable = []
     list_per_page = 20
+    list_filter = ['key']
+
+
 
     def save_model(self, request, obj, form, change):
         obj.save()
@@ -22,8 +26,12 @@ class ContentCategoryAdmin(admin.ModelAdmin):
 
 @admin.register(models.Content)
 class ContentAdmin(admin.ModelAdmin):
-    list_display = ['category', 'title', 'url', 'image_data', 'status', 'text', 'sequence']
-    list_editable = ['title', 'url',  'status', 'text', 'sequence']
+    list_display = ['category', 'title', 'url', 'image_data', 'status', 'sequence']
+    list_editable = ['title', 'url',  'status', 'sequence']
+    search_fields = ['title']
+    list_filter = ['category','title','status']
+    readonly_fields = ('image_data',)
+
     list_per_page = 5
 
     def save_model(self, request, obj, form, change):
