@@ -1,3 +1,4 @@
+#购物车模块
 from django.shortcuts import render
 from rest_framework.views import APIView
 import pickle, base64

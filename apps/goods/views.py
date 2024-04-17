@@ -1,3 +1,4 @@
+#商品列表，搜索模块
 from django.shortcuts import render
 from rest_framework.filters import OrderingFilter
 from rest_framework.generics import ListAPIView

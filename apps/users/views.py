@@ -1,3 +1,4 @@
+#个人中心模块
 from django.http import JsonResponse
 from django.shortcuts import render
 from rest_framework import status
@@ -27,6 +28,12 @@ from ..carts.utils import merge_cart_cookie_to_redis
 
 class CreateUser(CreateAPIView):
     serializer_class = CreateUserSerializer
+
+
+
+
+
+
 
 
 # url(r'^mobiles/(?P<mobile>1[3-9]\d{9})/count/$', views.MobileCountView.as_view()),
@@ -67,6 +74,7 @@ class UsernameCountView(APIView):
         }
 
         return Response(data)
+
 
 
 class UserDetailView(RetrieveAPIView):
